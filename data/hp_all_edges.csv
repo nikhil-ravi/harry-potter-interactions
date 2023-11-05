@@ -1,0 +1,4214 @@
+source,target,weight
+Harry Potter,Ronald Weasley,10448
+Harry Potter,Hermione Granger,9019
+Hermione Granger,Ronald Weasley,6593
+Albus Dumbledore,Harry Potter,3870
+Harry Potter,Rubeus Hagrid,2228
+Harry Potter,Tom Riddle,2085
+Harry Potter,Severus Snape,2010
+Harry Potter,Sirius Black,1642
+Draco Malfoy,Harry Potter,1306
+Fred Weasley,George Weasley,1230
+Ginevra Weasley,Harry Potter,1011
+Harry Potter,Neville Longbottom,931
+Hermione Granger,Rubeus Hagrid,873
+Harry Potter,Remus Lupin,845
+Harry Potter,Molly Weasley,801
+Cho Chang,Harry Potter,777
+Dolores Umbridge,Harry Potter,774
+Albus Dumbledore,Tom Riddle,738
+Ronald Weasley,Rubeus Hagrid,732
+Fred Weasley,Harry Potter,728
+Godric Gryffindor,Harry Potter,691
+George Weasley,Harry Potter,687
+Dobby,Harry Potter,680
+Harry Potter,Minerva McGonagall,680
+Ginevra Weasley,Ronald Weasley,573
+Fred Weasley,Ronald Weasley,559
+Albus Dumbledore,Severus Snape,554
+Cedric Diggory,Harry Potter,544
+Alastor Moody,Harry Potter,543
+Harry Potter,Horace Slughorn,529
+Harry Potter,Vernon Dursley,521
+George Weasley,Ronald Weasley,469
+Draco Malfoy,Ronald Weasley,467
+Harry Potter,Luna Lovegood,455
+Dudley Dursley,Harry Potter,448
+Ginevra Weasley,Hermione Granger,404
+Harry Potter,Hedwig,401
+Gregory Goyle,Vincent Crabbe,386
+Ronald Weasley,Severus Snape,385
+Albus Dumbledore,Hermione Granger,384
+Albus Dumbledore,Ronald Weasley,356
+Harry Potter,Sybill Trelawney,344
+Cornelius Fudge,Harry Potter,334
+Argus Filch,Harry Potter,323
+Molly Weasley,Ronald Weasley,323
+Harry Potter,Percy Weasley,323
+Harry Potter,Kreacher,321
+Hermione Granger,Sirius Black,319
+Ronald Weasley,Sirius Black,307
+Gilderoy Lockhart,Harry Potter,306
+Draco Malfoy,Vincent Crabbe,288
+Draco Malfoy,Gregory Goyle,279
+Cornelius Fudge,Prime Minister,276
+Harry Potter,Viktor Krum,275
+Harry Potter,Nymphadora Tonks,274
+Neville Longbottom,Ronald Weasley,268
+Bartemius Crouch Senior,Harry Potter,263
+Albus Dumbledore,Cornelius Fudge,263
+Hermione Granger,Severus Snape,262
+Fred Weasley,Hermione Granger,262
+Hermione Granger,Neville Longbottom,260
+Draco Malfoy,Hermione Granger,256
+Albus Dumbledore,Rubeus Hagrid,248
+Severus Snape,Sirius Black,245
+Gregory Goyle,Harry Potter,234
+Petunia Dursley,Vernon Dursley,234
+Dolores Umbridge,Hermione Granger,230
+Minerva McGonagall,Ronald Weasley,230
+Harry Potter,Vincent Crabbe,229
+Hermione Granger,Tom Riddle,228
+Ronald Weasley,Tom Riddle,226
+Harry Potter,Petunia Dursley,224
+Draco Malfoy,Severus Snape,222
+Harry Potter,Oliver Wood,221
+Harry Potter,Salazar Slytherin,217
+Harry Potter,William Weasley,214
+Albus Dumbledore,Sirius Black,214
+Aberforth Dumbledore,Harry Potter,213
+Dean Thomas,Harry Potter,212
+Fleur Delacour,Harry Potter,207
+Remus Lupin,Sirius Black,207
+Percy Weasley,Ronald Weasley,206
+Harry Potter,Rufus Scrimgeour,204
+George Weasley,Hermione Granger,203
+Arthur Weasley,Harry Potter,198
+Harry Potter,Seamus Finnigan,197
+Griphook,Harry Potter,197
+Albus Dumbledore,Draco Malfoy,195
+Harry Potter,Lavender Brown,194
+Harry Potter,Rita Skeeter,193
+Hermione Granger,Rita Skeeter,190
+Harry Potter,Ludovic Bagman,189
+Godric Gryffindor,Ronald Weasley,187
+Remus Lupin,Severus Snape,185
+Buckbeak,Harry Potter,184
+Bellatrix Lestrange,Harry Potter,184
+Lavender Brown,Ronald Weasley,178
+Hermione Granger,Molly Weasley,177
+Harry Potter,Lucius Malfoy,173
+Harry Potter,Poppy Pomfrey,167
+Godric Gryffindor,Hermione Granger,166
+Remus Lupin,Ronald Weasley,166
+Dudley Dursley,Petunia Dursley,162
+Harry Potter,Quirinus Quirrell,161
+Albus Dumbledore,Minerva McGonagall,158
+Hermione Granger,Remus Lupin,157
+Gilderoy Lockhart,Ronald Weasley,153
+Fred Weasley,Ginevra Weasley,151
+Ginevra Weasley,Neville Longbottom,150
+Godric Gryffindor,Oliver Wood,148
+Dudley Dursley,Vernon Dursley,145
+Fleur Delacour,William Weasley,145
+Lily J. Potter,Severus Snape,140
+Luna Lovegood,Ronald Weasley,138
+George Weasley,Ginevra Weasley,135
+Godric Gryffindor,Neville Longbottom,134
+Peter Pettigrew,Sirius Black,134
+Hermione Granger,Luna Lovegood,134
+Hermione Granger,Viktor Krum,132
+Harry Potter,Peter Pettigrew,132
+Father Christmas,Harry Potter,130
+Peter Pettigrew,Remus Lupin,130
+Hermione Granger,Minerva McGonagall,130
+Dean Thomas,Ronald Weasley,130
+Harry Potter,Myrtle Warren,130
+Harry Potter,Mundungus Fletcher,129
+Harry Potter,Winky,127
+Angelina Johnson,Harry Potter,127
+Kreacher,Sirius Black,125
+Garrick Ollivander,Harry Potter,125
+Alastor Moody,Albus Dumbledore,124
+Cho Chang,Ronald Weasley,124
+Gregory Goyle,Ronald Weasley,122
+Harry Potter,Peeves,120
+Albus Dumbledore,Horace Slughorn,119
+Nymphadora Tonks,Remus Lupin,116
+Fred Weasley,Molly Weasley,113
+Harry Potter,Phineas Nigellus Black,112
+Sirius Black,Tom Riddle,112
+Fang,Rubeus Hagrid,111
+Ronald Weasley,William Weasley,110
+Harry Potter,Prime Minister,110
+Dean Thomas,Seamus Finnigan,110
+Ronald Weasley,Vincent Crabbe,109
+Severus Snape,Tom Riddle,109
+Ronald Weasley,Viktor Krum,105
+Bathilda Bagshot,Harry Potter,105
+Albus Dumbledore,Bartemius Crouch Senior,105
+Harry Potter,Igor Karkaroff,104
+Ariana Dumbledore,Harry Potter,103
+Bellatrix Lestrange,Severus Snape,103
+Draco Malfoy,Rubeus Hagrid,102
+Fang,Harry Potter,102
+Argus Filch,Severus Snape,101
+Cormac McLaggen,Harry Potter,101
+Ginevra Weasley,Molly Weasley,100
+Cho Chang,Hermione Granger,100
+Molly Weasley,William Weasley,100
+Olympe Maxime,Rubeus Hagrid,100
+Crookshanks,Harry Potter,100
+Harry Potter,Xenophilius Lovegood,98
+Colin Creevey,Harry Potter,97
+Bartemius Crouch Senior,Winky,96
+Horace Slughorn,Ronald Weasley,95
+Fred Weasley,Percy Weasley,95
+George Weasley,Molly Weasley,95
+Fat Lady,Harry Potter,94
+Ginevra Weasley,Luna Lovegood,93
+Hermione Granger,Xenophilius Lovegood,93
+Harry Potter,Katie Bell,92
+Borgin,Harry Potter,92
+Lavender Brown,Parvati Patil,91
+Ronald Weasley,Seamus Finnigan,90
+Bartemius Crouch Senior,Ronald Weasley,90
+James Potter I,Severus Snape,90
+Dolores Umbridge,Ronald Weasley,90
+Godric Gryffindor,Minerva McGonagall,89
+Gilderoy Lockhart,Hermione Granger,89
+Ronald Weasley,Sybill Trelawney,89
+Kreacher,Regulus Black,88
+Harry Potter,James Potter I,87
+Neville Longbottom,Severus Snape,87
+Hermione Granger,Horace Slughorn,86
+Fawkes,Harry Potter,86
+Fleur Delacour,Ronald Weasley,86
+Harry Potter,Rolanda Hooch,85
+Buckbeak,Hermione Granger,85
+Molly Weasley,Sirius Black,84
+Fenrir Greyback,Harry Potter,83
+Hermione Granger,Kreacher,83
+Harry Potter,Parvati Patil,82
+Albus Dumbledore,Remus Lupin,82
+Hermione Granger,Percy Weasley,82
+Harry Potter,Sorting Hat,81
+Arthur Weasley,Molly Weasley,81
+Filius Flitwick,Harry Potter,80
+Cornelius Fudge,Tom Riddle,80
+Alastor Moody,Ronald Weasley,80
+Bartemius Crouch Senior,Hermione Granger,80
+Hermione Granger,Lavender Brown,79
+Crookshanks,Ronald Weasley,79
+Harry Potter,Kingsley Shacklebolt,79
+Albus Dumbledore,Dolores Umbridge,78
+Harry Potter,Olympe Maxime,78
+Luna Lovegood,Neville Longbottom,78
+Hermione Granger,Sybill Trelawney,77
+Quirinus Quirrell,Severus Snape,77
+Minerva McGonagall,Rubeus Hagrid,77
+Horace Slughorn,Tom Riddle,77
+Griphook,Hermione Granger,77
+Harry Potter,Lily J. Potter,77
+Crookshanks,Hermione Granger,75
+James Potter I,Sirius Black,72
+Cho Chang,Marietta Edgecombe,72
+James Potter I,Lily J. Potter,71
+Rubeus Hagrid,Severus Snape,70
+Albus Dumbledore,Molly Weasley,70
+Alastor Moody,Bartemius Crouch Senior,69
+George Weasley,Percy Weasley,69
+Argus Filch,Ronald Weasley,69
+Dobby,Ronald Weasley,69
+Harry Potter,Helga Hufflepuff,69
+Hermione Granger,William Weasley,68
+Molly Weasley,Remus Lupin,68
+Gregory Goyle,Hermione Granger,67
+Harry Potter,Rowena Ravenclaw,67
+Rubeus Hagrid,Tom Riddle,67
+Lucius Malfoy,Tom Riddle,67
+Charles Weasley,Harry Potter,66
+Harry Potter,Mykew Gregorovitch,66
+Cedric Diggory,Viktor Krum,66
+Dolores Umbridge,Rubeus Hagrid,66
+Peter Pettigrew,Ronald Weasley,66
+Cornelius Fudge,Sirius Black,65
+Albus Dumbledore,Igor Karkaroff,64
+Minerva McGonagall,Severus Snape,63
+Harry Potter,Pigwidgeon,63
+Arabella Figg,Harry Potter,63
+Bartemius Crouch Senior,Ludovic Bagman,62
+Cedric Diggory,Cho Chang,62
+Draco Malfoy,Salazar Slytherin,61
+Draco Malfoy,Neville Longbottom,61
+Hedwig,Ronald Weasley,61
+Ernest Macmillan,Harry Potter,61
+Ginevra Weasley,Percy Weasley,60
+Fleur Delacour,Molly Weasley,60
+Argus Filch,Hermione Granger,60
+Father Christmas,Ronald Weasley,60
+Dolores Umbridge,Severus Snape,60
+Fred Weasley,Lee Jordan,60
+Igor Karkaroff,Severus Snape,59
+Charles Weasley,William Weasley,59
+Arthur Weasley,Ronald Weasley,58
+Alastor Moody,Hermione Granger,58
+Neville Longbottom,Remus Lupin,58
+Neville Longbottom,Seamus Finnigan,58
+Hermione Granger,Winky,58
+Hermione Granger,Vincent Crabbe,58
+Dobby,Hermione Granger,58
+Harry Potter,Mrs Norris,57
+Albus Dumbledore,Sybill Trelawney,57
+Buckbeak,Ronald Weasley,57
+Grawp,Harry Potter,57
+Rita Skeeter,Rubeus Hagrid,57
+Draco Malfoy,Horace Slughorn,56
+Ariana Dumbledore,Gellert Grindelwald,56
+Amos Diggory,Harry Potter,56
+Griphook,Ronald Weasley,56
+Bartemius Crouch Senior,Percy Weasley,56
+Ginevra Weasley,Tom Riddle,55
+Angelina Johnson,Ronald Weasley,55
+Dolores Umbridge,Minerva McGonagall,55
+Albus Dumbledore,Cole,55
+Hepzibah Smith,Tom Riddle,54
+Harry Potter,Justin Finch-Fletchley,54
+Grawp,Rubeus Hagrid,54
+Godric Gryffindor,Salazar Slytherin,53
+Fleur Delacour,Viktor Krum,53
+Kreacher,Ronald Weasley,53
+Harry Potter,Pansy Parkinson,52
+Dean Thomas,Neville Longbottom,52
+Buckbeak,Rubeus Hagrid,52
+Ronald Weasley,Salazar Slytherin,52
+Oliver Wood,Ronald Weasley,51
+Ronald Weasley,Xenophilius Lovegood,51
+Harry Potter,Lee Jordan,51
+Hermione Granger,Nymphadora Tonks,50
+Filius Flitwick,Minerva McGonagall,50
+Albus Dumbledore,Cedric Diggory,50
+Argus Filch,Mrs Norris,50
+Buckbeak,Sirius Black,49
+Eileen Prince,Harry Potter,49
+Alastor Moody,Rubeus Hagrid,49
+James Potter I,Remus Lupin,48
+Cassandra Trelawney,Dolores Umbridge,48
+Fang,Ronald Weasley,48
+Albus Dumbledore,Poppy Pomfrey,48
+Firenze,Harry Potter,48
+Charles Weasley,Ronald Weasley,48
+Fleur Delacour,Hermione Granger,48
+Molly Weasley,Rubeus Hagrid,47
+Hedwig,Hermione Granger,46
+Dean Thomas,Ginevra Weasley,46
+Harry Potter,Pomona Sprout,45
+Poppy Pomfrey,Ronald Weasley,45
+Albus Dumbledore,Gellert Grindelwald,45
+Albus Dumbledore,Rufus Scrimgeour,45
+Pigwidgeon,Ronald Weasley,45
+George Weasley,Lee Jordan,45
+Barry Ryan,Bartemius Crouch Senior,44
+Nymphadora Tonks,Ronald Weasley,44
+Father Christmas,Hermione Granger,44
+Hermione Granger,Phineas Nigellus Black,44
+Hermione Granger,Poppy Pomfrey,44
+Draco Malfoy,Ginevra Weasley,44
+Myrtle Warren,Ronald Weasley,44
+Firenze,Rubeus Hagrid,44
+Dean Thomas,Hermione Granger,43
+Argus Filch,Peeves,43
+Albus Dumbledore,Vernon Dursley,43
+Cornelius Fudge,Dolores Umbridge,43
+Bellatrix Lestrange,Tom Riddle,42
+Draco Malfoy,Fred Weasley,42
+Albus Dumbledore,Lucius Malfoy,42
+Blaise Zabini,Harry Potter,42
+Draco Malfoy,George Weasley,42
+Mark Evans,Severus Snape,41
+Albus Dumbledore,William Weasley,41
+Dean Thomas,Luna Lovegood,41
+Bellatrix Lestrange,Hermione Granger,41
+Hermione Granger,Myrtle Warren,41
+Ronald Weasley,Winky,41
+Horace Slughorn,Rubeus Hagrid,40
+Draco Malfoy,Minerva McGonagall,40
+Cedric Diggory,Fleur Delacour,40
+Harry Potter,Helena Ravenclaw,40
+Filius Flitwick,Hermione Granger,40
+Fred Weasley,William Weasley,40
+Alastor Moody,Severus Snape,39
+Bartemius Crouch Senior,Sirius Black,39
+Morfin Gaunt,Tom Riddle,39
+Harry Potter,Kendra Dumbledore,39
+George Weasley,Oliver Wood,39
+Garrick Ollivander,Tom Riddle,39
+Albus Dumbledore,Rita Skeeter,39
+Rita Skeeter,Ronald Weasley,39
+Ludovic Bagman,Ronald Weasley,38
+Merope Riddle,Tom Riddle,38
+Phineas Nigellus Black,Sirius Black,38
+Albus Dumbledore,Percy Weasley,38
+Filius Flitwick,Ronald Weasley,38
+Hermione Granger,Rufus Scrimgeour,37
+Borgin,Draco Malfoy,37
+Hermione Granger,Lucius Malfoy,37
+Hermione Granger,Seamus Finnigan,37
+Alastor Moody,Minerva McGonagall,36
+Harry Potter,Zacharias Smith,36
+Cornelius Fudge,Hermione Granger,36
+Dobby,Lucius Malfoy,36
+George Weasley,William Weasley,36
+Dolores Umbridge,Draco Malfoy,36
+Gilderoy Lockhart,Severus Snape,36
+Lily J. Potter,Sirius Black,36
+Ginevra Weasley,Nymphadora Tonks,36
+Mundungus Fletcher,Ronald Weasley,36
+Molly Weasley,Percy Weasley,36
+Albus Dumbledore,Prime Minister,36
+Draco Malfoy,Pansy Parkinson,36
+Angelina Johnson,Fred Weasley,35
+Albus Dumbledore,Argus Filch,35
+Fleur Delacour,Luna Lovegood,35
+Errol,Ronald Weasley,35
+Parvati Patil,Ronald Weasley,35
+Luna Lovegood,Xenophilius Lovegood,35
+Angelina Johnson,Katie Bell,35
+Alicia Spinnet,Angelina Johnson,35
+Alastor Moody,Igor Karkaroff,35
+Dolores Umbridge,Sirius Black,35
+Hermione Granger,Parvati Patil,35
+Gilderoy Lockhart,Ginevra Weasley,35
+Cedric Diggory,Ronald Weasley,35
+Ronald Weasley,Rufus Scrimgeour,35
+Albus Dumbledore,Olympe Maxime,35
+Cormac McLaggen,Hermione Granger,35
+Bob Ogden,Morfin Gaunt,34
+Corban Yaxley,Harry Potter,34
+Harry Potter,Regulus Black,34
+Aragog,Rubeus Hagrid,34
+Harry Potter,Muriel,34
+Harry Potter,Nicolas Flamel,34
+Remus Lupin,Tom Riddle,34
+Bartemius Crouch Senior,Severus Snape,34
+Ginevra Weasley,William Weasley,34
+Alastor Moody,Winky,34
+Nymphadora Tonks,Sirius Black,34
+Fred Weasley,Oliver Wood,34
+Albus Dumbledore,Godric Gryffindor,33
+Bathilda Bagshot,Hermione Granger,33
+Argus Filch,Dolores Umbridge,33
+Remus Lupin,William Weasley,33
+Mundungus Fletcher,Sirius Black,33
+Penelope Clearwater,Percy Weasley,33
+Dobby,Winky,33
+Albus Dumbledore,Rosmerta,33
+Minerva McGonagall,Neville Longbottom,33
+Gellert Grindelwald,Harry Potter,33
+Ginevra Weasley,Horace Slughorn,33
+Harry Potter,Mary Cattermole,32
+Arcturus Black III,Regulus Black,32
+Dolores Umbridge,George Weasley,32
+Alastor Moody,Neville Longbottom,32
+Dolores Umbridge,Fred Weasley,32
+Cornelius Fudge,Severus Snape,32
+Remus Lupin,Rubeus Hagrid,32
+Harry Potter,Ted,32
+Bellatrix Lestrange,Sirius Black,32
+Dolores Umbridge,Sybill Trelawney,32
+Rubeus Hagrid,Sirius Black,32
+Aberforth Dumbledore,Ronald Weasley,31
+Olympe Maxime,Ronald Weasley,31
+Cornelius Fudge,Minerva McGonagall,31
+Albus Dumbledore,Kreacher,31
+Bane,Harry Potter,31
+Mrs Norris,Ronald Weasley,31
+Fred Weasley,Godric Gryffindor,31
+Albus Dumbledore,Ginevra Weasley,31
+Aberforth Dumbledore,Albus Dumbledore,31
+Aragog,Harry Potter,31
+Albus Potter,Harry Potter,31
+Molly Weasley,Nymphadora Tonks,30
+Aberforth Dumbledore,Hermione Granger,30
+Hermione Granger,Ludovic Bagman,30
+Albus Dumbledore,Fawkes,30
+Alastor Moody,Nymphadora Tonks,30
+Salazar Slytherin,Tom Riddle,30
+Percy Weasley,William Weasley,30
+Demelza Robins,Harry Potter,30
+Bathilda Bagshot,Godric Gryffindor,30
+Godric Gryffindor,Severus Snape,30
+Albus Dumbledore,Neville Longbottom,30
+Firenze,Hermione Granger,30
+Dolores Umbridge,Prime Minister,30
+Igor Karkaroff,Olympe Maxime,30
+Minerva McGonagall,William Weasley,30
+Charles Weasley,Fred Weasley,30
+Amos Diggory,Winky,30
+Godric Gryffindor,Katie Bell,29
+Harry Potter,Marietta Edgecombe,29
+Argus Filch,Draco Malfoy,29
+James Potter I,Peter Pettigrew,29
+James Potter I,Mark Evans,29
+Filius Flitwick,Pomona Sprout,29
+Arabella Figg,Mundungus Fletcher,29
+Gringotts Head Goblin,Harry Potter,29
+Horace Slughorn,Severus Snape,29
+Hermione Granger,Pansy Parkinson,29
+Albus Dumbledore,Marietta Edgecombe,29
+Horace Slughorn,Neville Longbottom,29
+Albus Dumbledore,Winky,29
+Corban Yaxley,Hermione Granger,29
+Alicia Spinnet,Katie Bell,29
+Blaise Zabini,Horace Slughorn,29
+Ginevra Weasley,Godric Gryffindor,29
+Harry Potter,Stanley Shunpike,29
+Draco Malfoy,Godric Gryffindor,29
+Cornelius Fudge,Ronald Weasley,29
+Cedric Diggory,Hermione Granger,29
+Harry Potter,Marcus Flint,28
+Charles Weasley,Percy Weasley,28
+Lucius Malfoy,Ronald Weasley,28
+Nicolas Flamel,Ronald Weasley,28
+Godric Gryffindor,Rowena Ravenclaw,28
+Igor Karkaroff,Ronald Weasley,28
+Harry Potter,Tofty,28
+Bartemius Crouch Senior,Tom Riddle,28
+Harry Potter,Roger Davies,28
+Lily J. Potter,Mark Evans,28
+Padma Patil,Ronald Weasley,28
+Albus Dumbledore,Arthur Weasley,27
+Bartemius Crouch Senior,Igor Karkaroff,27
+Fleur Delacour,Ginevra Weasley,27
+Luna Lovegood,Minerva McGonagall,27
+Katie Bell,Ronald Weasley,27
+George Weasley,Godric Gryffindor,27
+Albus Dumbledore,Petunia Dursley,27
+Dedalus Diggle,Harry Potter,27
+Cuthbert Binns,Harry Potter,27
+Alastor Moody,Remus Lupin,27
+Harry Potter,Mark Evans,27
+Igor Karkaroff,Viktor Krum,27
+George Weasley,Rolanda Hooch,27
+Eileen Prince,Hermione Granger,27
+Minerva McGonagall,Pomona Sprout,27
+Dolores Umbridge,Rolanda Hooch,26
+Harry Potter,Padma Patil,26
+Alicia Spinnet,Harry Potter,26
+Elphias Doge,Harry Potter,26
+Aberforth Dumbledore,Rita Skeeter,26
+Albus Dumbledore,Phineas Nigellus Black,26
+Cole,Tom Riddle,26
+Albus Dumbledore,Nymphadora Tonks,26
+Fluffy,Harry Potter,26
+Igor Karkaroff,Sirius Black,26
+Firenze,Ronald Weasley,26
+Arthur Weasley,Sirius Black,26
+Cuthbert Binns,Hermione Granger,26
+Peeves,Ronald Weasley,26
+Minerva McGonagall,Oliver Wood,26
+Albus Dumbledore,Fenrir Greyback,26
+Harry Potter,Nagini,25
+Minerva McGonagall,Sybill Trelawney,25
+Molly Weasley,Mundungus Fletcher,25
+Cedric Diggory,Tom Riddle,25
+Draco Malfoy,Tom Riddle,25
+Kreacher,Tom Riddle,25
+Ronald Weasley,Vernon Dursley,25
+Alastor Moody,Godric Gryffindor,25
+Ernest Macmillan,Helga Hufflepuff,25
+Godric Gryffindor,Rolanda Hooch,25
+Ginevra Weasley,Remus Lupin,25
+Draco Malfoy,Sirius Black,25
+Godric Gryffindor,Helga Hufflepuff,25
+Albus Dumbledore,Viktor Krum,25
+Lucius Malfoy,Severus Snape,25
+Albus Dumbledore,Bellatrix Lestrange,24
+Nagini,Tom Riddle,24
+Dudley Dursley,Piers Polkiss,24
+Dobby,Kreacher,24
+Lily J. Potter,Petunia Dursley,24
+Fat Lady,Ronald Weasley,24
+Albus Dumbledore,Fred Weasley,24
+Harry Potter,Morfin Gaunt,24
+Grawp,Hermione Granger,24
+Hermione Granger,Olympe Maxime,24
+Angelina Johnson,Godric Gryffindor,24
+Albus Dumbledore,Lily J. Potter,24
+Charles Weasley,Hermione Granger,24
+Harry Potter,Will,23
+Arthur Weasley,Fred Weasley,23
+Lavender Brown,Sybill Trelawney,23
+Bogrod,Harry Potter,23
+Arthur Weasley,Nymphadora Tonks,23
+Hermione Granger,Katie Bell,23
+Harry Potter,Travers,23
+Borgin,Hermione Granger,23
+Albus Dumbledore,Mark Evans,23
+Kreacher,Mundungus Fletcher,23
+Blast-Ended Skrewt,Harry Potter,23
+Fred Weasley,Mundungus Fletcher,23
+Ginevra Weasley,Michael Corner,23
+Hermione Granger,Salazar Slytherin,23
+Lee Jordan,Ronald Weasley,22
+Antonin Dolohov,Harry Potter,22
+Harper,Harry Potter,22
+Hermione Granger,Peeves,22
+Errol,Harry Potter,22
+Minerva McGonagall,Poppy Pomfrey,22
+Bartemius Crouch Senior,Bertha Jorkins,22
+Helga Hufflepuff,Rowena Ravenclaw,22
+Cadogan,Harry Potter,22
+Kingsley Shacklebolt,Remus Lupin,22
+Pansy Parkinson,Ronald Weasley,22
+Ginevra Weasley,Minerva McGonagall,22
+Angelina Johnson,George Weasley,22
+Helga Hufflepuff,Ronald Weasley,22
+Cho Chang,Dolores Umbridge,22
+George Weasley,Remus Lupin,22
+Albus Dumbledore,Merope Riddle,22
+Bartemius Crouch Senior,Cornelius Fudge,22
+Penelope Clearwater,Rowena Ravenclaw,22
+Harry Potter,Ignotus Peverell,21
+Draco Malfoy,Rolanda Hooch,21
+Hermione Granger,Regulus Black,21
+Dolores Umbridge,Marietta Edgecombe,21
+Albus Dumbledore,Kingsley Shacklebolt,21
+Michael Corner,Ronald Weasley,21
+Bartemius Crouch Junior,Prime Minister,21
+Hermione Granger,Oliver Wood,21
+Alastor Moody,Draco Malfoy,21
+Dean Thomas,Dolores Umbridge,21
+Bertha Jorkins,Harry Potter,21
+Lily J. Potter,Tom Riddle,21
+Helga Hufflepuff,Salazar Slytherin,21
+Bellatrix Lestrange,Neville Longbottom,21
+Argus Filch,Rubeus Hagrid,21
+Salazar Slytherin,Severus Snape,21
+Demelza Robins,Ronald Weasley,21
+Fleur Delacour,Roger Davies,21
+Bartemius Crouch Senior,Viktor Krum,21
+Hermione Granger,Mundungus Fletcher,21
+Charles Weasley,George Weasley,21
+Harry Potter,Mungo Bonham,21
+Cormac McLaggen,Ronald Weasley,21
+Albus Dumbledore,Elphias Doge,21
+Fat Lady,Hermione Granger,21
+Fang,Hermione Granger,20
+Cormac McLaggen,Horace Slughorn,20
+Nymphadora Tonks,William Weasley,20
+Cornelius Fudge,Percy Weasley,20
+Percy Weasley,Rowena Ravenclaw,20
+Cho Chang,Roger Davies,20
+Harry Potter,Rosmerta,20
+Dolores Umbridge,Godric Gryffindor,20
+Fred Weasley,Sirius Black,20
+Lucius Malfoy,Rubeus Hagrid,20
+Albus Potter,Ginevra Weasley,20
+Prime Minister,Tom Riddle,20
+Regulus Black,Tom Riddle,20
+Fred Weasley,Rubeus Hagrid,20
+Garrick Ollivander,Ronald Weasley,20
+Mykew Gregorovitch,Tom Riddle,20
+Alicia Spinnet,Fred Weasley,20
+Filius Flitwick,Rubeus Hagrid,20
+Dolores Umbridge,Mary Cattermole,20
+Bartemius Crouch Junior,Herbert Chorley,20
+Fred Weasley,Ludovic Bagman,20
+Ronald Weasley,Snatchers,20
+George Weasley,Mundungus Fletcher,20
+Cedric Diggory,Helga Hufflepuff,20
+Neville Longbottom,Sirius Black,20
+Alastor Moody,Fred Weasley,20
+George Weasley,Ludovic Bagman,20
+Beedle the Bard,Hermione Granger,20
+Prime Minister,Sirius Black,20
+Lily J. Potter,Peter Pettigrew,19
+Elphias Doge,Muriel,19
+Mykew Gregorovitch,Viktor Krum,19
+Ginevra Weasley,Rubeus Hagrid,19
+Draco Malfoy,Father Christmas,19
+Fluffy,Rubeus Hagrid,19
+Minerva McGonagall,Sirius Black,19
+Hermione Granger,Kingsley Shacklebolt,19
+Albus Dumbledore,Morfin Gaunt,19
+Hermione Granger,Quirinus Quirrell,19
+Filius Flitwick,Severus Snape,19
+George Weasley,Kreacher,19
+Hermione Granger,Rowena Ravenclaw,19
+Cuthbert Binns,Ronald Weasley,19
+Hannah Abbott,Harry Potter,19
+Hermione Granger,Peter Pettigrew,19
+Ernest Macmillan,Ronald Weasley,19
+Regulus Black,Sirius Black,19
+Aragog,Ronald Weasley,18
+Bartemius Crouch Senior,Prime Minister,18
+Helga Hufflepuff,Zacharias Smith,18
+Cho Chang,Ginevra Weasley,18
+Dean Thomas,Fleur Delacour,18
+Draco Malfoy,Fenrir Greyback,18
+Arthur Weasley,George Weasley,18
+Fred Weasley,Katie Bell,18
+Crookshanks,Ginevra Weasley,18
+Parvati Patil,Sybill Trelawney,18
+Hermione Granger,Michael Corner,18
+Katie Bell,Leanne,18
+Pomona Sprout,Ronald Weasley,18
+Peter Pettigrew,Tom Riddle,18
+Dudley Dursley,Ronald Weasley,18
+Dolores Umbridge,Ginevra Weasley,18
+Alastor Moody,Sirius Black,18
+Caractacus Burke,Hepzibah Smith,18
+Caractacus Burke,Tom Riddle,18
+Godric Gryffindor,Griphook,18
+Bartemius Crouch Senior,Buckbeak,18
+Ludovic Bagman,Viktor Krum,18
+Hermione Granger,Pomona Sprout,18
+Horace Slughorn,Marcus Belby,18
+Molly Weasley,Tom Riddle,18
+Herbert Chorley,Prime Minister,18
+Aidan Lynch,Viktor Krum,17
+Cho Chang,Rowena Ravenclaw,17
+Hepzibah Smith,Hokey,17
+Cornelius Fudge,Marietta Edgecombe,17
+Garrick Ollivander,Luna Lovegood,17
+Quirinus Quirrell,Tom Riddle,17
+Arthur Weasley,Hermione Granger,17
+Hedwig,Sirius Black,17
+Arthur Weasley,Remus Lupin,17
+Garrick Ollivander,Hermione Granger,17
+Blaise Zabini,Draco Malfoy,17
+Alastor Moody,Tom Riddle,17
+Peter Pettigrew,Severus Snape,17
+Rowena Ravenclaw,Salazar Slytherin,17
+Bellatrix Lestrange,Draco Malfoy,17
+Albus Dumbledore,Peter Pettigrew,17
+Albus Dumbledore,George Weasley,17
+Albus Dumbledore,Gilderoy Lockhart,17
+Neville Longbottom,Tom Riddle,17
+Bane,Rubeus Hagrid,17
+Neville Longbottom,Rubeus Hagrid,17
+Barry Ryan,Harry Potter,17
+Horace Slughorn,Minerva McGonagall,17
+Dolores Umbridge,Neville Longbottom,17
+Argus Filch,Minerva McGonagall,17
+James Potter I,Tom Riddle,17
+Albus Dumbledore,Mundungus Fletcher,17
+Griphook,William Weasley,17
+Errol,Hermione Granger,17
+Pansy Parkinson,Vincent Crabbe,17
+Godric Gryffindor,Luna Lovegood,17
+Godric Gryffindor,Lee Jordan,16
+Myrtle Warren,Olive Hornby,16
+Bellatrix Lestrange,Ronald Weasley,16
+Gregory Goyle,Pansy Parkinson,16
+Gregory Goyle,Salazar Slytherin,16
+Aragog,Hermione Granger,16
+Alastor Moody,George Weasley,16
+Marcus Flint,Oliver Wood,16
+Filius Flitwick,Ginevra Weasley,16
+Albus Dumbledore,Mrs Norris,16
+Draco Malfoy,Percy Weasley,16
+Petunia Dursley,Severus Snape,16
+Ginevra Weasley,Sirius Black,16
+Harry Potter,Piers Polkiss,16
+Neville Longbottom,Trevor,16
+Hermione Granger,Igor Karkaroff,16
+Harry Potter,Snatchers,16
+Hermione Granger,Nicolas Flamel,16
+Igor Karkaroff,Rubeus Hagrid,16
+Jimmy Peakes,Ritchie Coote,16
+Alastor Moody,Cedric Diggory,16
+Fred Weasley,Remus Lupin,16
+Charles Weasley,Molly Weasley,16
+Albus Dumbledore,Arabella Figg,16
+Cho Chang,Neville Longbottom,16
+Rubeus Hagrid,Vernon Dursley,16
+Amycus Carrow,Minerva McGonagall,16
+Hermione Granger,Mary Cattermole,16
+Helga Hufflepuff,Hermione Granger,16
+Muriel,Ronald Weasley,16
+Draco Malfoy,Molly Weasley,16
+Godric Gryffindor,Tom Riddle,15
+Godric Gryffindor,Sirius Black,15
+Chudley Cannons,Harry Potter,15
+Godric Gryffindor,Remus Lupin,15
+Cedric Diggory,Ludovic Bagman,15
+Bogrod,Ronald Weasley,15
+Harry Potter,Pius Thicknesse,15
+Grawp,Ronald Weasley,15
+Draco Malfoy,Remus Lupin,15
+Fleur Delacour,Remus Lupin,15
+Bertha Jorkins,Ludovic Bagman,15
+Bellatrix Lestrange,Nymphadora Tonks,15
+Gringotts Head Goblin,Ronald Weasley,15
+Arthur Weasley,Lucius Malfoy,15
+George Weasley,Rubeus Hagrid,15
+George Weasley,Sirius Black,15
+Gilderoy Lockhart,Rubeus Hagrid,15
+Corban Yaxley,Kreacher,15
+Arthur Weasley,Kingsley Shacklebolt,15
+Angelina Johnson,Oliver Wood,15
+Harry Potter,Tobias Snape,15
+Kingsley Shacklebolt,Nymphadora Tonks,15
+Albert Runcorn,Harry Potter,15
+Neville Longbottom,Vincent Crabbe,15
+Albus Dumbledore,Quirinus Quirrell,15
+Aberforth Dumbledore,Gellert Grindelwald,15
+Pansy Parkinson,Salazar Slytherin,15
+Hermione Granger,Zacharias Smith,15
+Albus Dumbledore,Ludovic Bagman,15
+Hermione Granger,Millicent Bulstrode,15
+Salazar Slytherin,Vincent Crabbe,15
+Aidan Lynch,Harry Potter,15
+Karkus,Rubeus Hagrid,15
+Marvolo Gaunt,Tom Riddle,15
+Godric Gryffindor,Horace Slughorn,14
+Kingsley Shacklebolt,Prime Minister,14
+Tom Riddle,Vernon Dursley,14
+Harry Potter,Irma Pince,14
+Bogrod,Hermione Granger,14
+Minerva McGonagall,Peeves,14
+Hermione Granger,Irma Pince,14
+Bellatrix Lestrange,Dobby,14
+Godric Gryffindor,Rubeus Hagrid,14
+Minerva McGonagall,Salazar Slytherin,14
+Amy Benson,Dennis Bishop,14
+Harry Potter,Michael Corner,14
+Irma Pince,Ronald Weasley,14
+Kingsley Shacklebolt,William Weasley,14
+Fred Weasley,Nymphadora Tonks,14
+Alastor Moody,Mundungus Fletcher,14
+Hermione Granger,Prime Minister,14
+Harry Potter,Marvolo Gaunt,14
+Arabella Figg,Dudley Dursley,14
+Cornelius Fudge,Rubeus Hagrid,14
+Ivan Volkov,Pyotr Vulchanov,14
+Minerva McGonagall,Tom Riddle,14
+Florean Fortescue,Harry Potter,14
+Albert Runcorn,Dolores Umbridge,14
+Crookshanks,Sirius Black,14
+Aberforth Dumbledore,Tom Riddle,14
+Dobby,Father Christmas,14
+Arthur Weasley,Ginevra Weasley,14
+Griselda Marchbanks,Harry Potter,14
+Fleur Delacour,Garrick Ollivander,14
+Demelza Robins,Ginevra Weasley,14
+Albus Dumbledore,Bob Ogden,14
+Arthur Weasley,Cornelius Fudge,14
+Corban Yaxley,Dolores Umbridge,14
+Horace Slughorn,Kreacher,14
+Dirk Cresswell,Harry Potter,14
+Hokey,Tom Riddle,14
+Draco Malfoy,Ernest Macmillan,14
+Anthony Goldstein,Terry Boot,14
+Peeves,Severus Snape,14
+Karkus,Olympe Maxime,13
+Dobby,Luna Lovegood,13
+George Weasley,Katie Bell,13
+Anthony Goldstein,Ernest Macmillan,13
+Father Christmas,Fred Weasley,13
+Roger Davies,Ronald Weasley,13
+Ronald Weasley,Rowena Ravenclaw,13
+Ginevra Weasley,Lucius Malfoy,13
+Godric Gryffindor,Kendra Dumbledore,13
+Seamus Finnigan,Severus Snape,13
+Borgin,Ronald Weasley,13
+Hermione Granger,Sorting Hat,13
+Charles Weasley,Rubeus Hagrid,13
+Dean Thomas,Lavender Brown,13
+Gellert Grindelwald,Hermione Granger,13
+Garrick Ollivander,Griphook,13
+Percy Weasley,Tom Riddle,13
+Dolores Umbridge,Remus Lupin,13
+Bane,Ronan,13
+Nymphadora Tonks,Severus Snape,13
+Cornelius Fudge,Lucius Malfoy,13
+Albus Dumbledore,Dobby,13
+Hermione Granger,Padma Patil,13
+Harry Potter,Wendelin the Weird,13
+Angelina Johnson,Draco Malfoy,13
+Filius Flitwick,Neville Longbottom,13
+Hermione Granger,Lee Jordan,13
+Lily J. Potter,Remus Lupin,13
+Quirinus Quirrell,Ronald Weasley,13
+Hermione Granger,Kendra Dumbledore,13
+Fluffy,Ronald Weasley,13
+Harry Potter,Trevor,13
+Fleur Delacour,Nymphadora Tonks,13
+Amos Diggory,Cedric Diggory,13
+Sybill Trelawney,Tom Riddle,13
+Oliver Wood,Salazar Slytherin,13
+Draco Malfoy,Katie Bell,13
+Albus Dumbledore,Salazar Slytherin,13
+Harry Potter,Walden Macnair,13
+Fleur Delacour,George Weasley,13
+Hedwig,Rubeus Hagrid,13
+Harry Potter,Sturgis Podmore,13
+Cormac McLaggen,Lavender Brown,13
+Fleur Delacour,Fred Weasley,13
+Ernest Macmillan,Michael Corner,13
+Godric Gryffindor,Ignotus Peverell,13
+Father Christmas,Molly Weasley,13
+Percy Weasley,Remus Lupin,13
+George Weasley,Minerva McGonagall,12
+Hedwig,Pigwidgeon,12
+Ariana Dumbledore,Muriel,12
+Anthony Goldstein,Padma Patil,12
+Dirk Cresswell,Ted,12
+Mark Evans,Tom Riddle,12
+Fleur Delacour,Olympe Maxime,12
+Tom Riddle,William Weasley,12
+Aberforth Dumbledore,Kreacher,12
+Harry Potter,Susan Bones,12
+Dean Thomas,Rubeus Hagrid,12
+Armando Dippet,Tom Riddle,12
+Oliver Wood,Rolanda Hooch,12
+Horace Slughorn,Luna Lovegood,12
+Ronald Weasley,Stanley Shunpike,12
+Padma Patil,Terry Boot,12
+Gilderoy Lockhart,Minerva McGonagall,12
+Draco Malfoy,Lucius Malfoy,12
+Ariana Dumbledore,Elphias Doge,12
+Harry Potter,Hestia Jones,12
+Michael Corner,Terry Boot,12
+Molly Weasley,Neville Longbottom,12
+Neville Longbottom,Sybill Trelawney,12
+Albus Dumbledore,Bathilda Bagshot,12
+Sorting Hat,Tom Riddle,12
+Fenrir Greyback,Tom Riddle,12
+Buckbeak,Draco Malfoy,12
+Avery (Marauder-era),Harry Potter,12
+Blaise Zabini,Ginevra Weasley,12
+Angelina Johnson,Hermione Granger,12
+Alastor Moody,Molly Weasley,12
+Albus Dumbledore,Will,12
+Augustus Rookwood,Harry Potter,12
+Draco Malfoy,Nymphadora Tonks,12
+Kingsley Shacklebolt,Sirius Black,12
+Luna Lovegood,William Weasley,12
+Father Christmas,Rubeus Hagrid,12
+Albus Dumbledore,Fleur Delacour,12
+Harry Potter,Perkins,12
+Aberforth Dumbledore,Muriel,12
+Alicia Spinnet,George Weasley,12
+Harry Potter,Jimmy Peakes,12
+Luna Lovegood,Sybill Trelawney,12
+Draco Malfoy,Poppy Pomfrey,12
+Hermione Granger,Ignotus Peverell,12
+Helena Ravenclaw,Tom Riddle,12
+Lucian Bole,Peregrine Derrick,12
+Alastor Moody,Kingsley Shacklebolt,12
+Alicia Spinnet,Oliver Wood,12
+Betty Braithwaite,Rita Skeeter,11
+Ronald Weasley,Sorting Hat,11
+Mykew Gregorovitch,Ronald Weasley,11
+Katie Bell,Oliver Wood,11
+Ludovic Bagman,Winky,11
+Alastor Moody,Viktor Krum,11
+Rubeus Hagrid,Sybill Trelawney,11
+Bellatrix Lestrange,Griphook,11
+Father Christmas,Horace Slughorn,11
+Dudley Dursley,Fred Weasley,11
+Albus Dumbledore,Father Christmas,11
+Firenze,Parvati Patil,11
+Albus Dumbledore,Fang,11
+Dudley Dursley,George Weasley,11
+Lily J. Potter,Rose Granger-Weasley,11
+Beedle the Bard,Harry Potter,11
+Bilius,Ronald Weasley,11
+Neville Longbottom,William Weasley,11
+Lucius Malfoy,Sirius Black,11
+Godric Gryffindor,Percy Weasley,11
+Godric Gryffindor,Seamus Finnigan,11
+Godric Gryffindor,Sorting Hat,11
+Amycus Carrow,Harry Potter,11
+Harry Potter,Hepzibah Smith,11
+Alecto Carrow,Amycus Carrow,11
+Hermione Granger,Travers,11
+Cedric Diggory,George Weasley,11
+Cornelius Fudge,Walden Macnair,11
+Harry Potter,Leanne,11
+Albus Dumbledore,Sorting Hat,11
+Fenrir Greyback,Snatchers,11
+Borgin,Tom Riddle,11
+Ernest Macmillan,Hermione Granger,11
+Cho Chang,Dobby,11
+Eileen Prince,Ronald Weasley,11
+Luna Lovegood,Rubeus Hagrid,11
+Bradley,Ronald Weasley,11
+Fred Weasley,Neville Longbottom,11
+Alastor Moody,Filius Flitwick,11
+Arcturus Black III,Harry Potter,11
+Arcturus Black III,Hermione Granger,11
+Albus Dumbledore,Walden Macnair,11
+Sirius Black,Vernon Dursley,11
+Gabrielle Delacour,Harry Potter,11
+Hermione Granger,Terry Boot,11
+Draco Malfoy,Fang,11
+Colin Creevey,Hermione Granger,11
+Cassandra Trelawney,Harry Potter,11
+Igor Karkaroff,Ludovic Bagman,11
+Hugo Granger-Weasley,Rose Granger-Weasley,11
+Mary Cattermole,Reginald Cattermole,11
+Arthur Weasley,Fleur Delacour,11
+Anthony Goldstein,Michael Corner,11
+Albus Dumbledore,James Potter I,11
+Harry Potter,Ritchie Coote,11
+Aberforth Dumbledore,Ariana Dumbledore,11
+Mrs Norris,Severus Snape,11
+Arthur Weasley,Percy Weasley,11
+Minerva McGonagall,Prime Minister,11
+Myrtle Warren,Peeves,10
+Molly Weasley,Severus Snape,10
+Poppy Pomfrey,Rubeus Hagrid,10
+Neville Longbottom,Pomona Sprout,10
+Bellatrix Lestrange,Narcissa Malfoy,10
+Albus Dumbledore,Katie Bell,10
+Ginevra Weasley,Rowena Ravenclaw,10
+Fluffy,Hermione Granger,10
+Lily J. Potter,Sorting Hat,10
+Albus Dumbledore,Nicolas Flamel,10
+George Weasley,Severus Snape,10
+Father Christmas,Sirius Black,10
+Gilderoy Lockhart,Mrs Norris,10
+Draco Malfoy,Rosmerta,10
+Blaise Zabini,Neville Longbottom,10
+Rolanda Hooch,Ronald Weasley,10
+Bloody Baron,Peeves,10
+Alastor Moody,Bertha Jorkins,10
+Doris Crockford,Harry Potter,10
+Bellatrix Lestrange,Lucius Malfoy,10
+Ronald Weasley,Sturgis Podmore,10
+Garrick Ollivander,Mykew Gregorovitch,10
+Albus Potter,Lily J. Potter,10
+Minerva McGonagall,Molly Weasley,10
+Minerva McGonagall,Remus Lupin,10
+Ludovic Bagman,Rita Skeeter,10
+Petunia Dursley,Tom Riddle,10
+Dolores Umbridge,Luna Lovegood,10
+Chudley Cannons,Ronald Weasley,10
+Cole,Harry Potter,10
+Fred Weasley,Peeves,10
+Dolores Umbridge,Filius Flitwick,10
+Godric Gryffindor,Graham Montague,10
+Ernest Macmillan,Terry Boot,10
+Hermione Granger,Merlin,10
+Ginevra Weasley,Severus Snape,10
+Hermione Granger,Will,10
+John Dawlish,Remus Lupin,10
+Dean Thomas,Godric Gryffindor,10
+Parvati Patil,Rubeus Hagrid,10
+Dean Thomas,Dobby,10
+Charles Weasley,Ginevra Weasley,10
+Beedle the Bard,Ronald Weasley,10
+Ernest Macmillan,Padma Patil,10
+Augustus Rookwood,Tom Riddle,10
+Harry Potter,Millicent Bulstrode,10
+Harry Potter,Mafalda Hopkirk,10
+Rubeus Hagrid,Walden Macnair,10
+Percy Weasley,Sirius Black,10
+Severus Snape,Sybill Trelawney,10
+Arthur Weasley,William Weasley,10
+Ignotus Peverell,Xenophilius Lovegood,10
+Cho Chang,Luna Lovegood,10
+Cornelius Fudge,Molly Weasley,10
+Salazar Slytherin,Sorting Hat,10
+Harry Potter,Romilda Vane,10
+Horace Slughorn,Salazar Slytherin,10
+Gregory Goyle,Rubeus Hagrid,10
+Ginevra Weasley,Zacharias Smith,10
+Severus Snape,Sorting Hat,10
+Hugo Granger-Weasley,Lily J. Potter,10
+Garrick Ollivander,William Weasley,9
+Hermione Granger,Sturgis Podmore,9
+Algie Longbottom,Ronald Weasley,9
+Fred Weasley,Vincent Crabbe,9
+Hermione Granger,Stanley Shunpike,9
+Reginald Cattermole,Ronald Weasley,9
+Blast-Ended Skrewt,Cedric Diggory,9
+Fenrir Greyback,Remus Lupin,9
+Bane,Hermione Granger,9
+Angelina Johnson,Salazar Slytherin,9
+Antonin Dolohov,Corban Yaxley,9
+Dolores Umbridge,Tom Riddle,9
+Fred Weasley,Vernon Dursley,9
+Bogrod,Griphook,9
+Pomona Sprout,Severus Snape,9
+Avery (Marauder-era),Severus Snape,9
+Bellatrix Lestrange,Kreacher,9
+Fred Weasley,Tom Riddle,9
+Harry Potter,Puddifoot,9
+Firenze,Sybill Trelawney,9
+Fleur Delacour,Gabrielle Delacour,9
+Arnold Peasegood,Ronald Weasley,9
+Muriel,Rita Skeeter,9
+Fleur Delacour,Griphook,9
+Mungo Bonham,Ronald Weasley,9
+Draco Malfoy,Mark Evans,9
+Colin Creevey,Ginevra Weasley,9
+Armando Dippet,Harry Potter,9
+Mundungus Fletcher,Severus Snape,9
+Ernest Macmillan,Hannah Abbott,9
+Fleur Delacour,Neville Longbottom,9
+Albus Dumbledore,Armando Dippet,9
+Albert Runcorn,Ronald Weasley,9
+Colin Creevey,Ronald Weasley,9
+Eldred Worple,Harry Potter,9
+Prime Minister,Rufus Scrimgeour,9
+Moran,Troy,9
+Moran,Mullet,9
+Argus Filch,George Weasley,9
+Argus Filch,Fred Weasley,9
+Filius Flitwick,George Weasley,9
+Fred Weasley,Kreacher,9
+Albus Potter,James Potter II,9
+Arcturus Black III,Sirius Black,9
+Fred Weasley,Minerva McGonagall,9
+Marietta Edgecombe,Minerva McGonagall,9
+Draco Malfoy,Filius Flitwick,9
+Cornelius Fudge,Ludovic Bagman,9
+Garrick Ollivander,Viktor Krum,9
+Gilderoy Lockhart,Neville Longbottom,9
+Amycus Carrow,Tom Riddle,9
+Katie Bell,Rubeus Hagrid,9
+Ronald Weasley,Travers,9
+Cornelius Fudge,Draco Malfoy,9
+Bathilda Bagshot,Kendra Dumbledore,9
+George Weasley,Salazar Slytherin,9
+Albus Dumbledore,Dudley Dursley,9
+Ronald Weasley,Zacharias Smith,9
+Gilderoy Lockhart,Marcus Flint,9
+Godric Gryffindor,Jack Sloper,9
+Gilderoy Lockhart,Lucius Malfoy,9
+George Weasley,Tom Riddle,9
+Gilderoy Lockhart,Wagga Wagga Werewolf,9
+Fawkes,Tom Riddle,9
+Lucius Malfoy,Narcissa Malfoy,9
+George Weasley,Zacharias Smith,9
+Bertha Jorkins,Sirius Black,9
+Rubeus Hagrid,Ted,9
+Lavender Brown,Rubeus Hagrid,9
+Blaise Zabini,Cormac McLaggen,9
+Dobby,Horace Slughorn,9
+George Weasley,Pigwidgeon,9
+Blaise Zabini,Gregory Goyle,9
+Ludovic Bagman,Minerva McGonagall,9
+Dean Thomas,William Weasley,9
+Graham Montague,Severus Snape,9
+Ronan,Rubeus Hagrid,9
+Alastor Moody,Sturgis Podmore,9
+Ginevra Weasley,Poppy Pomfrey,9
+Amelia Bones,Harry Potter,9
+Aberforth Dumbledore,Neville Longbottom,9
+Ludovic Bagman,Percy Weasley,8
+Fluffy,Tom Riddle,8
+Ernest Macmillan,Justin Finch-Fletchley,8
+Perkins,Ronald Weasley,8
+Albus Potter,Neville Longbottom,8
+Draco Malfoy,Gilderoy Lockhart,8
+Fred Weasley,Gregory Goyle,8
+Argus Filch,Cho Chang,8
+Ginevra Weasley,Helga Hufflepuff,8
+Hermione Granger,Mrs Norris,8
+Cassius Warrington,Salazar Slytherin,8
+Ginevra Weasley,James Potter II,8
+Augustus Rookwood,Ludovic Bagman,8
+Eileen Prince,Tobias Snape,8
+Damocles Belby,Marcus Belby,8
+Cho Chang,Fred Weasley,8
+Cassandra Trelawney,Ronald Weasley,8
+Bellatrix Lestrange,Molly Weasley,8
+Vernon Dursley,Vernon Dursley,8
+Aberforth Dumbledore,Sirius Black,8
+Dolores Umbridge,Ernest Macmillan,8
+Elphias Doge,Rita Skeeter,8
+Tom Riddle,Will,8
+Harry Potter,Ronan,8
+Crookshanks,Hedwig,8
+Bellatrix Lestrange,Rodolphus Lestrange,8
+Father Christmas,Gregory Goyle,8
+Lavender Brown,Neville Longbottom,8
+Colin Creevey,Fred Weasley,8
+Lavender Brown,Minerva McGonagall,8
+Lavender Brown,Luna Lovegood,8
+Ariana Dumbledore,Rita Skeeter,8
+Percy Weasley,Prime Minister,8
+Mullet,Troy,8
+Mulciber (Marauder-era),Severus Snape,8
+Harry Potter,Reginald Cattermole,8
+Amos Diggory,Ronald Weasley,8
+Alicia Spinnet,Ronald Weasley,8
+Albus Dumbledore,Seamus Finnigan,8
+Hermione Granger,Leanne,8
+Dobby,Sirius Black,8
+Hermione Granger,Pigwidgeon,8
+Gregory Goyle,Minerva McGonagall,8
+Alicia Spinnet,Godric Gryffindor,8
+Bartemius Crouch Senior,Rita Skeeter,8
+Corban Yaxley,Severus Snape,8
+Aberforth Dumbledore,Elphias Doge,8
+Harry Potter,Selwyn,8
+Millicent Bulstrode,Ronald Weasley,8
+Dean Thomas,Griphook,8
+Dudley Dursley,Rubeus Hagrid,8
+Golpalott,Hermione Granger,8
+Bartemius Crouch Senior,Minerva McGonagall,8
+Neville Longbottom,Salazar Slytherin,8
+Albus Dumbledore,Buckbeak,8
+Dean Thomas,Remus Lupin,8
+Albus Dumbledore,Griselda Marchbanks,8
+Angelina Johnson,Dolores Umbridge,8
+Merlin,Ronald Weasley,8
+Rita Skeeter,Tom Riddle,8
+Gringotts Head Goblin,Rubeus Hagrid,8
+Mason,Petunia Dursley,8
+Horace Slughorn,Sybill Trelawney,8
+Marvolo Gaunt,Morfin Gaunt,8
+Angelina Johnson,Marcus Flint,8
+Blaise Zabini,Pansy Parkinson,8
+Gregory Goyle,Neville Longbottom,8
+George Weasley,Nymphadora Tonks,8
+Bogrod,Travers,8
+Luna Lovegood,Rowena Ravenclaw,8
+Harry Potter,Merlin,8
+Albert Runcorn,Prime Minister,8
+Minerva McGonagall,Vincent Crabbe,8
+Cornelius Fudge,Rufus Scrimgeour,8
+Fred Weasley,Severus Snape,8
+Luna Lovegood,Rita Skeeter,8
+Gilderoy Lockhart,Pomona Sprout,8
+Fred Weasley,Pigwidgeon,8
+Hermione Granger,Ronan,8
+Albus Dumbledore,Beedle the Bard,8
+Cedric Diggory,Ernest Macmillan,8
+Dobby,Fleur Delacour,8
+Hermione Granger,Tobias Snape,8
+Marcus Flint,Salazar Slytherin,8
+Percy Weasley,Rubeus Hagrid,8
+Bane,Firenze,8
+Dean Thomas,Garrick Ollivander,8
+Draco Malfoy,Peeves,8
+Severus Snape,Winky,8
+Pigwidgeon,Sirius Black,7
+Albus Dumbledore,Firenze,7
+Pomona Sprout,Rubeus Hagrid,7
+Draco Malfoy,Viktor Krum,7
+Padma Patil,Parvati Patil,7
+Cedric Diggory,Godric Gryffindor,7
+Nicolas Flamel,Rubeus Hagrid,7
+Albus Dumbledore,Ignotus Peverell,7
+Charles Weasley,Oliver Wood,7
+Phineas Nigellus Black,Ronald Weasley,7
+Albus Dumbledore,Garrick Ollivander,7
+Errol,Hedwig,7
+Neville Longbottom,Padma Patil,7
+Albert Runcorn,Arthur Weasley,7
+Cedric Diggory,Rubeus Hagrid,7
+Filius Flitwick,Luna Lovegood,7
+Cho Chang,Godric Gryffindor,7
+Albert Runcorn,Hermione Granger,7
+Draco Malfoy,Rita Skeeter,7
+Broderick Bode,Harry Potter,7
+Cho Chang,Oliver Wood,7
+Amos Diggory,Ginevra Weasley,7
+Bellatrix Lestrange,Godric Gryffindor,7
+Antonin Dolohov,Sirius Black,7
+Mungo Bonham,Neville Longbottom,7
+Ginevra Weasley,Salazar Slytherin,7
+Lee Jordan,Percy Weasley,7
+Ginevra Weasley,Romilda Vane,7
+Amelia Bones,Edgar Bones,7
+Avery (Marauder-era),Mulciber (Marauder-era),7
+Hermione Granger,Reginald Cattermole,7
+Aberforth Dumbledore,Cornelius Fudge,7
+Rowena Ravenclaw,Tom Riddle,7
+Hermione Granger,Mykew Gregorovitch,7
+Cormac McLaggen,Ginevra Weasley,7
+Lucius Malfoy,Vincent Crabbe,7
+Dolores Umbridge,Magorian,7
+Gilderoy Lockhart,Seamus Finnigan,7
+Percy Weasley,Rita Skeeter,7
+Dobby,Vernon Dursley,7
+Bellatrix Lestrange,Dean Thomas,7
+Aberforth Dumbledore,Fred Weasley,7
+Lavender Brown,Molly Weasley,7
+Horace Slughorn,Sirius Black,7
+Gregory Goyle,Lucius Malfoy,7
+Graham Montague,Salazar Slytherin,7
+Hannah Abbott,Hermione Granger,7
+Rufus Scrimgeour,Tom Riddle,7
+Hermione Granger,Wilbert Slinkhard,7
+Antonin Dolohov,Hermione Granger,7
+Harry Potter,Lucian Bole,7
+Kendra Dumbledore,Muriel,7
+Rubeus Hagrid,William Weasley,7
+Godric Gryffindor,Rufus Scrimgeour,7
+Kingsley Shacklebolt,Minerva McGonagall,7
+Rubeus Hagrid,Vincent Crabbe,7
+Bathilda Bagshot,Muriel,7
+Hermione Granger,Septima Vector,7
+Godric Gryffindor,Lily J. Potter,7
+Rubeus Hagrid,Viktor Krum,7
+Hermione Granger,Mungo Bonham,7
+Aberforth Dumbledore,Bathilda Bagshot,7
+Dean Thomas,Demelza Robins,7
+Fluffy,Severus Snape,7
+Hedwig,Percy Weasley,7
+Hedwig,Molly Weasley,7
+Harry Potter,Terry Boot,7
+Buckbeak,Ludovic Bagman,7
+Molly Weasley,Vernon Dursley,7
+Fred Weasley,Gilderoy Lockhart,7
+Frank Bryce,Tom Riddle,7
+Fleur Delacour,Rubeus Hagrid,7
+Molly Weasley,Pigwidgeon,7
+Mundungus Fletcher,Remus Lupin,7
+Arthur Weasley,Dilys Derwent,7
+Fleur Delacour,Mundungus Fletcher,7
+Harry Potter,Scabior,7
+Fleur Delacour,Ludovic Bagman,7
+Albus Dumbledore,Pomona Sprout,7
+Mundungus Fletcher,William Weasley,7
+Harry Potter,Penelope Clearwater,7
+Ariana Dumbledore,Kendra Dumbledore,7
+Albus Potter,Ronald Weasley,7
+Minerva McGonagall,Percy Weasley,7
+Alice Longbottom,Harry Potter,7
+Corban Yaxley,Mary Cattermole,7
+Arthur Weasley,Tom Riddle,7
+Arthur Weasley,Rufus Scrimgeour,7
+Gellert Grindelwald,Tom Riddle,7
+Gellert Grindelwald,Godric Gryffindor,7
+Garrick Ollivander,Rita Skeeter,7
+Albus Potter,Rose Granger-Weasley,7
+Minerva McGonagall,Parvati Patil,7
+Borgin,Hepzibah Smith,7
+Ariana Dumbledore,Godric Gryffindor,7
+Borgin,Minerva McGonagall,7
+Minerva McGonagall,Sorting Hat,7
+Hedwig,Vernon Dursley,7
+Fred Weasley,Petunia Dursley,7
+Griphook,Ted,7
+Severus Snape,Will,6
+Albus Dumbledore,Amelia Bones,6
+Cornelius Fudge,Peter Pettigrew,6
+Cuthbert Binns,Fred Weasley,6
+Damocles Belby,Horace Slughorn,6
+Prime Minister,Ronald Weasley,6
+Selwyn,Xenophilius Lovegood,6
+Dolores Umbridge,Parvati Patil,6
+Colin Creevey,George Weasley,6
+Poppy Pomfrey,Severus Snape,6
+Draco Malfoy,Graham Montague,6
+Colin Creevey,Dennis Creevey,6
+Quirinus Quirrell,Rubeus Hagrid,6
+Colin Creevey,Oliver Wood,6
+Poppy Pomfrey,Remus Lupin,6
+Alastor Moody,Fleur Delacour,6
+Ragnok,William Weasley,6
+Alastor Moody,Dobby,6
+Alastor Moody,Arthur Weasley,6
+Corban Yaxley,John Dawlish,6
+Dolores Umbridge,Peeves,6
+Alastor Moody,Poppy Pomfrey,6
+Dedalus Diggle,Hestia Jones,6
+Phineas Nigellus Black,Severus Snape,6
+Dolores Umbridge,Pansy Parkinson,6
+Ronald Weasley,Will,6
+Rubeus Hagrid,Rufus Scrimgeour,6
+Rubeus Hagrid,Salazar Slytherin,6
+Cormac McLaggen,Luna Lovegood,6
+Alastor Moody,William Weasley,6
+Dudley Dursley,Mark Evans,6
+Dobby,Draco Malfoy,6
+Dirk Cresswell,Severus Snape,6
+Dirk Cresswell,Griphook,6
+Cho Chang,Severus Snape,6
+Salazar Slytherin,Sirius Black,6
+Aberforth Dumbledore,Remus Lupin,6
+Arthur Weasley,Draco Malfoy,6
+Aberforth Dumbledore,Alastor Moody,6
+Fred Weasley,Salazar Slytherin,6
+Ivan Volkov,Viktor Krum,6
+Igor Karkaroff,Mark Evans,6
+Bloody Baron,Harry Potter,6
+Merlin,Severus Snape,6
+Gellert Grindelwald,Rita Skeeter,6
+Bob Ogden,Harry Potter,6
+Gregory Goyle,Severus Snape,6
+Merope Riddle,Morfin Gaunt,6
+Minerva McGonagall,Rowena Ravenclaw,6
+Gabrielle Delacour,Ginevra Weasley,6
+Alecto Carrow,Harry Potter,6
+Horace Slughorn,Molly Weasley,6
+Blaise Zabini,Vincent Crabbe,6
+Anthony Goldstein,Harry Potter,6
+Fred Weasley,Luna Lovegood,6
+Fred Weasley,Horace Slughorn,6
+Molly Weasley,Rufus Scrimgeour,6
+Moran,Vasily Dimitrov,6
+Barry Ryan,Rita Skeeter,6
+Mrs Norris,Peeves,6
+Buckbeak,Winky,6
+Griselda Marchbanks,Ronald Weasley,6
+Fleur Delacour,Muriel,6
+Albus Dumbledore,Merlin,6
+Graham Montague,Ronald Weasley,6
+George Weasley,Neville Longbottom,6
+Horace Slughorn,Lavender Brown,6
+Angelina Johnson,Cassius Warrington,6
+Kingsley Shacklebolt,Tom Riddle,6
+Kingsley Shacklebolt,Marietta Edgecombe,6
+Bathilda Bagshot,Rita Skeeter,6
+Godric Gryffindor,Harper,6
+Bellatrix Lestrange,Ginevra Weasley,6
+Kendra Dumbledore,Ronald Weasley,6
+Andrew Kirke,Jack Sloper,6
+Lily J. Potter,Mulciber (Marauder-era),6
+Godric Gryffindor,Zacharias Smith,6
+Alicia Spinnet,Salazar Slytherin,6
+Ginevra Weasley,Mrs Norris,6
+Ginevra Weasley,Ludovic Bagman,6
+Marcus Flint,Rolanda Hooch,6
+Ginevra Weasley,Lavender Brown,6
+Ginevra Weasley,Kingsley Shacklebolt,6
+Lucius Malfoy,Sturgis Podmore,6
+Bartemius Crouch Senior,Olympe Maxime,6
+Bertie Bott,Harry Potter,6
+Gilderoy Lockhart,Molly Weasley,6
+Emmeline Vance,Prime Minister,6
+Alicia Spinnet,Cassius Warrington,6
+Golpalott,Harry Potter,6
+George Weasley,Vernon Dursley,6
+George Weasley,Rowena Ravenclaw,6
+Hannah Abbott,Helga Hufflepuff,6
+Fred Weasley,Graham Montague,6
+Filius Flitwick,William Weasley,6
+Cedric Diggory,Oliver Wood,6
+Arcturus Black III,Tom Riddle,6
+Hermione Granger,Muriel,6
+Harry Potter,Narcissa Malfoy,6
+Albus Dumbledore,Filius Flitwick,6
+Father Christmas,Luna Lovegood,6
+Albus Dumbledore,Fat Lady,6
+Father Christmas,Ginevra Weasley,6
+Father Christmas,George Weasley,6
+Argus Filch,Godric Gryffindor,6
+Augustus Pye,Molly Weasley,6
+Fat Lady,Sirius Black,6
+Nymphadora Tonks,Rubeus Hagrid,6
+Argus Filch,Sirius Black,6
+Fat Lady,Godric Gryffindor,6
+Hedwig,Nymphadora Tonks,6
+Fang,Neville Longbottom,6
+Ariana Dumbledore,Severus Snape,6
+Albus Dumbledore,Bilius,6
+Arthur Weasley,Minerva McGonagall,6
+Albus Dumbledore,Bertha Jorkins,6
+Cho Chang,George Weasley,6
+Peeves,Percy Weasley,6
+Arthur Weasley,Horace Slughorn,6
+Arthur Weasley,Gilderoy Lockhart,6
+Arthur Weasley,Dirk Cresswell,6
+Fawkes,Sorting Hat,6
+Kingsley Shacklebolt,Ronald Weasley,6
+Harry Potter,Merope Riddle,6
+Harry Potter,Hope Howell,6
+Cedric Diggory,Dolores Umbridge,6
+Albus Dumbledore,Helga Hufflepuff,6
+Hermione Granger,Wendelin the Weird,6
+Fenrir Greyback,Neville Longbottom,6
+Hermione Granger,Snatchers,6
+Hestia Jones,Kingsley Shacklebolt,6
+Filius Flitwick,Seamus Finnigan,6
+Albus Dumbledore,Hedwig,6
+Hestia Jones,Petunia Dursley,6
+Avery (Marauder-era),Lily J. Potter,6
+Cedric Diggory,Igor Karkaroff,6
+Harry Potter,Magorian,6
+Albus Dumbledore,John Dawlish,6
+Godric Gryffindor,Peter Pettigrew,5
+Dean Thomas,Gornuk,5
+Katie Bell,Salazar Slytherin,5
+Dean Thomas,Minerva McGonagall,5
+Dobby,George Weasley,5
+Gwenog Jones,Horace Slughorn,5
+Godric Gryffindor,Trevor,5
+Katie Bell,Nymphadora Tonks,5
+Dobby,Hedwig,5
+Godric Gryffindor,Vincent Crabbe,5
+Dean Thomas,Parvati Patil,5
+Cuthbert Binns,Dolores Umbridge,5
+Justin Finch-Fletchley,Peeves,5
+Dobby,Garrick Ollivander,5
+Rufus Scrimgeour,Stanley Shunpike,5
+Harry Potter,Jack Sloper,5
+James Potter II,Victoire Weasley,5
+Dean Thomas,Severus Snape,5
+Salazar Slytherin,Viktor Krum,5
+Igor Karkaroff,Tom Riddle,5
+Hermione Granger,Marcus Flint,5
+James Potter I,Ronald Weasley,5
+Hestia Jones,Vernon Dursley,5
+Dedalus Diggle,Rubeus Hagrid,5
+Graham Montague,Katie Bell,5
+Helga Hufflepuff,Minerva McGonagall,5
+Horace Slughorn,Pomona Sprout,5
+Hermione Granger,Walden Macnair,5
+Hermione Granger,Karkus,5
+Severus Snape,Ted,5
+Salazar Slytherin,Vaisey,5
+Griselda Marchbanks,Hermione Granger,5
+Dennis Creevey,Harry Potter,5
+Hermione Granger,Mafalda Hopkirk,5
+Emmeline Vance,Harry Potter,5
+Kingsley Shacklebolt,Rubeus Hagrid,5
+Neville Longbottom,Poppy Pomfrey,5
+Fenrir Greyback,Hermione Granger,5
+Fenrir Greyback,Lucius Malfoy,5
+Fenrir Greyback,Molly Weasley,5
+Draco Malfoy,Quirinus Quirrell,5
+Fenrir Greyback,Ronald Weasley,5
+Filius Flitwick,Fred Weasley,5
+Filius Flitwick,Horace Slughorn,5
+Fawkes,Severus Snape,5
+Neville Longbottom,Pansy Parkinson,5
+Neville Longbottom,Nymphadora Tonks,5
+Filius Flitwick,Sybill Trelawney,5
+Poppy Pomfrey,William Weasley,5
+Firenze,Lavender Brown,5
+Draco Malfoy,Marcus Flint,5
+Fenrir Greyback,Godric Gryffindor,5
+Draco Malfoy,Sybill Trelawney,5
+Mrs Norris,Rubeus Hagrid,5
+Edgar Bones,Harry Potter,5
+Enid Smeek,Godric Gryffindor,5
+Peeves,Remus Lupin,5
+Eloise Midgen,Ronald Weasley,5
+Parvati Patil,Seamus Finnigan,5
+Percy Weasley,Salazar Slytherin,5
+Euan Abercrombie,Harry Potter,5
+Nymphadora Tonks,Tom Riddle,5
+Father Christmas,Vincent Crabbe,5
+Nymphadora Tonks,Ted,5
+Fat Lady,Peeves,5
+Dudley Dursley,Mason,5
+Fat Lady,Violet,5
+Father Christmas,Percy Weasley,5
+Father Christmas,Tom Riddle,5
+Fleur Delacour,Igor Karkaroff,5
+Draco Malfoy,Helga Hufflepuff,5
+Godric Gryffindor,Marcus Flint,5
+Lee Jordan,Salazar Slytherin,5
+Ludovic Bagman,Olympe Maxime,5
+Dolores Umbridge,Lee Jordan,5
+Ginevra Weasley,Lily J. Potter,5
+Rosmerta,Sirius Black,5
+Ginevra Weasley,Mungo Bonham,5
+Lily J. Potter,Ronald Weasley,5
+Lee Jordan,Minerva McGonagall,5
+Luna Lovegood,Severus Snape,5
+Lee Jordan,Marcus Flint,5
+Leanne,Ronald Weasley,5
+Leanne,Minerva McGonagall,5
+Lavender Brown,Seamus Finnigan,5
+Dobby,Tom Riddle,5
+Kreacher,Peeves,5
+George Weasley,Vincent Crabbe,5
+Ronald Weasley,Septima Vector,5
+Pyotr Vulchanov,Viktor Krum,5
+Dolores Umbridge,Tom Riddle Senior,5
+Draco Malfoy,Gringotts Head Goblin,5
+Molly Weasley,Poppy Pomfrey,5
+Fred Weasley,Mungo Bonham,5
+Fred Weasley,Rolanda Hooch,5
+Fred Weasley,Zacharias Smith,5
+Dot,Frank Bryce,5
+Merlin,Sirius Black,5
+George Weasley,Poppy Pomfrey,5
+Remus Lupin,Stanley Shunpike,5
+Remus Lupin,Sybill Trelawney,5
+George Weasley,Gregory Goyle,5
+Merlin,Peter Pettigrew,5
+Mary Cattermole,Ronald Weasley,5
+Marcus Flint,Vincent Crabbe,5
+Luna Lovegood,Parvati Patil,5
+William Weasley,Xenophilius Lovegood,5
+Bertha Jorkins,Cornelius Fudge,5
+Barry Ryan,Bertha Jorkins,5
+Broderick Bode,Mungo Bonham,5
+Arnold,Ginevra Weasley,5
+Cornelius Fudge,Susan Bones,5
+Cornelius Fudge,Kingsley Shacklebolt,5
+Cedric Diggory,Cornelius Fudge,5
+Albus Dumbledore,Everard,5
+Angelina Johnson,Dobby,5
+Antonin Dolohov,Tom Riddle,5
+Aberforth Dumbledore,George Weasley,5
+Argus Filch,Neville Longbottom,5
+Colin Creevey,Severus Snape,5
+Angelina Johnson,Minerva McGonagall,5
+Albus Dumbledore,Dilys Derwent,5
+Adrian Pucey,Katie Bell,5
+Barry Ryan,Tom Riddle,5
+Albus Dumbledore,Tobias Snape,5
+Argus Filch,Vincent Crabbe,5
+Colin Creevey,Gilderoy Lockhart,5
+Albus Potter,Salazar Slytherin,5
+Alastor Moody,Evan Rosier,5
+Albus Dumbledore,Barry Ryan,5
+Bellatrix Lestrange,Fenrir Greyback,5
+Bertha Jorkins,Winky,5
+Cornelius Fudge,Neville Longbottom,5
+Bellatrix Lestrange,Luna Lovegood,5
+Blaise Zabini,Salazar Slytherin,5
+Bertha Jorkins,Tom Riddle,5
+Cormac McLaggen,Ritchie Coote,5
+Cedric Diggory,Fred Weasley,5
+Cornelius Fudge,Poppy Pomfrey,5
+Angelina Johnson,Graham Montague,5
+Cornelius Fudge,Remus Lupin,5
+Cornelius Fudge,George Weasley,5
+Amos Diggory,Molly Weasley,5
+Cassius Warrington,Harry Potter,5
+Anthony Goldstein,Hermione Granger,5
+Arthur Weasley,Mungo Bonham,5
+Alastor Moody,Ludovic Bagman,5
+Blaise Zabini,Ronald Weasley,5
+Buckbeak,Walden Macnair,5
+Cho Chang,Pansy Parkinson,5
+Aragog,Horace Slughorn,5
+Cadogan,Ronald Weasley,5
+Bartemius Crouch Senior,Fred Weasley,5
+Alexei Levski,Vasily Dimitrov,5
+Bellatrix Lestrange,Remus Lupin,5
+Arabella Figg,Vernon Dursley,5
+Caractacus Burke,Hokey,5
+Cornelius Fudge,Williamson,5
+Alexei Levski,Moran,5
+Andromeda Tonks,Sirius Black,5
+Alfred Cattermole,Ellie Cattermole,5
+Albus Dumbledore,Marvolo Gaunt,5
+Bartemius Crouch Senior,Rubeus Hagrid,5
+Buckbeak,Severus Snape,5
+Cassius Warrington,Ginevra Weasley,5
+Albus Dumbledore,Mungo Bonham,5
+Albert Runcorn,Mary Cattermole,5
+Argus Filch,Irma Pince,5
+Alfred Cattermole,Maisie Cattermole,5
+Cornelius Fudge,Luna Lovegood,5
+Alastor Moody,Parvati Patil,5
+Arthur Weasley,Bartemius Crouch Senior,5
+Celestina Warbeck,Fleur Delacour,5
+Amos Diggory,Rita Skeeter,5
+Galatea Merrythought,Tom Riddle,4
+Minerva McGonagall,Willy Widdershins,4
+Alastor Moody,Cornelius Fudge,4
+Garrick Ollivander,Ginevra Weasley,4
+Albus Dumbledore,Kendra Dumbledore,4
+Cho Chang,Seamus Finnigan,4
+Alastor Moody,Ginevra Weasley,4
+Harry Potter,Wilkie Twycross,4
+Harry Potter,Wilbert Slinkhard,4
+Prime Minister,Rubeus Hagrid,4
+Harry Potter,Septima Vector,4
+Lucius Malfoy,Salazar Slytherin,4
+Prime Minister,Tom Riddle Senior,4
+Alicia Spinnet,Minerva McGonagall,4
+Cho Chang,Peeves,4
+Arthur Weasley,Arthur Weasley,4
+Godric Gryffindor,Gregory Goyle,4
+Ellie Cattermole,Mary Cattermole,4
+Ellie Cattermole,Maisie Cattermole,4
+Harry Potter,Troy,4
+Remus Lupin,Will,4
+Harry Potter,Veronica Smethley,4
+Eldred Worple,Sanguini,4
+Cho Chang,Prime Minister,4
+Ginevra Weasley,Ted,4
+Albus Dumbledore,Karkus,4
+Garrick Ollivander,Muriel,4
+Argus Filch,Ginevra Weasley,4
+Colin Creevey,Sorting Hat,4
+Gellert Grindelwald,Ronald Weasley,4
+Adrian Pucey,Harry Potter,4
+Doris Purkiss,Stubby Boardman,4
+Hermione Granger,Lily J. Potter,4
+Argus Filch,Horace Slughorn,4
+Dolores Umbridge,Wilbert Slinkhard,4
+Ginevra Weasley,Pigwidgeon,4
+Hermione Granger,Magorian,4
+Hedwig,Tom Riddle,4
+Adrian Pucey,Godric Gryffindor,4
+Dolores Umbridge,Salazar Slytherin,4
+Hermione Granger,Marvolo Gaunt,4
+Ginevra Weasley,Penelope Clearwater,4
+Argus Filch,Fat Lady,4
+Molly Weasley,Rita Skeeter,4
+Ronald Weasley,Wendelin the Weird,4
+Dolores Umbridge,Poppy Pomfrey,4
+Amelia Bones,Horace Slughorn,4
+Ronald Weasley,Scabior,4
+Draco Malfoy,Harper,4
+Hermes,Percy Weasley,4
+Ariana Dumbledore,Hermione Granger,4
+Narcissa Malfoy,Sirius Black,4
+Narcissa Malfoy,Severus Snape,4
+Draco Malfoy,Theodore Nott,4
+Rita Skeeter,Severus Snape,4
+Draco Malfoy,Seamus Finnigan,4
+Helga Hufflepuff,Oliver Wood,4
+Bellatrix Lestrange,Kingsley Shacklebolt,4
+Lily J. Potter,Minerva McGonagall,4
+Draco Malfoy,Oliver Wood,4
+Draco Malfoy,Narcissa Malfoy,4
+Cho Chang,Michael Corner,4
+Helga Hufflepuff,Summerby,4
+Draco Malfoy,Luna Lovegood,4
+Draco Malfoy,Ludovic Bagman,4
+Romilda Vane,Ronald Weasley,4
+Colin Creevey,Justin Finch-Fletchley,4
+Draco Malfoy,Myrtle Warren,4
+Phineas Nigellus Black,Salazar Slytherin,4
+Alicia Spinnet,Lucian Bole,4
+Cedric Diggory,Dudley Dursley,4
+Pansy Parkinson,Rubeus Hagrid,4
+Godric Gryffindor,Sybill Trelawney,4
+Marvolo Gaunt,Ronald Weasley,4
+Pansy Parkinson,Viktor Krum,4
+Gringotts Head Goblin,Severus Snape,4
+Mark Evans,Sorting Hat,4
+Filius Flitwick,Helena Ravenclaw,4
+Filius Flitwick,Gilderoy Lockhart,4
+Cedric Diggory,Draco Malfoy,4
+Griphook,Rubeus Hagrid,4
+Filius Flitwick,Rowena Ravenclaw,4
+Albus Dumbledore,Borgin,4
+Buckbeak,Lucius Malfoy,4
+Parvati Patil,Severus Snape,4
+Fred Weasley,Hannah Abbott,4
+Cedric Diggory,Katie Bell,4
+Marietta Edgecombe,Prime Minister,4
+Griselda Marchbanks,Rubeus Hagrid,4
+Cedric Diggory,Myrtle Warren,4
+Hannah Abbott,Justin Finch-Fletchley,4
+Gregory Goyle,Tom Riddle,4
+Cassius Warrington,Katie Bell,4
+Fred Weasley,Helga Hufflepuff,4
+Grawp,Tom Riddle,4
+Fleur Delacour,Xenophilius Lovegood,4
+Fleur Delacour,Severus Snape,4
+Albus Dumbledore,Dennis Bishop,4
+Oliver Wood,Rowena Ravenclaw,4
+Graham Montague,Hermione Granger,4
+Florean Fortescue,Ronald Weasley,4
+Golpalott,Horace Slughorn,4
+Minerva McGonagall,Mungo Bonham,4
+Michael Corner,Rowena Ravenclaw,4
+Albus Dumbledore,Colin Creevey,4
+Filius Flitwick,Tom Riddle,4
+Fleur Delacour,Godric Gryffindor,4
+Olympe Maxime,Viktor Krum,4
+Albus Dumbledore,Charles Weasley,4
+Padma Patil,Rowena Ravenclaw,4
+Gregory Goyle,Marcus Flint,4
+Fluffy,Quirinus Quirrell,4
+Gregory Goyle,Myrtle Warren,4
+Alfred Cattermole,Mary Cattermole,4
+Bartemius Crouch Senior,Cedric Diggory,4
+Fawkes,Ronald Weasley,4
+Hannah Abbott,Tom Riddle,4
+Fred Weasley,Roger Davies,4
+Alastor Moody,Pomona Sprout,4
+Petunia Dursley,Ronald Weasley,4
+Alastor Moody,Vernon Dursley,4
+Fang,Marcus Flint,4
+Broderick Bode,Hermione Granger,4
+Alastor Moody,Rita Skeeter,4
+Albus Dumbledore,Golpalott,4
+Adrian Pucey,Alicia Spinnet,4
+Harry Potter,Patrick Delaney-Podmore,4
+Everard,Harry Potter,4
+Charles Weasley,Viktor Krum,4
+Luna Lovegood,Pomona Sprout,4
+Harry Potter,Peregrine Derrick,4
+Arthur Weasley,Willy Widdershins,4
+Pius Thicknesse,Tom Riddle,4
+Harry Potter,Pierre Bonaccord,4
+Alecto Carrow,Neville Longbottom,4
+Ludovic Bagman,Rubeus Hagrid,4
+Arthur Weasley,Rubeus Hagrid,4
+Arthur Weasley,Prime Minister,4
+Cho Chang,Father Christmas,4
+Luna Lovegood,Padma Patil,4
+Aurora Sinistra,Harry Potter,4
+Cedric Diggory,Rita Skeeter,4
+Celestina Warbeck,Ronald Weasley,4
+Father Christmas,Severus Snape,4
+Harper,Zacharias Smith,4
+Barnabas Deverill,Loxias,4
+Maisie Cattermole,Mary Cattermole,4
+Albus Dumbledore,Amy Benson,4
+Godric Gryffindor,Parvati Patil,4
+Harry Potter,Keeper of the reptile house,4
+Celestina Warbeck,Molly Weasley,4
+Mafalda Hopkirk,Ronald Weasley,4
+Babbitty Rabbity,Hermione Granger,4
+Fred Weasley,Marcus Flint,4
+Babbitty Rabbity,Harry Potter,4
+Alice Longbottom,Neville Longbottom,4
+Percy Weasley,Winky,4
+Luna Lovegood,Viktor Krum,4
+Godric Gryffindor,Padma Patil,4
+Minerva McGonagall,Quirinus Quirrell,4
+Harry Potter,Malcolm Baddock,4
+Luna Lovegood,Seamus Finnigan,4
+Albus Dumbledore,Fluffy,4
+Adrian Pucey,Angelina Johnson,4
+Gornuk,Griphook,4
+Bellatrix Lestrange,Rubeus Hagrid,4
+Dobby,Dolores Umbridge,4
+Aberforth Dumbledore,Ginevra Weasley,4
+Albus Dumbledore,Sturgis Podmore,4
+Morfin Gaunt,Salazar Slytherin,4
+Dennis Bishop,Tom Riddle,4
+Aberforth Dumbledore,Ivor Dillonsby,4
+Amycus Carrow,Neville Longbottom,4
+Hope Howell,Ronald Weasley,4
+Dirk Cresswell,Gornuk,4
+Aberforth Dumbledore,Narcissa Malfoy,4
+Kreacher,Narcissa Malfoy,4
+George Weasley,Marcus Flint,4
+Demelza Robins,Hermione Granger,4
+Dobby,Fred Weasley,4
+Antonin Dolohov,Igor Karkaroff,4
+Dobby,Griphook,4
+Kreacher,Remus Lupin,4
+Aberforth Dumbledore,Prime Minister,4
+Amy Benson,Tom Riddle,4
+Hermione Granger,Ted,4
+Aberforth Dumbledore,Severus Snape,4
+Dobby,Pigwidgeon,4
+George Weasley,Lucian Bole,4
+Seamus Finnigan,Tom Riddle,4
+Kingsley Shacklebolt,Molly Weasley,4
+Muriel,William Weasley,4
+Angelina Johnson,Ginevra Weasley,4
+Crookshanks,Pigwidgeon,4
+Cornelius Fudge,William Weasley,4
+Mundungus Fletcher,Percy Weasley,4
+Tom Riddle,Viktor Krum,4
+Tom Riddle,Tom Riddle Senior,4
+James Potter I,William Weasley,4
+Katie Bell,Lee Jordan,4
+Katie Bell,Minerva McGonagall,4
+Katie Bell,Mungo Bonham,4
+Andromeda Tonks,Kreacher,4
+Cornelius Fudge,Rita Skeeter,4
+Cornelius Fudge,James Potter I,4
+Cornelius Fudge,Olympe Maxime,4
+Andromeda Tonks,Harry Potter,4
+Sirius Black,Walden Macnair,4
+Mundungus Fletcher,Tom Riddle,4
+Cornelius Fudge,Merlin,4
+Severus Snape,Vincent Crabbe,4
+Dean Thomas,Ted,4
+Angelina Johnson,Rolanda Hooch,4
+Horace Slughorn,Theodore Nott,4
+Angelina Johnson,Vincent Crabbe,4
+Ginevra Weasley,Lee Jordan,4
+Aberforth Dumbledore,Helena Ravenclaw,4
+Cormac McLaggen,Jimmy Peakes,4
+Arabella Figg,Petunia Dursley,4
+Dolores Umbridge,Kingsley Shacklebolt,4
+Dolores Umbridge,Firenze,4
+Ginevra Weasley,Muriel,4
+Cormac McLaggen,Godric Gryffindor,4
+Ginevra Weasley,Mundungus Fletcher,4
+Arcus,Livius,4
+Dolores Umbridge,Lavender Brown,4
+Albus Dumbledore,Muriel,4
+Dolores Umbridge,Horace Slughorn,4
+Lavender Brown,Mungo Bonham,4
+Father Christmas,Xenophilius Lovegood,3
+Harry Potter,Hokey,3
+Barnabas the Barmy,Harry Potter,3
+Peeves,Sirius Black,3
+Fred Weasley,Kenneth Towler,3
+Hannah Abbott,Ronald Weasley,3
+Katie Bell,Severus Snape,3
+Harry Potter,James Potter II,3
+Albert Runcorn,Reginald Cattermole,3
+Billy Stubbs,Tom Riddle,3
+Peeves,Rubeus Hagrid,3
+Bane,Ronald Weasley,3
+Godric Gryffindor,Pomona Sprout,3
+Fred Weasley,Kingsley Shacklebolt,3
+Godric Gryffindor,Peeves,3
+Percy Weasley,Severus Snape,3
+Dean Thomas,Sirius Black,3
+Keeper of the reptile house,Ronald Weasley,3
+Albert Runcorn,Corban Yaxley,3
+Father Christmas,Oliver Wood,3
+Alexei Levski,Harry Potter,3
+Sirius Black,Sybill Trelawney,3
+Sirius Black,Stanley Shunpike,3
+Dean Thomas,Padma Patil,3
+Godric Gryffindor,Phineas Nigellus Black,3
+Harold Dingle,Harry Potter,3
+Hannah Abbott,Terry Boot,3
+Cedric Diggory,Rowena Ravenclaw,3
+Dean Thomas,Phineas Nigellus Black,3
+Father Christmas,Salazar Slytherin,3
+Father Christmas,Rufus Scrimgeour,3
+Harold Dingle,Ronald Weasley,3
+Barry Ryan,Ludovic Bagman,3
+Hannah Abbott,Susan Bones,3
+Cedric Diggory,Seamus Finnigan,3
+Penelope Clearwater,Ronald Weasley,3
+Father Christmas,Remus Lupin,3
+Fawkes,Ginevra Weasley,3
+Father Christmas,Prime Minister,3
+Nymphadora Tonks,Petunia Dursley,3
+Celestina Warbeck,Harry Potter,3
+Bertha Jorkins,Rubeus Hagrid,3
+Hermione Granger,Petunia Dursley,3
+Fred Weasley,Muriel,3
+Broderick Bode,Ronald Weasley,3
+Alecto Carrow,Severus Snape,3
+Bertha Jorkins,Prime Minister,3
+Alicia Spinnet,Draco Malfoy,3
+Ronald Weasley,Terry Boot,3
+Kingsley Shacklebolt,Mundungus Fletcher,3
+Alastor Moody,Rosmerta,3
+Fang,Igor Karkaroff,3
+Broderick Bode,Miriam Strout,3
+George Weasley,Petunia Dursley,3
+Fat Friar,Peeves,3
+Fabian Prewett,Harry Potter,3
+Apolline Delacour,Molly Weasley,3
+Kingsley Shacklebolt,Percy Weasley,3
+Bertha Jorkins,Percy Weasley,3
+Evan Rosier,Wilkes,3
+Neville Longbottom,Sorting Hat,3
+Evan Rosier,Igor Karkaroff,3
+Anthony Goldstein,Hannah Abbott,3
+Euan Abercrombie,Godric Gryffindor,3
+Harry Potter,Mullet,3
+Dedalus Diggle,Petunia Dursley,3
+Keeper of the reptile house,Severus Snape,3
+Minerva McGonagall,Rolanda Hooch,3
+Bandon Banshee,Gilderoy Lockhart,3
+Cedric Diggory,Poppy Pomfrey,3
+Father Christmas,Fleur Delacour,3
+George Weasley,Roger Davies,3
+Kendra Dumbledore,Percival Dumbledore,3
+Hugo Granger-Weasley,Ronald Weasley,3
+Luna Lovegood,Tom Riddle,3
+Peregrine Derrick,Salazar Slytherin,3
+Aberforth Dumbledore,Filius Flitwick,3
+Mungo Bonham,Muriel,3
+Broderick Bode,Saul Croaker,3
+Harry Potter,Marcus Belby,3
+Luna Lovegood,Sirius Black,3
+Alicia Spinnet,Andrew Kirke,3
+Ginevra Weasley,Griphook,3
+Fat Lady,Minerva McGonagall,3
+Luna Lovegood,Salazar Slytherin,3
+Harry Potter,Mason,3
+Ginevra Weasley,Harper,3
+Charles Weasley,Fleur Delacour,3
+Katie Bell,Roger Davies,3
+Harry Potter,Olive Hornby,3
+Hannah Abbott,Lee Jordan,3
+Filius Flitwick,Sirius Black,3
+Gregory Goyle,Horace Slughorn,3
+Leanne,Poppy Pomfrey,3
+Karkus,Ronald Weasley,3
+Olympe Maxime,Sirius Black,3
+Olympe Maxime,Tom Riddle,3
+Tom Riddle,Vincent Crabbe,3
+Olympe Maxime,Walden Macnair,3
+Firenze,Tom Riddle,3
+Godric Gryffindor,Xenophilius Lovegood,3
+Bartemius Crouch Senior,Evan Rosier,3
+Cassandra Vablatsky,Harry Potter,3
+Aberforth Dumbledore,Arthur Weasley,3
+Tobias Snape,Tom Riddle,3
+Betty Braithwaite,Gellert Grindelwald,3
+Mundungus Fletcher,Regulus Black,3
+Godric Gryffindor,William Weasley,3
+Argus Filch,Fang,3
+Betty Braithwaite,Harry Potter,3
+Minerva McGonagall,Olympe Maxime,3
+Ted,Tom Riddle,3
+Ginevra Weasley,Myrtle Warren,3
+Buckbeak,Tom Riddle,3
+Tom Riddle,Williamson,3
+Michael Corner,Neville Longbottom,3
+Mullet,Vasily Dimitrov,3
+Florean Fortescue,Garrick Ollivander,3
+Florean Fortescue,Molly Weasley,3
+Cadmus Peverell,Ignotus Peverell,3
+Violet,William Weasley,3
+Gornuk,Ted,3
+John Dawlish,Severus Snape,3
+Crookshanks,Peter Pettigrew,3
+Dolores Umbridge,Pomona Sprout,3
+Crookshanks,Remus Lupin,3
+Oliver Wood,Peregrine Derrick,3
+Justin Finch-Fletchley,Terry Boot,3
+Michael Corner,Tom Riddle,3
+Alexei Levski,Troy,3
+Bartemius Crouch Senior,George Weasley,3
+Crookshanks,Rubeus Hagrid,3
+Justin Finch-Fletchley,Susan Bones,3
+Cadwallader,Ginevra Weasley,3
+Bartemius Crouch Senior,Neville Longbottom,3
+Troy,Vasily Dimitrov,3
+Michael Corner,Padma Patil,3
+Mason,Vernon Dursley,3
+Pansy Parkinson,Parvati Patil,3
+Errol,Pigwidgeon,3
+Katie Bell,Luna Lovegood,3
+Cedric Diggory,Filius Flitwick,3
+Aragog,Borgin,3
+Amos Diggory,Hermione Granger,3
+Argus Filch,Filius Flitwick,3
+Fenrir Greyback,Severus Snape,3
+Fenrir Greyback,Scabior,3
+Cedric Diggory,Garrick Ollivander,3
+Albus Dumbledore,Billy Stubbs,3
+Jack Sloper,Ronald Weasley,3
+Albus Dumbledore,Bertie Bott,3
+Fenrir Greyback,Narcissa Malfoy,3
+Mark Evans,Ronald Weasley,3
+Albus Dumbledore,Ernest Macmillan,3
+Dolores Umbridge,Lucius Malfoy,3
+Marietta Edgecombe,Ronald Weasley,3
+Adrian Pucey,Graham Montague,3
+Cedric Diggory,Molly Weasley,3
+Katie Bell,Poppy Pomfrey,3
+Bilius,George Weasley,3
+Minerva McGonagall,Peter Pettigrew,3
+Barry Ryan,Percy Weasley,3
+Baruffio,Ronald Weasley,3
+James Potter I,Molly Weasley,3
+Fenrir Greyback,William Weasley,3
+Algie Longbottom,Harry Potter,3
+Godric Gryffindor,Viktor Krum,3
+Susan Bones,Terry Boot,3
+Sturgis Podmore,Tom Riddle,3
+Gregory Goyle,Theodore Nott,3
+Aberforth Dumbledore,Bellatrix Lestrange,3
+Oblansk,Prime Minister,3
+Sorting Hat,Stewart Ackerley,3
+Gilderoy Lockhart,Myrtle Warren,3
+James Potter I,Salazar Slytherin,3
+Cassius Warrington,Ronald Weasley,3
+Cormac McLaggen,Draco Malfoy,3
+Filius Flitwick,Ludovic Bagman,3
+Dean Thomas,Dirk Cresswell,3
+Cornelius Fudge,Tom Riddle Senior,3
+Ali Bashir,Arthur Weasley,3
+George Weasley,Hedwig,3
+James Potter I,Prime Minister,3
+Dean Thomas,Firenze,3
+James Potter I,Petunia Dursley,3
+Cornelius Fudge,Rosmerta,3
+Aberforth Dumbledore,Betty Braithwaite,3
+George Weasley,Helga Hufflepuff,3
+Antonin Dolohov,Bartemius Crouch Senior,3
+Cornelius Fudge,Dudley Dursley,3
+Armando Dippet,Rubeus Hagrid,3
+Hermione Granger,James Potter I,3
+Eileen Prince,Horace Slughorn,3
+Cho Chang,Puddifoot,3
+Piers Polkiss,Vernon Dursley,3
+Draco Malfoy,Prime Minister,3
+Albus Dumbledore,Padma Patil,3
+Rubeus Hagrid,Seamus Finnigan,3
+Armando Dippet,Olive Hornby,3
+Draco Malfoy,Peter Pettigrew,3
+Regulus Black,Ronald Weasley,3
+Harry Potter,Willy Widdershins,3
+Amelia Bones,Cornelius Fudge,3
+Rodolphus Lestrange,Sirius Black,3
+Neville Longbottom,Peeves,3
+Alastor Moody,Dolores Umbridge,3
+Alastor Moody,Dedalus Diggle,3
+Ambrosius Flume,Horace Slughorn,3
+Albus Potter,Hugo Granger-Weasley,3
+Eileen Prince,Molly Weasley,3
+Clara Ivanova,Moran,3
+Arnold,Harry Potter,3
+Aberforth Dumbledore,Nymphadora Tonks,3
+Borgin,Lucius Malfoy,3
+Albus Potter,Sorting Hat,3
+Lucius Malfoy,Remus Lupin,3
+Dirk Cresswell,John Dawlish,3
+Harry Potter,Unicorn,3
+Harry Potter,Urquhart,3
+Dirk Cresswell,Nymphadora Tonks,3
+Amycus Carrow,Ginevra Weasley,3
+Aidan Lynch,Moran,3
+Cornelius Fudge,Father Christmas,3
+Alastor Moody,Father Christmas,3
+Aidan Lynch,Connolly,3
+Gabrielle Delacour,Hermione Granger,3
+Harry Potter,Violet,3
+Rabastan Lestrange,Rodolphus Lestrange,3
+Gabrielle Delacour,Molly Weasley,3
+Eileen Prince,Severus Snape,3
+Cornelius Agrippa,Ronald Weasley,3
+Dobby,Ginevra Weasley,3
+Draco Malfoy,Parvati Patil,3
+Narcissa Malfoy,Tom Riddle,3
+Cormac McLaggen,Neville Longbottom,3
+Draco Malfoy,Rowena Ravenclaw,3
+Ariana Dumbledore,Lily J. Potter,3
+Hermes,Pigwidgeon,3
+Molly Weasley,Muriel,3
+Alphard Black,Kreacher,3
+Lily J. Potter,Salazar Slytherin,3
+Ariana Dumbledore,James Potter I,3
+Chudley Cannons,Hermione Granger,3
+Garrick Ollivander,Rubeus Hagrid,3
+Dobby,Katie Bell,3
+George Weasley,Luna Lovegood,3
+Blaise Zabini,Theodore Nott,3
+Aberforth Dumbledore,Regulus Black,3
+Helga Hufflepuff,Justin Finch-Fletchley,3
+Rowena Ravenclaw,Sorting Hat,3
+Dobby,Neville Longbottom,3
+Helga Hufflepuff,Lee Jordan,3
+Minerva McGonagall,Winky,3
+Ariana Dumbledore,Neville Longbottom,3
+Dudley Dursley,Tom Riddle,3
+Myrtle Warren,Severus Snape,3
+Remus Lupin,Seamus Finnigan,3
+Hermione Granger,Hope Howell,3
+Neville Longbottom,Parvati Patil,3
+Ginevra Weasley,Vincent Crabbe,3
+Hedwig,Hermes,3
+Cho Chang,Tom Riddle,3
+Dudley Dursley,Molly Weasley,3
+Cho Chang,Viktor Krum,3
+Cornelius Agrippa,Harry Potter,3
+Ariana Dumbledore,Percival Dumbledore,3
+Hedwig,Luna Lovegood,3
+Colin Creevey,Minerva McGonagall,3
+Dudley Dursley,Hermione Granger,3
+Roberts,Ronald Weasley,3
+Alastor Moody,Antonin Dolohov,3
+Remus Lupin,Travers,3
+Borgin,Graham Montague,3
+Ginevra Weasley,Viktor Krum,3
+Antonin Dolohov,Parvati Patil,3
+Ginevra Weasley,Seamus Finnigan,3
+Horace Slughorn,Kingsley Shacklebolt,3
+Ernest Macmillan,Gregory Goyle,3
+Rolanda Hooch,Vincent Crabbe,3
+Bellatrix Lestrange,Williamson,3
+Arthur Weasley,Neville Longbottom,3
+Harry Potter,Ripper,3
+Dobby,William Weasley,3
+Arthur Weasley,Narcissa Malfoy,3
+Bloody Baron,Ronald Weasley,3
+Rolanda Hooch,Salazar Slytherin,3
+Cormac McLaggen,Parvati Patil,3
+Bathilda Bagshot,Ronald Weasley,3
+Anthony Goldstein,Ronald Weasley,3
+Dobby,Rubeus Hagrid,3
+Albus Dumbledore,Susan Bones,3
+Poppy Pomfrey,Sirius Black,3
+Bradley,Hermione Granger,3
+Bradley,Harry Potter,3
+Albus Dumbledore,Gringotts Head Goblin,3
+Mungo Bonham,Sirius Black,3
+Arthur Weasley,Vernon Dursley,3
+Ludovic Bagman,Sirius Black,3
+Pius Thicknesse,Rufus Scrimgeour,3
+Helga Hufflepuff,Tom Riddle,3
+Aberforth Dumbledore,Ignotus Peverell,3
+Ronald Weasley,Rose Granger-Weasley,3
+Adrian Pucey,Cassius Warrington,3
+Draco Malfoy,Lee Jordan,3
+Albus Dumbledore,Luna Lovegood,3
+Anthony Goldstein,Justin Finch-Fletchley,3
+Mungo Bonham,Severus Snape,3
+Cho Chang,Dean Thomas,3
+Ernest Macmillan,Susan Bones,3
+Broderick Bode,Draco Malfoy,3
+Arthur Weasley,Reginald Cattermole,3
+Minerva McGonagall,Seamus Finnigan,3
+Pomona Sprout,Sybill Trelawney,3
+Ernest Macmillan,Neville Longbottom,3
+Alicia Spinnet,Jack Sloper,3
+Colin Creevey,Godric Gryffindor,3
+Poppy Pomfrey,Viktor Krum,3
+Fred Weasley,Wilbert Slinkhard,3
+Harry Potter,Stewart Ackerley,3
+Dilys Derwent,Everard,3
+Anthony Goldstein,Zacharias Smith,3
+Harry Potter,Stubby Boardman,3
+Antioch Peverell,Cadmus Peverell,3
+Elphias Doge,Hermione Granger,3
+Antioch Peverell,Ignotus Peverell,3
+Dobby,Severus Snape,3
+Alastor Moody,Lee Jordan,3
+Harry Potter,Terence Higgs,3
+Kreacher,Molly Weasley,3
+Argus Filch,Myrtle Warren,3
+Colin Creevey,Draco Malfoy,3
+Helga Hufflepuff,Sirius Black,3
+Antonin Dolohov,Remus Lupin,3
+Beedle the Bard,Xenophilius Lovegood,3
+Antonin Dolohov,Ronald Weasley,3
+Anthony Goldstein,Tom Riddle,3
+Roger Davies,Severus Snape,3
+Hippocrates Smethwyck,Molly Weasley,3
+Poppy Pomfrey,Winky,3
+Hermione Granger,Roger Davies,3
+Colin Creevey,Rubeus Hagrid,3
+Bob Ogden,Salazar Slytherin,3
+Cho Chang,Cornelius Fudge,3
+Godric Gryffindor,James Potter I,3
+Beedle the Bard,Gellert Grindelwald,3
+Emeric the Evil,Severus Snape,3
+Ludovic Bagman,Tom Riddle,3
+Neville Longbottom,Prime Minister,3
+Fred Weasley,Sybill Trelawney,3
+Lucius Malfoy,Theodore Nott,3
+Anthony Goldstein,Susan Bones,3
+Lily J. Potter,Mary Macdonald,3
+Aidan Lynch,Ludovic Bagman,3
+Helga Hufflepuff,Viktor Krum,3
+Bertie Higgs,Cormac McLaggen,2
+Mulciber (Marauder-era),Travers,2
+Albus Potter,Godric Gryffindor,2
+Bertie Higgs,Prime Minister,2
+Bertie Higgs,Tiberius Ogden,2
+Gilderoy Lockhart,Merlin,2
+Millicent Bulstrode,Vincent Crabbe,2
+Albus Dumbledore,Willy Widdershins,2
+Molly Weasley,Vincent Crabbe,2
+Albus Dumbledore,Zacharias Smith,2
+Bertie Higgs,Rufus Scrimgeour,2
+Ginevra Weasley,Rodolphus Lestrange,2
+Alexei Levski,Mullet,2
+Bellatrix Lestrange,Travers,2
+Godric Gryffindor,Poppy Pomfrey,2
+Bellatrix Lestrange,Horace Slughorn,2
+Godric Gryffindor,Hedwig,2
+Beedle the Bard,Rufus Scrimgeour,2
+Godric Gryffindor,Hugo Granger-Weasley,2
+Alexei Levski,Clara Ivanova,2
+Beedle the Bard,Godric Gryffindor,2
+Gilderoy Lockhart,Vincent Crabbe,2
+Mosag,Rubeus Hagrid,2
+Godric Gryffindor,Justin Finch-Fletchley,2
+Godric Gryffindor,Kingsley Shacklebolt,2
+Godric Gryffindor,Lavender Brown,2
+Bathilda Bagshot,James Potter I,2
+Albus Dumbledore,Ted,2
+Godric Gryffindor,Muriel,2
+Alecto Carrow,Mark Evans,2
+Bellatrix Lestrange,Regulus Black,2
+Ginevra Weasley,Jack Sloper,2
+Molly Weasley,Sybill Trelawney,2
+Bellatrix Lestrange,Mark Evans,2
+Bathilda Bagshot,Lily J. Potter,2
+Albus Potter,Draco Malfoy,2
+Ginevra Weasley,Hedwig,2
+Godric Gryffindor,Michael Corner,2
+Alecto Carrow,Ronald Weasley,2
+Minerva McGonagall,Rufus Scrimgeour,2
+Godric Gryffindor,Helena Ravenclaw,2
+Ginevra Weasley,Phineas Nigellus Black,2
+Bernie,Ronald Weasley,2
+Bertha Jorkins,Severus Snape,2
+Bartemius Crouch Senior,Travers,2
+Bartemius Crouch Senior,Vernon Dursley,2
+Ginevra Weasley,Sybill Trelawney,2
+Godric Gryffindor,Silvanus Kettleburn,2
+Baruffio,Eddie Carmichael,2
+Bertie Bott,Ronald Weasley,2
+Baruffio,Harry Potter,2
+Baruffio,Rowena Ravenclaw,2
+Ginevra Weasley,Kendra Dumbledore,2
+Godric Gryffindor,Rose Granger-Weasley,2
+Albus Potter,Father Christmas,2
+Gilderoy Lockhart,Ogden,2
+Bellatrix Lestrange,Rabastan Lestrange,2
+Godelot,Hereward,2
+Albus Dumbledore,Stanley Shunpike,2
+Gilderoy Lockhart,Poppy Pomfrey,2
+Ginevra Weasley,Katie Bell,2
+Albus Dumbledore,Vincent Crabbe,2
+Gilderoy Lockhart,Salazar Slytherin,2
+Bellatrix Lestrange,Cornelius Fudge,2
+Godric Gryffindor,Hannah Abbott,2
+Beedle the Bard,Viktor Krum,2
+Bathilda Bagshot,Gellert Grindelwald,2
+Ginevra Weasley,Rose Granger-Weasley,2
+Ludovic Bagman,Rosmerta,2
+Gornuk,Harry Potter,2
+Amelia Bones,Molly Weasley,2
+Lee Jordan,Prime Minister,2
+Lee Jordan,Peregrine Derrick,2
+Amelia Bones,Nymphadora Tonks,2
+Argus Filch,Gilderoy Lockhart,2
+Hermione Granger,Mark Evans,2
+Lee Jordan,Oliver Wood,2
+Amelia Bones,Prime Minister,2
+Amelia Bones,Sirius Black,2
+Leanne,Rubeus Hagrid,2
+Hermione Granger,Narcissa Malfoy,2
+Lavender Brown,Tom Riddle,2
+Amos Diggory,Arthur Weasley,2
+Lavender Brown,Remus Lupin,2
+Amos Diggory,Ludovic Bagman,2
+Arabella Figg,Remus Lupin,2
+Antonin Dolohov,Walden Macnair,2
+Hermione Granger,Roberts,2
+Hermione Granger,Rolanda Hooch,2
+Hermione Granger,Romilda Vane,2
+Lancelot (Healer),Muriel,2
+Hermione Granger,Rosalind Bungs,2
+Hermione Granger,Rosmerta,2
+Lancelot (Healer),Mungo Bonham,2
+Lee Jordan,Roger Davies,2
+Argus Filch,Pomona Sprout,2
+Hedwig,Minerva McGonagall,2
+Argus Filch,Poppy Pomfrey,2
+Hedwig,Neville Longbottom,2
+Ariana Dumbledore,Mungo Bonham,2
+Lucian Bole,Salazar Slytherin,2
+Lucian Bole,Rolanda Hooch,2
+Ariana Dumbledore,Lancelot (Healer),2
+Alicia Spinnet,Rolanda Hooch,2
+Lucian Bole,Oliver Wood,2
+Lisa Turpin,Ronald Weasley,2
+Helga Hufflepuff,Hepzibah Smith,2
+Alicia Spinnet,Severus Snape,2
+Helga Hufflepuff,Marcus Flint,2
+Ambrosius Flume,Ciceron Harkiss,2
+Ariana Dumbledore,Bathilda Bagshot,2
+Helga Hufflepuff,Rubeus Hagrid,2
+Amelia Bones,Emmeline Vance,2
+Lily J. Potter,Lucius Malfoy,2
+Helga Hufflepuff,Susan Bones,2
+Argus Filch,Salazar Slytherin,2
+Hepzibah Smith,Morfin Gaunt,2
+Herbert Chorley,Mungo Bonham,2
+Argus Filch,Remus Lupin,2
+Lev Zograf,Mullet,2
+Hermes,Ronald Weasley,2
+Lachlan the Lanky,Ronald Weasley,2
+Hermione Granger,Scabior,2
+Antonin Dolohov,Nymphadora Tonks,2
+Antonin Dolohov,Neville Longbottom,2
+Keeper of the reptile house,Minerva McGonagall,2
+Angelina Johnson,Luna Lovegood,2
+Andromeda Tonks,Bellatrix Lestrange,2
+Angelina Johnson,Lee Jordan,2
+Igor Karkaroff,Travers,2
+Irma Pince,Nicolas Flamel,2
+Angelina Johnson,Jack Sloper,2
+Katie Bell,Rolanda Hooch,2
+Ivan Volkov,Moran,2
+Katie Bell,Peeves,2
+James Potter I,Rubeus Hagrid,2
+Katie Bell,Marcus Flint,2
+Andromeda Tonks,Narcissa Malfoy,2
+James Potter II,Ronald Weasley,2
+Angelina Johnson,Cho Chang,2
+Jim McGuffin,Ted,2
+Angelina Johnson,Cedric Diggory,2
+Jimmy Peakes,Ronald Weasley,2
+Justin Finch-Fletchley,Vincent Crabbe,2
+Justin Finch-Fletchley,Severus Snape,2
+Justin Finch-Fletchley,Ronald Weasley,2
+John Dawlish,William Weasley,2
+Justin Finch-Fletchley,Neville Longbottom,2
+Angelina Johnson,Pansy Parkinson,2
+Igor Karkaroff,Mulciber (Marauder-era),2
+Angelina Johnson,Peregrine Derrick,2
+Kingsley Shacklebolt,Severus Snape,2
+Kreacher,Severus Snape,2
+Kreacher,Phineas Nigellus Black,2
+Hermione Granger,Vernon Dursley,2
+Kreacher,Petunia Dursley,2
+Amycus Carrow,Filius Flitwick,2
+Hermione Granger,Violet,2
+Hokey,Morfin Gaunt,2
+Anthony Goldstein,Rowena Ravenclaw,2
+Anthony Goldstein,Neville Longbottom,2
+Horace Slughorn,Libatius Borage,2
+Kingsley Shacklebolt,Rufus Scrimgeour,2
+Ignotus Peverell,Marvolo Gaunt,2
+Amycus Carrow,Ronald Weasley,2
+Horace Slughorn,Melinda Bobbin,2
+Horace Slughorn,Michael Corner,2
+Anthony Goldstein,Gregory Goyle,2
+Horace Slughorn,Poppy Pomfrey,2
+Horace Slughorn,Regulus Black,2
+Kingsley Shacklebolt,Kreacher,2
+Horace Slughorn,Tobias Snape,2
+Angelina Johnson,Rubeus Hagrid,2
+Horace Slughorn,Vincent Crabbe,2
+Ariana Dumbledore,Prime Minister,2
+Lucius Malfoy,Mark Evans,2
+Gornuk,Nymphadora Tonks,2
+Griphook,Travers,2
+Mark Evans,Rosmerta,2
+Mark Evans,Remus Lupin,2
+Griselda Marchbanks,Minerva McGonagall,2
+Marietta Edgecombe,Poppy Pomfrey,2
+Gwenog Jones,Ronald Weasley,2
+Hannah Abbott,Neville Longbottom,2
+Hannah Abbott,Poppy Pomfrey,2
+Hannah Abbott,Seamus Finnigan,2
+Hannah Abbott,Zacharias Smith,2
+Harry Potter,Hassan Mostafa,2
+Harry Potter,Hengist of Woodcroft,2
+Barry Ryan,Bozo,2
+Bane,Tom Riddle,2
+Harry Potter,John Dawlish,2
+Bane,Magorian,2
+Mafalda Hopkirk,Sirius Black,2
+Bane,Dolores Umbridge,2
+Luna Lovegood,Trevor,2
+Luna Lovegood,Ted,2
+Alice Longbottom,Ronald Weasley,2
+Harry Potter,Melinda Bobbin,2
+Avery (Marauder-era),Bellatrix Lestrange,2
+Luna Lovegood,Rodolphus Lestrange,2
+Griphook,Will,2
+Griphook,Tom Riddle,2
+Lucius Malfoy,Millicent Bulstrode,2
+Griphook,Muriel,2
+Graham Montague,Harry Potter,2
+Bartemius Crouch Senior,Molly Weasley,2
+Graham Montague,Lucian Bole,2
+Graham Montague,Minerva McGonagall,2
+Graham Montague,Rolanda Hooch,2
+Grawp,Magorian,2
+Bartemius Crouch Senior,Fleur Delacour,2
+Bartemius Crouch Senior,Father Christmas,2
+Alfred Cattermole,Dolores Umbridge,2
+Merlin,Rubeus Hagrid,2
+Merlin,Prime Minister,2
+Merlin,Percy Weasley,2
+Gregory Goyle,Remus Lupin,2
+Bartemius Crouch Senior,Bozo,2
+Bartemius Crouch Junior,Sirius Black,2
+Bartemius Crouch Junior,Rodolphus Lestrange,2
+Bartemius Crouch Junior,Percy Weasley,2
+Mary Macdonald,Severus Snape,2
+Mary Cattermole,Selwyn,2
+Bartemius Crouch Junior,Mungo Bonham,2
+Gringotts Head Goblin,Hermione Granger,2
+Algie Longbottom,Neville Longbottom,2
+Gringotts Head Goblin,Quirinus Quirrell,2
+Aurora Sinistra,Minerva McGonagall,2
+Harry Potter,Mulciber (Marauder-era),2
+Alicia Spinnet,Dolores Umbridge,2
+Augustus Rookwood,Lucius Malfoy,2
+Arthur Weasley,Eric Munch,2
+Alicia Spinnet,Luna Lovegood,2
+Harry Potter,Skower,2
+Arthur Weasley,Dai Llewellyn,2
+Harry Potter,Stebbins (Potter-era),2
+Alicia Spinnet,Poppy Pomfrey,2
+Harry Potter,Theodore Nott,2
+Harry Potter,Thorfinn Rowle,2
+Harry Potter,Tiberius Ogden,2
+Arnold Peasegood,Harry Potter,2
+Arnold Peasegood,Draco Malfoy,2
+Harry Potter,Tom Riddle Senior,2
+Arnold,Ronald Weasley,2
+Lucius Malfoy,Prime Minister,2
+Arnold,Crookshanks,2
+Harry Potter,Wilfred the Wistful,2
+Alicia Spinnet,Roger Davies,2
+Armando Dippet,Myrtle Warren,2
+Lucius Malfoy,Nagini,2
+Ariana Dumbledore,Tom Riddle,2
+Lucius Malfoy,Mungo Bonham,2
+Lucius Malfoy,Minerva McGonagall,2
+Hector Dagworth-Granger,Hermione Granger,2
+Arthur Weasley,Everard,2
+Arthur Weasley,Fabian Prewett,2
+Harry Potter,Sanguini,2
+Arthur Weasley,Sturgis Podmore,2
+Luna Lovegood,Millicent Bulstrode,2
+Augustus Rookwood,Hermione Granger,2
+Luna Lovegood,Michael Corner,2
+Ludovic Bagman,William Weasley,2
+Harry Potter,Orion Black,2
+Harry Potter,Owner of the Railview Hotel,2
+Augustus Rookwood,Broderick Bode,2
+Augustus Rookwood,Avery (Marauder-era),2
+Ludovic Bagman,Vasily Dimitrov,2
+Harry Potter,Percival Dumbledore,2
+Gilderoy Lockhart,Godric Gryffindor,2
+Lucius Malfoy,Tobias Snape,2
+Alicia Spinnet,Ginevra Weasley,2
+Ludovic Bagman,Ragnok,2
+Ludovic Bagman,Prime Minister,2
+Arthur Weasley,Muriel,2
+Harry Potter,Roberts,2
+Harry Potter,Rodolphus Lestrange,2
+Alicia Spinnet,Hermione Granger,2
+Arthur Weasley,Mary Cattermole,2
+Arthur Weasley,James Potter I,2
+Alicia Spinnet,Lee Jordan,2
+Gilderoy Lockhart,Gregory Goyle,2
+Father Christmas,Pigwidgeon,2
+Pius Thicknesse,Prime Minister,2
+Pomona Sprout,Poppy Pomfrey,2
+Alastor Moody,Lavender Brown,2
+Prime Minister,Rolanda Hooch,2
+Cho Chang,Lee Jordan,2
+Poppy Pomfrey,Tom Riddle,2
+Eric Munch,Harry Potter,2
+Ernest Macmillan,Godric Gryffindor,2
+Cho Chang,Katie Bell,2
+Cho Chang,Helga Hufflepuff,2
+Pomona Sprout,Tom Riddle,2
+Ernest Macmillan,Minerva McGonagall,2
+Alastor Moody,Mungo Bonham,2
+Ernest Macmillan,Tom Riddle,2
+Alastor Moody,Seamus Finnigan,2
+Ernest Macmillan,Vincent Crabbe,2
+Alastor Moody,Percy Weasley,2
+Errol,Percy Weasley,2
+Evan Rosier,Sirius Black,2
+Alastor Moody,Prime Minister,2
+Everard,Minerva McGonagall,2
+Fabian Prewett,Gideon Prewett,2
+Fabian Prewett,Molly Weasley,2
+Fabian Prewett,Ronald Weasley,2
+Phineas Nigellus Black,Prime Minister,2
+Fang,Gilderoy Lockhart,2
+Emeric the Evil,Mulciber (Marauder-era),2
+Emeric the Evil,Harry Potter,2
+Prime Minister,Stanley Shunpike,2
+Prime Minister,Sybill Trelawney,2
+Dudley Dursley,Fenrir Greyback,2
+Chudley Cannons,Father Christmas,2
+Chudley Cannons,Dragomir Gorgovitch,2
+Dudley Dursley,Gordon,2
+Cho Chang,Terry Boot,2
+Cho Chang,Stewart Ackerley,2
+Dudley Dursley,Scabior,2
+Cho Chang,Salazar Slytherin,2
+Eileen Prince,Ginevra Weasley,2
+Eldred Worple,Horace Slughorn,2
+Alastor Moody,Frank Bryce,2
+Elfric the Eager,Hermione Granger,2
+Quigley,Troy,2
+Alastor Moody,Gregory Goyle,2
+Elladora Black,Kreacher,2
+Eloise Midgen,Hannah Abbott,2
+Eloise Midgen,Helga Hufflepuff,2
+Eloise Midgen,Hermione Granger,2
+Eloise Midgen,Pomona Sprout,2
+Puddifoot,Ronald Weasley,2
+Elphias Doge,Kendra Dumbledore,2
+Elphias Doge,Lancelot (Healer),2
+Cho Chang,Padma Patil,2
+Petunia Dursley,Will,2
+Peter Pettigrew,Rubeus Hagrid,2
+Dragomir Gorgovitch,Ronald Weasley,2
+Cassius Warrington,Neville Longbottom,2
+Fenrir Greyback,Minerva McGonagall,2
+Cedric Diggory,Hannah Abbott,2
+Parvati Patil,Rowena Ravenclaw,2
+Fenrir Greyback,Vernon Dursley,2
+Parvati Patil,Remus Lupin,2
+Fergus,Seamus Finnigan,2
+Cedric Diggory,Dean Thomas,2
+Cedric Diggory,Colin Creevey,2
+Cassius Warrington,Vincent Crabbe,2
+Filius Flitwick,Kingsley Shacklebolt,2
+Pansy Parkinson,Severus Snape,2
+Albus Dumbledore,Caractacus Burke,2
+Fat Lady,Horace Slughorn,2
+Filius Flitwick,Prime Minister,2
+Filius Flitwick,Rolanda Hooch,2
+Pansy Parkinson,Rita Skeeter,2
+Filius Flitwick,Salazar Slytherin,2
+Filius Flitwick,Stebbins (Potter-era),2
+Cassius Warrington,Godric Gryffindor,2
+Firenze,Grawp,2
+Cassius Warrington,George Weasley,2
+Firenze,Luna Lovegood,2
+Padma Patil,Pansy Parkinson,2
+Olympe Maxime,Severus Snape,2
+Fenrir Greyback,Mark Evans,2
+Fenrir Greyback,Lavender Brown,2
+Parvati Patil,Viktor Krum,2
+Fawkes,Sirius Black,2
+Fat Lady,Lily J. Potter,2
+Fat Lady,Neville Longbottom,2
+Fat Lady,Percy Weasley,2
+Albert Runcorn,Albus Dumbledore,2
+Fat Lady,Rubeus Hagrid,2
+Chambers,Ronald Weasley,2
+Fat Lady,Tom Riddle,2
+Father Christmas,Filius Flitwick,2
+Father Christmas,Gilderoy Lockhart,2
+Father Christmas,Godric Gryffindor,2
+Percy Weasley,Seamus Finnigan,2
+Father Christmas,Minerva McGonagall,2
+Father Christmas,Mundungus Fletcher,2
+Father Christmas,Neville Longbottom,2
+Albus Dumbledore,Angelina Johnson,2
+Percy Weasley,Poppy Pomfrey,2
+Cedric Diggory,Sirius Black,2
+Percy Weasley,Pius Thicknesse,2
+Cedric Diggory,Salazar Slytherin,2
+Father Christmas,Sybill Trelawney,2
+Albus Dumbledore,Ariana Dumbledore,2
+Fawkes,Minerva McGonagall,2
+Albus Dumbledore,Bane,2
+Remus Lupin,Vincent Crabbe,2
+Dragomir Gorgovitch,Harry Potter,2
+Fleur Delacour,Helga Hufflepuff,2
+Cornelius Fudge,Fred Weasley,2
+Selwyn,Tom Riddle,2
+Cornelius Fudge,Igor Karkaroff,2
+Demelza Robins,Godric Gryffindor,2
+Seamus Finnigan,Vernon Dursley,2
+Demelza Robins,Jimmy Peakes,2
+Demelza Robins,Ritchie Coote,2
+Demelza Robins,Severus Snape,2
+Aberforth Dumbledore,Godric Gryffindor,2
+Dennis,Dudley Dursley,2
+Salazar Slytherin,Urquhart,2
+Aberforth Dumbledore,James Potter I,2
+Dennis Creevey,Hermione Granger,2
+Dobby,Godric Gryffindor,2
+Aberforth Dumbledore,Kingsley Shacklebolt,2
+Dennis Creevey,Ronald Weasley,2
+Rufus Scrimgeour,Vernon Dursley,2
+Rufus Scrimgeour,Tobias Snape,2
+Rubeus Hagrid,Winky,2
+Dilys Derwent,Harry Potter,2
+Dilys Derwent,Minerva McGonagall,2
+Dirk Cresswell,Ginevra Weasley,2
+Rubeus Hagrid,Will,2
+Aberforth Dumbledore,Percy Weasley,2
+Cornelius Fudge,Edgar Bones,2
+Cornelius Fudge,John Dawlish,2
+Dedalus Diggle,Dudley Dursley,2
+Dean Thomas,Vincent Crabbe,2
+Dean Thomas,Viktor Krum,2
+Crookshanks,Molly Weasley,2
+Crookshanks,George Weasley,2
+Theodore Nott,Vincent Crabbe,2
+Dai Llewellyn,Harry Potter,2
+Cornelius Fudge,Vasily Dimitrov,2
+Cornelius Fudge,Troy,2
+Dean Thomas,Draco Malfoy,2
+Dean Thomas,Ernest Macmillan,2
+Snatchers,William Weasley,2
+Dean Thomas,Fred Weasley,2
+Dean Thomas,George Weasley,2
+Dean Thomas,Gilderoy Lockhart,2
+Dean Thomas,Gregory Goyle,2
+Snatchers,Stanley Shunpike,2
+Sirius Black,William Weasley,2
+Cornelius Fudge,Nymphadora Tonks,2
+Cornelius Fudge,Mungo Bonham,2
+Cornelius Fudge,Mullet,2
+Cornelius Fudge,Moran,2
+Dean Thomas,Roger Davies,2
+Aberforth Dumbledore,Dorcas Meadowes,2
+Dean Thomas,Salazar Slytherin,2
+Severus Snape,William Weasley,2
+Rubeus Hagrid,Tenebrus,2
+Dobby,Igor Karkaroff,2
+Aidan Lynch,Troy,2
+Roger Davies,Seamus Finnigan,2
+Draco Malfoy,Errol,2
+Adrian Pucey,Lee Jordan,2
+Colin Creevey,Poppy Pomfrey,2
+Adrian Pucey,Salazar Slytherin,2
+Colin Creevey,Luna Lovegood,2
+Colin Creevey,Ludovic Bagman,2
+Draco Malfoy,Justin Finch-Fletchley,2
+Ronald Weasley,Rosmerta,2
+Draco Malfoy,Malcolm Baddock,2
+Colin Creevey,Ernest Macmillan,2
+Colin Creevey,Dobby,2
+Roger Davies,Rowena Ravenclaw,2
+Cormac McLaggen,Tiberius Ogden,2
+Clara Ivanova,Vasily Dimitrov,2
+Rodolphus Lestrange,Ronald Weasley,2
+Rita Skeeter,Winky,2
+Rita Skeeter,Viktor Krum,2
+Rita Skeeter,Sirius Black,2
+Aidan Lynch,Quigley,2
+Draco Malfoy,Tobias Snape,2
+Ripper,Vernon Dursley,2
+Remus Lupin,Xenophilius Lovegood,2
+Draco Malfoy,Will,2
+Draco Malfoy,William Weasley,2
+Draco Malfoy,Dudley Dursley,2
+Ronald Weasley,Tobias Snape,2
+Dorcas Meadowes,Tom Riddle,2
+Dolores Umbridge,Willy Widdershins,2
+Cormac McLaggen,Sybill Trelawney,2
+Rubeus Hagrid,Silvanus Kettleburn,2
+Cormac McLaggen,Rufus Scrimgeour,2
+Cormac McLaggen,Rubeus Hagrid,2
+Rowena Ravenclaw,Xenophilius Lovegood,2
+Cormac McLaggen,Prime Minister,2
+Rowena Ravenclaw,Terry Boot,2
+Cormac McLaggen,Marcus Belby,2
+Rowena Ravenclaw,Rubeus Hagrid,2
+Cormac McLaggen,Helga Hufflepuff,2
+Adalbert Waffling,Bathilda Bagshot,2
+Dolores Umbridge,Kreacher,2
+Cormac McLaggen,Father Christmas,2
+Dolores Umbridge,Mafalda Hopkirk,2
+Cormac McLaggen,Eileen Prince,2
+Cormac McLaggen,Demelza Robins,2
+Dolores Umbridge,Mungo Bonham,2
+Adrian Pucey,Fred Weasley,2
+Adrian Pucey,George Weasley,2
+Dolores Umbridge,Rufus Scrimgeour,2
+Ronald Weasley,Vaisey,2
+Connolly,Moran,2
+Dolores Umbridge,Travers,2
+Caractacus Burke,Will,2
+Justin Finch-Fletchley,Luna Lovegood,2
+George Weasley,Gilderoy Lockhart,2
+George Weasley,Graham Montague,2
+Fred Weasley,Viktor Krum,2
+Albus Dumbledore,Elfric the Eager,2
+Mundungus Fletcher,Rubeus Hagrid,2
+Albus Dumbledore,Eileen Prince,2
+Albus Dumbledore,Pansy Parkinson,2
+Borgin,Molly Weasley,2
+Albus Dumbledore,Gregory Goyle,2
+Neville Longbottom,Roger Davies,2
+Blaise Zabini,Godric Gryffindor,2
+Nymphadora Tonks,Rufus Scrimgeour,2
+Blood-Sucking Bugbear,Rubeus Hagrid,2
+Oliver Wood,Roger Davies,2
+Albus Dumbledore,Dean Thomas,2
+Fleur Delacour,Rowena Ravenclaw,2
+Bilius,Fred Weasley,2
+Borgin,Mark Evans,2
+Fridwulfa,Tom Riddle,2
+Albus Dumbledore,Corban Yaxley,2
+Gellert Grindelwald,Xenophilius Lovegood,2
+Florean Fortescue,Hermione Granger,2
+Blast-Ended Skrewt,Hermione Granger,2
+Mundungus Fletcher,Sturgis Podmore,2
+Myrtle Warren,Percy Weasley,2
+Broderick Bode,Lucius Malfoy,2
+George Weasley,Peregrine Derrick,2
+Oliver Wood,Percy Weasley,2
+Mungo Bonham,Nymphadora Tonks,2
+Bloody Baron,Percy Weasley,2
+Florean Fortescue,William Weasley,2
+Gellert Grindelwald,Mykew Gregorovitch,2
+Florean Fortescue,Rubeus Hagrid,2
+Florean Fortescue,Remus Lupin,2
+Bletchley,Ronald Weasley,2
+Billy Stubbs,Cole,2
+Boris the Bewildered,Harry Potter,2
+Buckbeak,Pansy Parkinson,2
+George Weasley,Penelope Clearwater,2
+Bloody Baron,Salazar Slytherin,2
+Bilius,Hermione Granger,2
+Albus Dumbledore,Gibbon,2
+Geoffrey Hooper,Vicky Frobisher,2
+Albus Dumbledore,Grawp,2
+Oliver Wood,Severus Snape,2
+Fleur Delacour,Kingsley Shacklebolt,2
+Frank Bryce,Harry Potter,2
+Fleur Delacour,Minerva McGonagall,2
+Cadwallader,Harry Potter,2
+Borgin,Fenrir Greyback,2
+George Weasley,Lucius Malfoy,2
+Blaise Zabini,Zacharias Smith,2
+Myrtle Warren,Nymphadora Tonks,2
+Olympe Maxime,Rita Skeeter,2
+Nicolas Flamel,Severus Snape,2
+Fred Weasley,Lucian Bole,2
+Frank Bryce,Severus Snape,2
+Buckbeak,Crookshanks,2
+Garrick Ollivander,Molly Weasley,2
+Fred Weasley,Ladislaw Zamojski,2
+Fred Weasley,Igor Karkaroff,2
+Fred Weasley,Poppy Pomfrey,2
+Albus Dumbledore,Rolanda Hooch,2
+Albus Dumbledore,Chudley Cannons,2
+Garrick Ollivander,Gellert Grindelwald,2
+Galatea Merrythought,Horace Slughorn,2
+George Weasley,Quirinus Quirrell,2
+George Weasley,Roberts,2
+Cadogan,Neville Longbottom,2
+George Weasley,Wilbert Slinkhard,2
+Oliver Wood,Sirius Black,2
+Buckbeak,Remus Lupin,2
+Mykew Gregorovitch,Sirius Black,2
+Mundungus Fletcher,Nymphadora Tonks,2
+Narcissa Malfoy,Regulus Black,2
+Fred Weasley,Lucius Malfoy,2
+Gellert Grindelwald,Viktor Krum,2
+Fred Weasley,Quirinus Quirrell,2
+Fleur Delacour,Percy Weasley,2
+Gabrielle Delacour,William Weasley,2
+Fred Weasley,Peregrine Derrick,2
+Odo,Rubeus Hagrid,2
+George Weasley,Horace Slughorn,2
+Rosier,Theodore Nott,1
+Lavender Brown,Peeves,1
+Albus Dumbledore,Xenophilius Lovegood,1
+Rosier,Tom Riddle,1
+Lavender Brown,Padma Patil,1
+Lavender Brown,Oliver Wood,1
+Merlin,Xenophilius Lovegood,1
+Rosmerta,Rubeus Hagrid,1
+Albus Dumbledore,Wendelin the Weird,1
+Rubeus Hagrid,Septima Vector,1
+Aberforth Dumbledore,Wilbert Slinkhard,1
+Aberforth Dumbledore,William Weasley,1
+Kreacher,Vernon Dursley,1
+Mykew Gregorovitch,Pigwidgeon,1
+Kreacher,Will,1
+Kreacher,William Weasley,1
+Rowena Ravenclaw,Zacharias Smith,1
+Ladislaw Zamojski,Ronald Weasley,1
+Molly Weasley,Sturgis Podmore,1
+Abraxas Malfoy,Horace Slughorn,1
+Rowena Ravenclaw,Summers,1
+Rosmerta,Tom Riddle,1
+Rowena Ravenclaw,Sirius Black,1
+Rowena Ravenclaw,Severus Snape,1
+Justin Finch-Fletchley,Lavender Brown,1
+Abraxas Malfoy,Salazar Slytherin,1
+Laura Madley,Sorting Hat,1
+Lavender Brown,Leanne,1
+Albus Dumbledore,Williamson,1
+Albus Dumbledore,Mulciber (Marauder-era),1
+Lavender Brown,Mandy Brocklehurst,1
+Rosmerta,Vernon Dursley,1
+Amos Diggory,Merlin,1
+Amos Diggory,Payne,1
+Ronald Weasley,Victoire Weasley,1
+Amos Diggory,George Weasley,1
+Aidan Lynch,Hermione Granger,1
+Lee Jordan,Walden Macnair,1
+Adrian Pucey,Ronald Weasley,1
+Narcissa Malfoy,Percy Weasley,1
+Lee Jordan,Zacharias Smith,1
+Aidan Lynch,Barry Ryan,1
+Leprechaun,Travers,1
+Aidan Lynch,Charles Weasley,1
+Narcissa Malfoy,Pius Thicknesse,1
+Lev Zograf,Ludovic Bagman,1
+Ronald Weasley,Rupert Brookstanton,1
+Aidan Lynch,Ginevra Weasley,1
+Aidan Lynch,Hassan Mostafa,1
+Lev Zograf,Pyotr Vulchanov,1
+Lev Zograf,Viktor Krum,1
+Amos Diggory,Garrick Ollivander,1
+Libatius Borage,Ronald Weasley,1
+Narcissa Malfoy,Remus Lupin,1
+Albus Potter,Peeves,1
+Ronald Weasley,Rose Zeller,1
+Ronald Weasley,Rosalind Bungs,1
+Narcissa Malfoy,Ronald Weasley,1
+Rolanda Hooch,Sybill Trelawney,1
+Rolanda Hooch,Rowena Ravenclaw,1
+Albus Dumbledore,Lee Jordan,1
+Molly Weasley,Mungo Bonham,1
+Amelia Bones,Dolores Umbridge,1
+Neville Longbottom,Oliver Wood,1
+Roger Davies,Rolanda Hooch,1
+Adrian Pucey,Oliver Wood,1
+Lee Jordan,Viktor Krum,1
+Lee Jordan,Severus Snape,1
+Adrian Pucey,Luna Lovegood,1
+Amos Diggory,Bartemius Crouch Senior,1
+Rosalind Bungs,Tom Riddle,1
+Rosalind Bungs,Rupert Brookstanton,1
+Lavender Brown,Vernon Dursley,1
+Adalbert Waffling,Emeric Switch,1
+Amelia Bones,Susan Bones,1
+Adalbert Waffling,Miranda Goshawk,1
+Amelia Bones,Sturgis Podmore,1
+Adalbert Waffling,Nicolas Flamel,1
+Lee Jordan,Lucian Bole,1
+Ronald Weasley,Walden Macnair,1
+Albus Dumbledore,Millicent Bagnold,1
+Lee Jordan,Molly Weasley,1
+Ronald Weasley,Vicky Frobisher,1
+Ronald Weasley,Urquhart,1
+Ronald Weasley,Trevor,1
+Ronald Weasley,Tom Riddle Senior,1
+Albus Dumbledore,Martha (disambiguation),1
+Adrian Pucey,Gregory Goyle,1
+Myrtle Warren,Vincent Crabbe,1
+Ronald Weasley,Ted,1
+Lee Jordan,Remus Lupin,1
+Molly Weasley,Peter Pettigrew,1
+Albus Potter,Hermione Granger,1
+Lee Jordan,Rowena Ravenclaw,1
+Nagini,Salazar Slytherin,1
+Nagini,Severus Snape,1
+Muriel,Rubeus Hagrid,1
+Moran,Pyotr Vulchanov,1
+Amos Diggory,Roberts,1
+Mrs Norris,Neville Longbottom,1
+Snatchers,Tom Riddle,1
+Albus Dumbledore,Rodolphus Lestrange,1
+Albus Dumbledore,Savage,1
+Sirius Black,Wilkes,1
+Albus Dumbledore,Silvanus Kettleburn,1
+Katie Bell,Remus Lupin,1
+Katie Bell,Ritchie Coote,1
+Sirius Black,Viktor Krum,1
+Aberforth Dumbledore,Dedalus Diggle,1
+Sirius Black,Ted,1
+Albus Dumbledore,Ragnuk,1
+Andromeda Tonks,Fleur Delacour,1
+Katie Bell,Rowena Ravenclaw,1
+Sirius Black,Stubby Boardman,1
+Severus Snape,Zacharias Smith,1
+Mrs Norris,Salazar Slytherin,1
+Andrew Kirke,Zacharias Smith,1
+Katie Bell,Seamus Finnigan,1
+Albus Dumbledore,Pius Thicknesse,1
+Katie Bell,William Weasley,1
+Aberforth Dumbledore,Draco Malfoy,1
+Aberforth Dumbledore,Dudley Dursley,1
+Aberforth Dumbledore,Edgar Bones,1
+Aberforth Dumbledore,Fenrir Greyback,1
+Andrew Kirke,Ronald Weasley,1
+Mundungus Fletcher,Warty Harris,1
+Kendra Dumbledore,Phineas Nigellus Black,1
+Mr Tibbles,Tufty,1
+Kendra Dumbledore,Rita Skeeter,1
+Andrew Kirke,Harry Potter,1
+Albus Dumbledore,Roger Davies,1
+Albus Dumbledore,Rowena Ravenclaw,1
+Kendra Dumbledore,Salazar Slytherin,1
+Tom Riddle,Walden Macnair,1
+Angelina Johnson,Arthur Weasley,1
+Justin Finch-Fletchley,Pomona Sprout,1
+Justin Finch-Fletchley,Poppy Pomfrey,1
+Vincent Crabbe,William Weasley,1
+Vernon Dursley,Will,1
+Mulciber (Marauder-era),Tom Riddle,1
+Justin Finch-Fletchley,Rubeus Hagrid,1
+Justin Finch-Fletchley,Salazar Slytherin,1
+Aberforth Dumbledore,Anthony Goldstein,1
+Tufty,Vernon Dursley,1
+Travers,Xenophilius Lovegood,1
+Aberforth Dumbledore,Antonin Dolohov,1
+Aberforth Dumbledore,Aragog,1
+Tom Riddle,Wilkes,1
+Tiberius Ogden,Tofty,1
+Snatchers,Will,1
+Andromeda Tonks,Remus Lupin,1
+Mulciber (Marauder-era),Theodore Nott,1
+Theodore Nott,Tom Riddle,1
+Karkus,Walden Macnair,1
+Terry Boot,Vincent Crabbe,1
+Katie Bell,Kingsley Shacklebolt,1
+Terry Boot,Tom Riddle,1
+Mundungus Fletcher,Mungo Bonham,1
+Aberforth Dumbledore,Augustus Rookwood,1
+Susan Bones,Wilkie Twycross,1
+Snowy,Tufty,1
+Mundungus Fletcher,Phineas Nigellus Black,1
+Albus Dumbledore,Rosier,1
+Mulciber (Marauder-era),Rosier,1
+Severus Snape,Stebbins (Potter-era),1
+Severus Snape,Stanley Shunpike,1
+Albus Dumbledore,Oliver Wood,1
+Muriel,Remus Lupin,1
+Salazar Slytherin,Seamus Finnigan,1
+Rufus Scrimgeour,Will,1
+Kingsley Shacklebolt,Stanley Shunpike,1
+Kingsley Shacklebolt,Sturgis Podmore,1
+Mungo Bonham,William Weasley,1
+Aberforth Dumbledore,Lucius Malfoy,1
+Muriel,Pigwidgeon,1
+Rufus Scrimgeour,Tiberius Ogden,1
+Aberforth Dumbledore,Michael Corner,1
+Amycus Carrow,Mark Evans,1
+Kingsley Shacklebolt,Vernon Dursley,1
+Moran,Quigley,1
+Amycus Carrow,Luna Lovegood,1
+Albus Potter,Rubeus Hagrid,1
+Aberforth Dumbledore,Molly Weasley,1
+Aberforth Dumbledore,Kendra Dumbledore,1
+Kreacher,Merlin,1
+Muriel,Rodolphus Lestrange,1
+Albus Dumbledore,Terry Boot,1
+Aberforth Dumbledore,Percival Dumbledore,1
+Molly Weasley,Willy Widdershins,1
+Aberforth Dumbledore,Pius Thicknesse,1
+Rubeus Hagrid,Tobias Snape,1
+Rubeus Hagrid,Thorfinn Rowle,1
+Albus Dumbledore,Theodore Nott,1
+Amycus Carrow,Draco Malfoy,1
+Aberforth Dumbledore,Pomona Sprout,1
+Rubeus Hagrid,Sorting Hat,1
+Kreacher,Rubeus Hagrid,1
+Molly Weasley,Violet,1
+Mungo Bonham,Prime Minister,1
+Mungo Bonham,Poppy Pomfrey,1
+Mr Tibbles,Snowy,1
+Mr Paws,Mr Tibbles,1
+Kendra Dumbledore,Severus Snape,1
+Aberforth Dumbledore,Fleur Delacour,1
+Mr Paws,Vernon Dursley,1
+Mr Paws,Tufty,1
+Kenneth Towler,Patricia Stimpson,1
+Seamus Finnigan,Zacharias Smith,1
+Kevin Whitby,Orla Quirke,1
+Kevin Whitby,Sorting Hat,1
+Seamus Finnigan,Viktor Krum,1
+Kingsley Shacklebolt,Lucius Malfoy,1
+Kingsley Shacklebolt,Luna Lovegood,1
+Andrew Kirke,Godric Gryffindor,1
+Andrew Kirke,Dolores Umbridge,1
+Mr Paws,Snowy,1
+Kingsley Shacklebolt,Muriel,1
+Morfin Gaunt,Tom Riddle Senior,1
+Albus Dumbledore,Percival Dumbledore,1
+Kingsley Shacklebolt,Narcissa Malfoy,1
+Seamus Finnigan,Sirius Black,1
+Andrew Kirke,Dobby,1
+Kingsley Shacklebolt,Oliver Wood,1
+Kingsley Shacklebolt,Perkins,1
+Kingsley Shacklebolt,Pomona Sprout,1
+Andrew Kirke,Angelina Johnson,1
+Amycus Carrow,Terry Boot,1
+Scabior,Vernon Dursley,1
+Scabior,Stanley Shunpike,1
+Kingsley Shacklebolt,Rita Skeeter,1
+Albus Dumbledore,Parvati Patil,1
+Amycus Carrow,Severus Snape,1
+Lily J. Potter,Neville Longbottom,1
+Minerva McGonagall,Wilhelmina Grubbly-Plank,1
+Rodolphus Lestrange,Vincent Crabbe,1
+Ogg,Percy Weasley,1
+Albus Dumbledore,Derek,1
+Luna Lovegood,Vincent Crabbe,1
+Albert Runcorn,Argus Filch,1
+Alice Longbottom,Marlene McKinnon,1
+Mafalda Hopkirk,Mary Cattermole,1
+Percy Weasley,Will,1
+Mafalda Hopkirk,Prime Minister,1
+Percy Weasley,Viktor Krum,1
+Percy Weasley,Vernon Dursley,1
+Albert Runcorn,Dirk Cresswell,1
+Minerva McGonagall,Padma Patil,1
+Albert Runcorn,Mafalda Hopkirk,1
+Mafalda Hopkirk,Travers,1
+Percy Weasley,Rufus Scrimgeour,1
+Magorian,Prime Minister,1
+Minerva McGonagall,Narcissa Malfoy,1
+Magorian,Ronan,1
+Albus Dumbledore,Amycus Carrow,1
+Ogg,Rubeus Hagrid,1
+Malcolm,Piers Polkiss,1
+Malcolm Baddock,Salazar Slytherin,1
+Oliver Wood,Parvati Patil,1
+Mandy Brocklehurst,Terry Boot,1
+Percy Weasley,Regulus Black,1
+Percy Weasley,Quirinus Quirrell,1
+Albus Dumbledore,Antonin Dolohov,1
+Marcus Belby,Merlin,1
+Oliver Wood,Peeves,1
+Marcus Belby,Neville Longbottom,1
+Marcus Belby,Rowena Ravenclaw,1
+Albus Dumbledore,Dirk Cresswell,1
+Peregrine Derrick,Rolanda Hooch,1
+Luna Lovegood,Terry Boot,1
+Minerva McGonagall,Pansy Parkinson,1
+Luna Lovegood,Mykew Gregorovitch,1
+Petunia Dursley,Poppy Pomfrey,1
+Luna Lovegood,Nymphadora Tonks,1
+Petunia Dursley,Pomona Sprout,1
+Alicia Spinnet,Dennis Creevey,1
+Petunia Dursley,Piers Polkiss,1
+Alastor Moody,Vincent Crabbe,1
+Luna Lovegood,Peeves,1
+Luna Lovegood,Phineas Nigellus Black,1
+Luna Lovegood,Pigwidgeon,1
+Peter Pettigrew,Sybill Trelawney,1
+Alberic Grunnion,Circe,1
+Luna Lovegood,Prime Minister,1
+Luna Lovegood,Remus Lupin,1
+Alberic Grunnion,Harry Potter,1
+Alicia Spinnet,Colin Creevey,1
+Luna Lovegood,Rolanda Hooch,1
+Alberic Grunnion,Hengist of Woodcroft,1
+Alberic Grunnion,Merlin,1
+Alicia Spinnet,Cedric Diggory,1
+Alicia Spinnet,Barnabas the Barmy,1
+Alicia Spinnet,Arthur Weasley,1
+Luna Lovegood,Rufus Scrimgeour,1
+Perkins,William Weasley,1
+Nymphadora Tonks,Sybill Trelawney,1
+Perkins,Snatchers,1
+Perkins,Sirius Black,1
+Luna Lovegood,Stubby Boardman,1
+Alexei Levski,Ludovic Bagman,1
+Marcus Flint,Minerva McGonagall,1
+Alice Longbottom,Hermione Granger,1
+Miriam Strout,Mungo Bonham,1
+Olympe Maxime,Pomona Sprout,1
+Martin Miggs,Ronald Weasley,1
+Albus Dumbledore,Cadogan,1
+Algie Longbottom,Percy Weasley,1
+Miles Bletchley,Salazar Slytherin,1
+Pansy Parkinson,Tom Riddle,1
+Pansy Parkinson,Theodore Nott,1
+Miles Bletchley,Ronald Weasley,1
+Algie Longbottom,Godric Gryffindor,1
+Oliver Wood,Vincent Crabbe,1
+Pansy Parkinson,Rowena Ravenclaw,1
+Mary Macdonald,Mulciber (Marauder-era),1
+Oliver Wood,William Weasley,1
+Albus Dumbledore,Cassandra Trelawney,1
+Olympe Maxime,Percy Weasley,1
+Algie Longbottom,Enid (disambiguation),1
+Percy Weasley,Pigwidgeon,1
+Olympe Maxime,Poppy Pomfrey,1
+Padma Patil,Viktor Krum,1
+Padma Patil,Tom Riddle,1
+Merlin,Neville Longbottom,1
+Padma Patil,Theodore Nott,1
+Albus Dumbledore,Celestina Warbeck,1
+Padma Patil,Seamus Finnigan,1
+Merlin,Remus Lupin,1
+Merlin,Rolanda Hooch,1
+Olympe Maxime,Roger Davies,1
+Padma Patil,Sally-Anne Perks,1
+Albus Dumbledore,Cho Chang,1
+Alexei Levski,Viktor Krum,1
+Alfred Cattermole,Corban Yaxley,1
+Mark Evans,Vincent Crabbe,1
+Millicent Bagnold,Prime Minister,1
+Mark Evans,Sirius Black,1
+Alexei Levski,Quigley,1
+Alice Longbottom,Frank Longbottom,1
+Marcus Flint,Ronald Weasley,1
+Percy Weasley,Petunia Dursley,1
+Percy Weasley,Peter Pettigrew,1
+Percy Weasley,Perkins,1
+Albus Dumbledore,Aragog,1
+Marcus Flint,Rubeus Hagrid,1
+Minerva McGonagall,Mrs Norris,1
+Albus Dumbledore,Augustus Rookwood,1
+Alexei Levski,Pyotr Vulchanov,1
+Peeves,Prime Minister,1
+Ali Bashir,Percy Weasley,1
+Marcus Flint,Seamus Finnigan,1
+Marcus Flint,Severus Snape,1
+Ali Bashir,Ludovic Bagman,1
+Albus Dumbledore,Bartemius Crouch Junior,1
+Payne,Ronald Weasley,1
+Ali Bashir,Harry Potter,1
+Marietta Edgecombe,Phineas Nigellus Black,1
+Payne,Roberts,1
+Parvati Patil,Wendelin the Weird,1
+Oliver Wood,Remus Lupin,1
+Millicent Bulstrode,Seamus Finnigan,1
+Mark Evans,Minerva McGonagall,1
+Parvati Patil,Travers,1
+Albus Dumbledore,Betty Braithwaite,1
+Oliver Wood,Rubeus Hagrid,1
+Mark Evans,Rubeus Hagrid,1
+Ali Bashir,Bartemius Crouch Senior,1
+Luna Lovegood,Molly Weasley,1
+Petunia Dursley,Remus Lupin,1
+Petunia Dursley,Rosmerta,1
+Rabastan Lestrange,Sirius Black,1
+Albus Dumbledore,Humphrey Belcher,1
+Alastor Moody,Benjy Fenwick,1
+Lucius Malfoy,Molly Weasley,1
+Lucius Malfoy,Mulciber (Marauder-era),1
+Remus Lupin,Rufus Scrimgeour,1
+Alastor Moody,Dorcas Meadowes,1
+Alecto Carrow,Draco Malfoy,1
+Regulus Black,Salazar Slytherin,1
+Regulus Black,Remus Lupin,1
+Ragnuk,Ronald Weasley,1
+Lucius Malfoy,Nymphadora Tonks,1
+Alastor Moody,Fabian Prewett,1
+Rabastan Lestrange,Walden Macnair,1
+Rabastan Lestrange,Vincent Crabbe,1
+Lucius Malfoy,Percy Weasley,1
+Alexei Levski,Lev Zograf,1
+Quirinus Quirrell,Unicorn,1
+Lucius Malfoy,Pius Thicknesse,1
+Alastor Moody,Fat Lady,1
+Minerva McGonagall,Tofty,1
+Quirinus Quirrell,Seamus Finnigan,1
+Neville Longbottom,Quirinus Quirrell,1
+Quigley,Vasily Dimitrov,1
+Albus Dumbledore,Hope Howell,1
+Albus Dumbledore,Hokey,1
+Neville Longbottom,Rowena Ravenclaw,1
+Pyotr Vulchanov,Vasily Dimitrov,1
+Alecto Carrow,Filius Flitwick,1
+Albus Dumbledore,Hepzibah Smith,1
+Lucius Malfoy,Rolanda Hooch,1
+Alastor Moody,Aurora Sinistra,1
+Alastor Moody,Arnold Peasegood,1
+Remus Lupin,Sturgis Podmore,1
+Lucius Malfoy,Marcus Flint,1
+Ritchie Coote,Ronald Weasley,1
+Miranda Goshawk,Wilbert Slinkhard,1
+Alicia Spinnet,William Weasley,1
+Lily J. Potter,Rubeus Hagrid,1
+Rita Skeeter,William Weasley,1
+Neville Longbottom,Olympe Maxime,1
+Alicia Spinnet,Vincent Crabbe,1
+Aidan Lynch,Mullet,1
+Alicia Spinnet,Terry Boot,1
+Rita Skeeter,Skower,1
+Alicia Spinnet,Rowena Ravenclaw,1
+Lily J. Potter,Vernon Dursley,1
+Lily Moon,Pansy Parkinson,1
+Lily Moon,Theodore Nott,1
+Rita Skeeter,Rosmerta,1
+Aidan Lynch,Ronald Weasley,1
+Livius,Loxias,1
+Remus Lupin,Zacharias Smith,1
+Merlin,Tom Riddle,1
+Neville Longbottom,Percy Weasley,1
+Minerva McGonagall,Wendelin the Weird,1
+Neville Longbottom,Peter Pettigrew,1
+Neville Longbottom,Pigwidgeon,1
+Minerva McGonagall,Vernon Dursley,1
+Minerva McGonagall,Tom Riddle Senior,1
+Neville Longbottom,Pius Thicknesse,1
+Lucian Bole,Vincent Crabbe,1
+Albus Dumbledore,Justin Finch-Fletchley,1
+Alastor Moody,Argus Filch,1
+Albus Dumbledore,Helena Ravenclaw,1
+Pyotr Vulchanov,Troy,1
+Alecto Carrow,Helena Ravenclaw,1
+Newton Scamander,Quentin Trimble,1
+Poppy Pomfrey,Prime Minister,1
+Ludovic Bagman,Pomona Sprout,1
+Pomona Sprout,William Weasley,1
+Ludovic Bagman,Pyotr Vulchanov,1
+Alecto Carrow,Vincent Crabbe,1
+Pomona Sprout,Seamus Finnigan,1
+Alicia Spinnet,Fleur Delacour,1
+Alastor Moody,Muriel,1
+Alastor Moody,Olympe Maxime,1
+Ludovic Bagman,Severus Snape,1
+Nicolas Flamel,Perenelle Flamel,1
+Mullet,Quigley,1
+Pigwidgeon,Trevor,1
+Pigwidgeon,Sybill Trelawney,1
+Albus Dumbledore,Florence,1
+Ludovic Bagman,Troy,1
+Phineas Nigellus Black,Tom Riddle,1
+Alexei Levski,Hassan Mostafa,1
+Nymphadora Tonks,Poppy Pomfrey,1
+Ludovic Bagman,Vernon Dursley,1
+Albus Dumbledore,Evan Rosier,1
+Alicia Spinnet,Filius Flitwick,1
+Minerva McGonagall,Phineas Nigellus Black,1
+Minerva McGonagall,Petunia Dursley,1
+Nymphadora Tonks,Rodolphus Lestrange,1
+Alicia Spinnet,Ernest Macmillan,1
+Albus Dumbledore,Enid Smeek,1
+Petunia Dursley,Yvonne,1
+Alexei Levski,Ivan Volkov,1
+Alastor Moody,Marlene McKinnon,1
+Albus Dumbledore,Frank Bryce,1
+Ptolemy,Ronald Weasley,1
+Alecto Carrow,Tom Riddle,1
+Proudfoot,Savage,1
+Prime Minister,William Weasley,1
+Lucius Malfoy,Rowena Ravenclaw,1
+Alecto Carrow,Minerva McGonagall,1
+Alastor Moody,Hedwig,1
+Prime Minister,Tiberius Ogden,1
+Alicia Spinnet,Miles Bletchley,1
+Alicia Spinnet,Marcus Flint,1
+Prime Minister,Stubby Boardman,1
+Alastor Moody,Hestia Jones,1
+Albus Dumbledore,Graham Montague,1
+Prime Minister,Severus Snape,1
+Alastor Moody,Horace Slughorn,1
+Neville Longbottom,Terry Boot,1
+Lucius Malfoy,Thorfinn Rowle,1
+Prime Minister,Remus Lupin,1
+Minerva McGonagall,Rosmerta,1
+Lucius Malfoy,Will,1
+Alicia Spinnet,Justin Finch-Fletchley,1
+Ludovic Bagman,Molly Weasley,1
+Ludovic Bagman,Moran,1
+Minerva McGonagall,Rose Zeller,1
+Ludovic Bagman,Otto Bagman,1
+Neville Longbottom,Viktor Krum,1
+Poppy Pomfrey,Summers,1
+Alastor Moody,Lily J. Potter,1
+Ludovic Bagman,Pigwidgeon,1
+Alastor Moody,Lucius Malfoy,1
+Poppy Pomfrey,Rowena Ravenclaw,1
+Mulciber (Marauder-era),Walden Macnair,1
+Crookshanks,Godric Gryffindor,1
+Jugson,Walden Macnair,1
+Father Christmas,Helga Hufflepuff,1
+Cedric Diggory,Vincent Crabbe,1
+Father Christmas,Pansy Parkinson,1
+Father Christmas,Nymphadora Tonks,1
+Father Christmas,Mungo Bonham,1
+Cedric Diggory,William Weasley,1
+Father Christmas,Millicent Bulstrode,1
+Celestina Warbeck,Father Christmas,1
+Father Christmas,Lavender Brown,1
+Father Christmas,Kendra Dumbledore,1
+Father Christmas,James Potter I,1
+Father Christmas,Jack Sloper,1
+Celestina Warbeck,Ginevra Weasley,1
+Celestina Warbeck,Hermione Granger,1
+Charles Weasley,Hedwig,1
+Celestina Warbeck,Remus Lupin,1
+Fat Lady,William Weasley,1
+Celestina Warbeck,William Weasley,1
+Fat Lady,Viktor Krum,1
+Fat Lady,Severus Snape,1
+Fat Lady,Seamus Finnigan,1
+Charity Burbage,Harry Potter,1
+Fat Lady,Romilda Vane,1
+Fat Lady,Peter Pettigrew,1
+Charles Weasley,Draco Malfoy,1
+Fat Lady,Lavender Brown,1
+Fat Lady,Helena Ravenclaw,1
+Father Christmas,Petunia Dursley,1
+Father Christmas,Phineas Nigellus Black,1
+Father Christmas,Roberts,1
+Father Christmas,Rowena Ravenclaw,1
+Fenrir Greyback,Will,1
+Fenrir Greyback,Thorfinn Rowle,1
+Fenrir Greyback,Sybill Trelawney,1
+Cedric Diggory,Ginevra Weasley,1
+Fenrir Greyback,Pius Thicknesse,1
+Fenrir Greyback,Percy Weasley,1
+Fenrir Greyback,Nymphadora Tonks,1
+Cedric Diggory,Gregory Goyle,1
+Cedric Diggory,Minerva McGonagall,1
+Fenrir Greyback,Griphook,1
+Fenrir Greyback,Fleur Delacour,1
+Cedric Diggory,Olympe Maxime,1
+Fawkes,Sybill Trelawney,1
+Cedric Diggory,Pansy Parkinson,1
+Fawkes,Salazar Slytherin,1
+Fawkes,Phineas Nigellus Black,1
+Fawkes,Marietta Edgecombe,1
+Fawkes,Kingsley Shacklebolt,1
+Fawkes,John Dawlish,1
+Cedric Diggory,Puddifoot,1
+Fawkes,Gilderoy Lockhart,1
+Fawcett,Severus Snape,1
+Fawcett,Rowena Ravenclaw,1
+Father Christmas,William Weasley,1
+Cedric Diggory,Roger Davies,1
+Charles Weasley,Godric Gryffindor,1
+Fat Lady,Ginevra Weasley,1
+Filius Flitwick,Justin Finch-Fletchley,1
+Eric Munch,Sturgis Podmore,1
+Ernest Macmillan,Pomona Sprout,1
+Ernest Macmillan,Peeves,1
+Cho Chang,Fat Lady,1
+Ernest Macmillan,Mark Evans,1
+Ernest Macmillan,Lavender Brown,1
+Cho Chang,Filius Flitwick,1
+Cho Chang,Fleur Delacour,1
+Cho Chang,Hannah Abbott,1
+Ernest Macmillan,Ginevra Weasley,1
+Ernest Macmillan,Fawcett,1
+Ernest Macmillan,Fat Friar,1
+Eric Whalley,Martha (disambiguation),1
+Enid Smeek,Ivor Dillonsby,1
+Fat Lady,Father Christmas,1
+Enid (disambiguation),Ronald Weasley,1
+Emmeline Vance,Sturgis Podmore,1
+Emmeline Vance,Remus Lupin,1
+Cho Chang,Ludovic Bagman,1
+Emeric the Evil,Uric the Oddball,1
+Emeric the Evil,Tobias Snape,1
+Emeric the Evil,Ronald Weasley,1
+Emeric the Evil,Lily J. Potter,1
+Emeric the Evil,Hermione Granger,1
+Emeric the Evil,Godric Gryffindor,1
+Emeric the Evil,Godelot,1
+Emeric the Evil,Filius Flitwick,1
+Cho Chang,Ernest Macmillan,1
+Ernest Macmillan,Sybill Trelawney,1
+Cho Chang,Eloise Midgen,1
+Ernest Macmillan,Wilkie Twycross,1
+Fat Friar,Susan Bones,1
+Fat Friar,Harry Potter,1
+Fang,Sirius Black,1
+Fang,Severus Snape,1
+Charles Weasley,Horace Slughorn,1
+Charles Weasley,Minerva McGonagall,1
+Charles Weasley,Norberta,1
+Fang,Mrs Norris,1
+Fang,Minerva McGonagall,1
+Fang,Lucius Malfoy,1
+Charles Weasley,Nymphadora Tonks,1
+Charles Weasley,Remus Lupin,1
+Fabian Prewett,Sirius Black,1
+Fabian Prewett,Remus Lupin,1
+Everard,Ronald Weasley,1
+Evan Rosier,Tom Riddle,1
+Evan Rosier,Harry Potter,1
+Charles Weasley,Salazar Slytherin,1
+Errol,Neville Longbottom,1
+Errol,Molly Weasley,1
+Errol,Hermes,1
+Cho Chang,Draco Malfoy,1
+Errol,Fred Weasley,1
+Ernest Prang,Wendelin the Weird,1
+Ernest Prang,Neville Longbottom,1
+Filius Flitwick,James Potter I,1
+Filius Flitwick,Lee Jordan,1
+Jugson,Vincent Crabbe,1
+Fred Weasley,Parvati Patil,1
+Fred Weasley,Urg the Unclean,1
+Bowman Wright,Godric Gryffindor,1
+Bozo,Ludovic Bagman,1
+Bradley,Cho Chang,1
+Bradley,Fred Weasley,1
+Bradley,George Weasley,1
+Fred Weasley,Roberts,1
+Bradley,Lee Jordan,1
+Fred Weasley,Pius Thicknesse,1
+Bradley,Roger Davies,1
+Broderick Bode,Father Christmas,1
+Broderick Bode,Fred Weasley,1
+Fred Weasley,Pansy Parkinson,1
+Buckbeak,Hope Howell,1
+Broderick Bode,George Weasley,1
+Fred Weasley,Mrs Norris,1
+Fred Weasley,Miranda Goshawk,1
+Fred Weasley,Malcolm Baddock,1
+Broderick Bode,Sturgis Podmore,1
+Broderick Bode,Tom Riddle,1
+Buckbeak,Fang,1
+Buckbeak,Florean Fortescue,1
+Buckbeak,Grawp,1
+Fred Weasley,Hope Howell,1
+Buckbeak,Gregory Goyle,1
+Fred Weasley,Hermes,1
+Borgin,Percy Weasley,1
+Fubster,Petunia Dursley,1
+Fubster,Vernon Dursley,1
+Borgin,Katie Bell,1
+Bloody Baron,Oliver Wood,1
+Gellert Grindelwald,Severus Snape,1
+Gellert Grindelwald,Lily J. Potter,1
+Gellert Grindelwald,Kendra Dumbledore,1
+Gellert Grindelwald,Ignotus Peverell,1
+Boa constrictor at the zoo,Harry Potter,1
+Gawain Robards,Rufus Scrimgeour,1
+Gawain Robards,Harry Potter,1
+Bob Ogden,Marvolo Gaunt,1
+Garrick Ollivander,Trevor,1
+Bodrod the Bearded,Fred Weasley,1
+Bodrod the Bearded,George Weasley,1
+Bodrod the Bearded,Molly Weasley,1
+Garrick Ollivander,Quirinus Quirrell,1
+Garrick Ollivander,Petunia Dursley,1
+Garrick Ollivander,Peter Pettigrew,1
+Bodrod the Bearded,Urg the Unclean,1
+Bones family,Harry Potter,1
+Garrick Ollivander,Lucius Malfoy,1
+Borgin,Hokey,1
+Garrick Ollivander,George Weasley,1
+Gamp,Ronald Weasley,1
+Galatea Merrythought,Harry Potter,1
+Gabrielle Delacour,Ronald Weasley,1
+Gabrielle Delacour,Percy Weasley,1
+Fred Weasley,Hedwig,1
+Fred Weasley,Gregory the Smarmy,1
+Filius Flitwick,Mark Evans,1
+Cassius Warrington,Dean Thomas,1
+Cadwallader,Minerva McGonagall,1
+Fleur Delacour,Katie Bell,1
+Cadwallader,Will,1
+Caractacus Burke,Harry Potter,1
+Caradoc Dearborn,Rubeus Hagrid,1
+Caradoc Dearborn,Sturgis Podmore,1
+Cassandra Trelawney,Fred Weasley,1
+Cassandra Trelawney,Hermione Granger,1
+Cassandra Trelawney,Lavender Brown,1
+Cassandra Trelawney,Neville Longbottom,1
+Cassandra Trelawney,Wilbert Slinkhard,1
+Firenze,Poppy Pomfrey,1
+Firenze,Minerva McGonagall,1
+Buckbeak,Karkus,1
+Cassius Warrington,Dolores Umbridge,1
+Cassius Warrington,Fred Weasley,1
+Firenze,Ginevra Weasley,1
+Filius Flitwick,Walden Macnair,1
+Filius Flitwick,Uric the Oddball,1
+Cassius Warrington,Graham Montague,1
+Cassius Warrington,Lee Jordan,1
+Filius Flitwick,Remus Lupin,1
+Cassius Warrington,Minerva McGonagall,1
+Filius Flitwick,Percy Weasley,1
+Filius Flitwick,Oliver Wood,1
+Cassius Warrington,Pansy Parkinson,1
+Cadwallader,Godric Gryffindor,1
+Cadwallader,Cormac McLaggen,1
+Cadogan,Seamus Finnigan,1
+Fleur Delacour,Oliver Wood,1
+Buckbeak,Kreacher,1
+Buckbeak,Percy Weasley,1
+Buckbeak,Peter Pettigrew,1
+Fred Weasley,Garrick Ollivander,1
+Frank Longbottom,Marlene McKinnon,1
+Frank Longbottom,Harry Potter,1
+Buckbeak,Poppy Pomfrey,1
+Frank Bryce,Neville Longbottom,1
+Buckbeak,Prime Minister,1
+Buckbeak,Sybill Trelawney,1
+Fluffy,Pomona Sprout,1
+Fluffy,Neville Longbottom,1
+Fluffy,Hedwig,1
+Buckbeak,Vincent Crabbe,1
+Florence,Severus Snape,1
+Florean Fortescue,Ginevra Weasley,1
+Bungy,Mary Dorkins,1
+Fleur Delacour,Seamus Finnigan,1
+Fleur Delacour,Salazar Slytherin,1
+Cadogan,Fat Lady,1
+Cadogan,Father Christmas,1
+Cadogan,Godric Gryffindor,1
+Fleur Delacour,Rita Skeeter,1
+Fleur Delacour,Petunia Dursley,1
+Cadogan,Percy Weasley,1
+Emeric Switch,Phyllida Spore,1
+Elphias Doge,Rubeus Hagrid,1
+Elphias Doge,Ronald Weasley,1
+Dennis Creevey,Igor Karkaroff,1
+Cornelius Fudge,Fawkes,1
+Cornelius Fudge,Filius Flitwick,1
+Dilys Derwent,Mungo Bonham,1
+Dexter Fortescue,Phineas Nigellus Black,1
+Dexter Fortescue,Dilys Derwent,1
+Derek,Remus Lupin,1
+Dennis Creevey,Viktor Krum,1
+Dennis Creevey,Sorting Hat,1
+Dennis Creevey,Rubeus Hagrid,1
+Dennis Creevey,Owen Cauldwell,1
+Dennis Creevey,Katie Bell,1
+Dennis Creevey,Justin Finch-Fletchley,1
+Dennis Creevey,Hannah Abbott,1
+Dedalus Diggle,Kingsley Shacklebolt,1
+Dennis Creevey,Ernest Macmillan,1
+Dennis,Piers Polkiss,1
+Dennis,Malcolm,1
+Dennis,Gordon,1
+Demetrius Prod,Z. Nettles,1
+Demelza Robins,William Weasley,1
+Demelza Robins,Seamus Finnigan,1
+Demelza Robins,Lavender Brown,1
+Demelza Robins,Katie Bell,1
+Demelza Robins,Horace Slughorn,1
+Cornelius Fudge,Griselda Marchbanks,1
+Dedalus Diggle,Pius Thicknesse,1
+Dirk Cresswell,Horace Slughorn,1
+Dirk Cresswell,Ronald Weasley,1
+Cornelius Fudge,Fat Lady,1
+Dirk Cresswell,Tom Riddle,1
+Dolores Umbridge,Helga Hufflepuff,1
+Dolores Umbridge,Hedwig,1
+Cormac McLaggen,Leanne,1
+Dolores Umbridge,Gilderoy Lockhart,1
+Dolores Umbridge,Gawain Robards,1
+Cormac McLaggen,Melinda Bobbin,1
+Dolores Umbridge,Fawkes,1
+Dolores Umbridge,Father Christmas,1
+Dolores Umbridge,Ellie Cattermole,1
+Dobby,Zacharias Smith,1
+Dobby,Wendelin the Weird,1
+Cormac McLaggen,Rolanda Hooch,1
+Dobby,Seamus Finnigan,1
+Cormac McLaggen,Salazar Slytherin,1
+Dobby,Percy Weasley,1
+Dobby,Mrs Norris,1
+Dobby,Minerva McGonagall,1
+Dobby,Marietta Edgecombe,1
+Cormac McLaggen,Severus Snape,1
+Cormac McLaggen,Vernon Dursley,1
+Cormac McLaggen,Viktor Krum,1
+Cormac McLaggen,Zacharias Smith,1
+Cornelius Agrippa,Ptolemy,1
+Cornelius Fudge,Fang,1
+Dirk Cresswell,William Weasley,1
+Dedalus Diggle,Marlene McKinnon,1
+Dedalus Diggle,Griphook,1
+Elphias Doge,Mungo Bonham,1
+Cuthbert Binns,Neville Longbottom,1
+Cornelius Fudge,Vernon Dursley,1
+Cornelius Fudge,Viktor Krum,1
+Damocles Belby,Harry Potter,1
+Dai Llewellyn,Molly Weasley,1
+Cuthbert Mockridge,Gilbert Wimple,1
+Cuthbert Binns,Sybill Trelawney,1
+Cuthbert Binns,Severus Snape,1
+Cornelius Fudge,Will,1
+Cuthbert Binns,Remus Lupin,1
+Cuthbert Binns,Poppy Pomfrey,1
+Cuthbert Binns,Percy Weasley,1
+Cuthbert Binns,Parvati Patil,1
+Cuthbert Binns,Minerva McGonagall,1
+Dedalus Diggle,Emmeline Vance,1
+Cuthbert Binns,Michael Corner,1
+Cuthbert Binns,Lavender Brown,1
+Cuthbert Binns,Hedwig,1
+Cuthbert Binns,Gilderoy Lockhart,1
+Crookshanks,Errol,1
+Cuthbert Binns,Father Christmas,1
+Crookshanks,Father Christmas,1
+Crookshanks,Fred Weasley,1
+Crookshanks,Severus Snape,1
+Crookshanks,Percy Weasley,1
+Crookshanks,Nymphadora Tonks,1
+Crookshanks,Neville Longbottom,1
+Damocles Belby,Merlin,1
+Damocles Belby,Neville Longbottom,1
+Daphne Greengrass,Gregory Goyle,1
+Daphne Greengrass,Harry Potter,1
+Dedalus Diggle,Elphias Doge,1
+Dedalus Diggle,Doris Crockford,1
+Cornelius Fudge,Lily J. Potter,1
+Dean Thomas,Vernon Dursley,1
+Dean Thomas,Travers,1
+Dean Thomas,Tom Riddle,1
+Dean Thomas,Sybill Trelawney,1
+Dean Thomas,Snatchers,1
+Cornelius Fudge,Mark Evans,1
+Cornelius Fudge,Millicent Bagnold,1
+Dean Thomas,Romilda Vane,1
+Dean Thomas,Rita Skeeter,1
+Dean Thomas,Puddifoot,1
+Dean Thomas,Nymphadora Tonks,1
+Dean Thomas,Molly Weasley,1
+Cornelius Fudge,Narcissa Malfoy,1
+Dean Thomas,Michael Corner,1
+Dean Thomas,Marcus Flint,1
+Dean Thomas,James Potter I,1
+Dean Thomas,Irma Pince,1
+Cornelius Fudge,Oblansk,1
+Dean Thomas,Helga Hufflepuff,1
+Cornelius Fudge,Rolanda Hooch,1
+Dean Thomas,Fenrir Greyback,1
+Dean Thomas,Father Christmas,1
+Cormac McLaggen,Grawp,1
+Dolores Umbridge,John Dawlish,1
+Dolores Umbridge,Katie Bell,1
+Draco Malfoy,Wilkie Twycross,1
+Dudley Dursley,Vindictus Viridian,1
+Dudley Dursley,Sirius Black,1
+Cho Chang,Sirius Black,1
+Cho Chang,Zacharias Smith,1
+Dudley Dursley,Malcolm,1
+Dudley Dursley,Justin Finch-Fletchley,1
+Dudley Dursley,Hestia Jones,1
+Dudley Dursley,Hedwig,1
+Chudley Cannons,Dobby,1
+Dudley Dursley,Father Christmas,1
+Dragomir Gorgovitch,Hermione Granger,1
+Draco Malfoy,Zacharias Smith,1
+Chudley Cannons,Hedwig,1
+Dolores Umbridge,Maisie Cattermole,1
+Draco Malfoy,Vaisey,1
+Ciceron Harkiss,Horace Slughorn,1
+Draco Malfoy,Tofty,1
+Draco Malfoy,Terry Boot,1
+Circe,Harry Potter,1
+Draco Malfoy,Susan Bones,1
+Circe,Hengist of Woodcroft,1
+Circe,Merlin,1
+Clara Ivanova,Hassan Mostafa,1
+Draco Malfoy,Rufus Scrimgeour,1
+Clara Ivanova,Ivan Volkov,1
+Clara Ivanova,Lev Zograf,1
+Dudley Dursley,William Weasley,1
+Eddie Carmichael,Harry Potter,1
+Eddie Carmichael,Ronald Weasley,1
+Eddie Carmichael,Rowena Ravenclaw,1
+Cho Chang,Parvati Patil,1
+Elphias Doge,Godric Gryffindor,1
+Elphias Doge,Gideon Prewett,1
+Eloise Midgen,Poppy Pomfrey,1
+Eloise Midgen,Parvati Patil,1
+Elladora Black,William Weasley,1
+Elfrida Cragg,Everard,1
+Elfric the Eager,Ronald Weasley,1
+Eleanor Branstone,Owen Cauldwell,1
+Eleanor Branstone,Malcolm Baddock,1
+Eleanor Branstone,George Weasley,1
+Eleanor Branstone,Fred Weasley,1
+Eldred Worple,Luna Lovegood,1
+Cho Chang,Pomona Sprout,1
+Cho Chang,Poppy Pomfrey,1
+Eileen Prince,Sybill Trelawney,1
+Eileen Prince,Stanley Shunpike,1
+Eileen Prince,Libatius Borage,1
+Eileen Prince,Kreacher,1
+Cho Chang,Rita Skeeter,1
+Egbert the Egregious,Harry Potter,1
+Egbert the Egregious,Godelot,1
+Egbert the Egregious,Emeric the Evil,1
+Edgar Bones,Sturgis Podmore,1
+Edgar Bones,Percy Weasley,1
+Clara Ivanova,Ludovic Bagman,1
+Draco Malfoy,Ritchie Coote,1
+Clara Ivanova,Mullet,1
+Colin Creevey,Remus Lupin,1
+Colin Creevey,Vincent Crabbe,1
+Doris Purkiss,Prime Minister,1
+Doris Crockford,Rubeus Hagrid,1
+Connolly,Cornelius Fudge,1
+Dorcas Meadowes,Sirius Black,1
+Connolly,Mullet,1
+Connolly,Quigley,1
+Dolores Umbridge,Susan Bones,1
+Connolly,Troy,1
+Corban Yaxley,Fenrir Greyback,1
+Dolores Umbridge,Seamus Finnigan,1
+Corban Yaxley,Filius Flitwick,1
+Corban Yaxley,George Weasley,1
+Corban Yaxley,Lee Jordan,1
+Corban Yaxley,Pius Thicknesse,1
+Dolores Umbridge,Reginald Cattermole,1
+Corban Yaxley,Reginald Cattermole,1
+Corban Yaxley,Ronald Weasley,1
+Corban Yaxley,Rubeus Hagrid,1
+Corban Yaxley,Tom Riddle,1
+Cormac McLaggen,Cornelius Fudge,1
+Dolores Umbridge,Mrs Norris,1
+Dolores Umbridge,Molly Weasley,1
+Cormac McLaggen,Dean Thomas,1
+Dolores Umbridge,Millicent Bulstrode,1
+Colin Creevey,Tom Riddle,1
+Colin Creevey,Percy Weasley,1
+Clara Ivanova,Troy,1
+Colin Creevey,Parvati Patil,1
+Cliodna,Harry Potter,1
+Cliodna,Merlin,1
+Cole,Severus Snape,1
+Colin Creevey,Colin Creevey,1
+Draco Malfoy,Mrs Norris,1
+Draco Malfoy,Morag MacDougal,1
+Draco Malfoy,Millicent Bulstrode,1
+Colin Creevey,Hannah Abbott,1
+Draco Malfoy,Marcus Belby,1
+Colin Creevey,Jimmy Peakes,1
+Draco Malfoy,Lucian Bole,1
+Draco Malfoy,Lily Moon,1
+Draco Malfoy,Lavender Brown,1
+Draco Malfoy,Kreacher,1
+Draco Malfoy,Kingsley Shacklebolt,1
+Draco Malfoy,Jimmy Peakes,1
+Draco Malfoy,Irma Pince,1
+Draco Malfoy,Igor Karkaroff,1
+Colin Creevey,Katie Bell,1
+Colin Creevey,Lavender Brown,1
+Draco Malfoy,Griselda Marchbanks,1
+Colin Creevey,Mrs Norris,1
+Colin Creevey,Neville Longbottom,1
+Colin Creevey,Nymphadora Tonks,1
+Colin Creevey,Owen Cauldwell,1
+Geoffrey Hooper,Ronald Weasley,1
+Bloody Baron,Neville Longbottom,1
+Bletchley,Reginald Cattermole,1
+Helga Hufflepuff,Luna Lovegood,1
+Helga Hufflepuff,Sorting Hat,1
+Helga Hufflepuff,Severus Snape,1
+Helga Hufflepuff,Seamus Finnigan,1
+Argus Filch,Winky,1
+Helga Hufflepuff,Remus Lupin,1
+Helga Hufflepuff,Poppy Pomfrey,1
+Helga Hufflepuff,Pomona Sprout,1
+Helga Hufflepuff,Percy Weasley,1
+Helga Hufflepuff,Peeves,1
+Helga Hufflepuff,Parvati Patil,1
+Helga Hufflepuff,Pansy Parkinson,1
+Ariana Dumbledore,Betty Braithwaite,1
+Helga Hufflepuff,Lavender Brown,1
+Ariana Dumbledore,Rufus Scrimgeour,1
+Helga Hufflepuff,Laura Madley,1
+Ariana Dumbledore,Blast-Ended Skrewt,1
+Ariana Dumbledore,Cornelius Fudge,1
+Helena Ravenclaw,Sorting Hat,1
+Hedwig,Wendelin the Weird,1
+Hedwig,Ted,1
+Hedwig,Sybill Trelawney,1
+Hedwig,Severus Snape,1
+Hedwig,Remus Lupin,1
+Hedwig,Pius Thicknesse,1
+Hedwig,Parvati Patil,1
+Hedwig,Marjorie Dursley,1
+Helga Hufflepuff,Stebbins (Potter-era),1
+Helga Hufflepuff,Summers,1
+Hengist of Woodcroft,Merlin,1
+Argus Filch,Rosmerta,1
+Arcus,Barnabas Deverill,1
+Arcus,Loxias,1
+Argus Filch,Bartemius Crouch Senior,1
+Argus Filch,Cassius Warrington,1
+Argus Filch,Cedric Diggory,1
+Argus Filch,Colin Creevey,1
+Argus Filch,Cormac McLaggen,1
+Argus Filch,Dobby,1
+Argus Filch,Father Christmas,1
+Argus Filch,Gregory Goyle,1
+Hermione Granger,Lucian Bole,1
+Hermione Granger,Libatius Borage,1
+Argus Filch,Katie Bell,1
+Argus Filch,Ludovic Bagman,1
+Argus Filch,Luna Lovegood,1
+Argus Filch,Merlin,1
+Argus Filch,Nicolas Flamel,1
+Hermione Granger,Justin Finch-Fletchley,1
+Hermione Granger,Jimmy Peakes,1
+Argus Filch,Percy Weasley,1
+Argus Filch,Quirinus Quirrell,1
+Hermione Granger,Hokey,1
+Hermes,Hermione Granger,1
+Hereward,Loxias,1
+Argus Filch,Romilda Vane,1
+Hedwig,Lavender Brown,1
+Hassan Mostafa,Viktor Krum,1
+Augustus Rookwood,Walden Macnair,1
+Augustus Pye,Hippocrates Smethwyck,1
+Arthur Weasley,Mundungus Fletcher,1
+Arthur Weasley,Perkins,1
+Arthur Weasley,Phineas Nigellus Black,1
+Harry Potter,Rabastan Lestrange,1
+Arthur Weasley,Pius Thicknesse,1
+Harry Potter,Ptolemy,1
+Harry Potter,Prentice,1
+Arthur Weasley,Rita Skeeter,1
+Crookshanks,Luna Lovegood,1
+Arthur Weasley,Ted,1
+Augusta Longbottom,Harry Potter,1
+Augusta Longbottom,Neville Longbottom,1
+Augustus Pye,Nymphadora Tonks,1
+Hassan Mostafa,Vasily Dimitrov,1
+Augustus Rookwood,Bartemius Crouch Senior,1
+Augustus Rookwood,Fabian Prewett,1
+Augustus Rookwood,Fenrir Greyback,1
+Augustus Rookwood,Gideon Prewett,1
+Harry Potter,Ogg,1
+Augustus Rookwood,Igor Karkaroff,1
+Augustus Rookwood,Kingsley Shacklebolt,1
+Augustus Rookwood,Mulciber (Marauder-era),1
+Augustus Rookwood,Narcissa Malfoy,1
+Augustus Rookwood,Neville Longbottom,1
+Augustus Rookwood,Percy Weasley,1
+Augustus Rookwood,Pius Thicknesse,1
+Arthur Weasley,Merlin,1
+Harry Potter,Rosalind Bungs,1
+Harry Potter,Rose Granger-Weasley,1
+Harry Potter,Rose Zeller,1
+Hassan Mostafa,Ludovic Bagman,1
+Hassan Mostafa,Lev Zograf,1
+Arkie Philpott,William Weasley,1
+Armando Dippet,Rita Skeeter,1
+Harry Potter,Wilhelmina Grubbly-Plank,1
+Harry Potter,Wagga Wagga Werewolf,1
+Harry Potter,Vindictus Viridian,1
+Arnold,Fleur Delacour,1
+Arnold,Hermione Granger,1
+Arsenius Jigger,Phyllida Spore,1
+Arthur Weasley,Augustus Rookwood,1
+Arthur Weasley,Bletchley,1
+Arthur Weasley,Corban Yaxley,1
+Arthur Weasley,Dobby,1
+Harry Potter,Snowy,1
+Arthur Weasley,Dolores Umbridge,1
+Arthur Weasley,Elfrida Cragg,1
+Arthur Weasley,Errol,1
+Harry Potter,Sally-Anne Perks,1
+Arthur Weasley,Father Christmas,1
+Harry Potter,Rupert Brookstanton,1
+Arthur Weasley,Fenrir Greyback,1
+Arthur Weasley,Gabrielle Delacour,1
+Arthur Weasley,Godric Gryffindor,1
+Arthur Weasley,Hedwig,1
+Arcturus Black III,Salazar Slytherin,1
+Arcturus Black III,Ronald Weasley,1
+Arcturus Black III,Percy Weasley,1
+Angelina Johnson,Parvati Patil,1
+Ivan Volkov,Lev Zograf,1
+Irma Pince,Katie Bell,1
+Angelina Johnson,Justin Finch-Fletchley,1
+Angelina Johnson,Lucian Bole,1
+Igor Karkaroff,Salazar Slytherin,1
+Angelina Johnson,Miles Bletchley,1
+Igor Karkaroff,Roger Davies,1
+Igor Karkaroff,Rita Skeeter,1
+Igor Karkaroff,Remus Lupin,1
+Igor Karkaroff,Pigwidgeon,1
+Igor Karkaroff,Percy Weasley,1
+Igor Karkaroff,Minerva McGonagall,1
+Angelina Johnson,Peeves,1
+Archie Aymslowe,Hermione Granger,1
+Ignotus Peverell,Tom Riddle,1
+Ignotus Peverell,Ronald Weasley,1
+Angelina Johnson,Poppy Pomfrey,1
+Horace Slughorn,Zacharias Smith,1
+Horace Slughorn,Tiberius Ogden,1
+Horace Slughorn,Terry Boot,1
+Angelina Johnson,Sybill Trelawney,1
+Angelina Johnson,William Weasley,1
+Angus Fleet,Hetty Bayliss,1
+Horace Slughorn,Rufus Scrimgeour,1
+Anthony Goldstein,Daphne Greengrass,1
+Horace Slughorn,Rowena Ravenclaw,1
+Ivan Volkov,Ludovic Bagman,1
+Angelina Johnson,Hope Howell,1
+Ivan Volkov,Troy,1
+Ivan Volkov,Vasily Dimitrov,1
+Jugson,Theodore Nott,1
+Jugson,Rodolphus Lestrange,1
+Jugson,Rabastan Lestrange,1
+John Dawlish,Williamson,1
+John Dawlish,Savage,1
+Angelina Johnson,Barnabas the Barmy,1
+John Dawlish,Proudfoot,1
+John Dawlish,Prime Minister,1
+John Dawlish,Nymphadora Tonks,1
+John Dawlish,Neville Longbottom,1
+John Dawlish,Mungo Bonham,1
+John Dawlish,Kingsley Shacklebolt,1
+Jimmy Peakes,Rolanda Hooch,1
+Jim McGuffin,Vernon Dursley,1
+James Potter II,Salazar Slytherin,1
+James Potter II,Lily J. Potter,1
+James Potter I,Vernon Dursley,1
+Angelina Johnson,Colin Creevey,1
+Angelina Johnson,Dean Thomas,1
+Angelina Johnson,Dennis Creevey,1
+James Potter I,Romilda Vane,1
+Angelina Johnson,Ernest Macmillan,1
+Angelina Johnson,Fleur Delacour,1
+Ivor Dillonsby,Rita Skeeter,1
+Angelina Johnson,Gregory Goyle,1
+Horace Slughorn,Rosmerta,1
+Anthony Goldstein,Draco Malfoy,1
+Horace Slughorn,Romilda Vane,1
+Hermione Granger,Theodore Nott,1
+Antonin Dolohov,Mulciber (Marauder-era),1
+Antonin Dolohov,Nagini,1
+Antonin Dolohov,Rabastan Lestrange,1
+Antonin Dolohov,Rodolphus Lestrange,1
+Antonin Dolohov,Rosier,1
+Hermione Granger,Rupert Brookstanton,1
+Antonin Dolohov,Rubeus Hagrid,1
+Antonin Dolohov,Theodore Nott,1
+Antonin Dolohov,Thorfinn Rowle,1
+Antonin Dolohov,Travers,1
+Hermione Granger,Ritchie Coote,1
+Antonin Dolohov,Vincent Crabbe,1
+Apollyon Pringle,Harry Potter,1
+Apollyon Pringle,Molly Weasley,1
+Hermione Granger,Puddifoot,1
+Arabella Figg,Hermione Granger,1
+Arabella Figg,Sirius Black,1
+Arabella Figg,Tom Riddle,1
+Hermione Granger,Perkins,1
+Hermione Granger,Peregrine Derrick,1
+Aragog,Arthur Weasley,1
+Hermione Granger,Penelope Clearwater,1
+Aragog,Vincent Crabbe,1
+Araminta Meliflua Black,Kreacher,1
+Archie Aymslowe,Harry Potter,1
+Antonin Dolohov,Lee Jordan,1
+Hermione Granger,Thorfinn Rowle,1
+Horace Slughorn,Quirinus Quirrell,1
+Antonin Dolohov,Jugson,1
+Anthony Goldstein,Ginevra Weasley,1
+Horace Slughorn,Peeves,1
+Horace Slughorn,Pansy Parkinson,1
+Horace Slughorn,Odo,1
+Anthony Goldstein,Godric Gryffindor,1
+Horace Slughorn,Narcissa Malfoy,1
+Horace Slughorn,Mundungus Fletcher,1
+Horace Slughorn,Merlin,1
+Horace Slughorn,Marvolo Gaunt,1
+Horace Slughorn,Marietta Edgecombe,1
+Horace Slughorn,Lucius Malfoy,1
+Horace Slughorn,Lily J. Potter,1
+Horace Slughorn,James Potter I,1
+Hope Howell,Zacharias Smith,1
+Hope Howell,Sorting Hat,1
+Hestia Jones,Sturgis Podmore,1
+Hestia Jones,Remus Lupin,1
+Anthony Goldstein,Vincent Crabbe,1
+Antonin Dolohov,Augustus Rookwood,1
+Antonin Dolohov,Avery (Marauder-era),1
+Antonin Dolohov,Bellatrix Lestrange,1
+Antonin Dolohov,Dean Thomas,1
+Antonin Dolohov,Fenrir Greyback,1
+Antonin Dolohov,Filius Flitwick,1
+Antonin Dolohov,George Weasley,1
+Augustus Rookwood,Ronald Weasley,1
+Harry Potter,Mosag,1
+Blast-Ended Skrewt,Rubeus Hagrid,1
+Bellatrix Lestrange,Thorfinn Rowle,1
+Ginevra Weasley,Sorting Hat,1
+Bellatrix Lestrange,Jugson,1
+Ginevra Weasley,Rupert Brookstanton,1
+Bellatrix Lestrange,Mungo Bonham,1
+Bellatrix Lestrange,Quirinus Quirrell,1
+Ginevra Weasley,Rolanda Hooch,1
+Ginevra Weasley,Ritchie Coote,1
+Ginevra Weasley,Puddifoot,1
+Ginevra Weasley,Parvati Patil,1
+Ginevra Weasley,Olympe Maxime,1
+Ginevra Weasley,Olive Hornby,1
+Bellatrix Lestrange,Stanley Shunpike,1
+Bellatrix Lestrange,Vincent Crabbe,1
+Ginevra Weasley,Hugo Granger-Weasley,1
+Bellatrix Lestrange,Will,1
+Bellatrix Lestrange,William Weasley,1
+Ginevra Weasley,Merlin,1
+Ginevra Weasley,Marcus Belby,1
+Benjy Fenwick,Emmeline Vance,1
+Benjy Fenwick,Gideon Prewett,1
+Benjy Fenwick,Remus Lupin,1
+Ginevra Weasley,Kreacher,1
+Bertha Jorkins,Cedric Diggory,1
+Ginevra Weasley,Jimmy Peakes,1
+Ginevra Weasley,Janus Thickey,1
+Ginevra Weasley,James Potter I,1
+Ginevra Weasley,Summerby,1
+Ginevra Weasley,Terry Boot,1
+Bellatrix Lestrange,Garrick Ollivander,1
+Ginevra Weasley,Vaisey,1
+Godric Gryffindor,Olympe Maxime,1
+Bathilda Bagshot,Gornuk,1
+Godric Gryffindor,Nymphadora Tonks,1
+Godric Gryffindor,Natalie McDonald,1
+Godric Gryffindor,Mungo Bonham,1
+Godric Gryffindor,Mrs Norris,1
+Godric Gryffindor,Molly Weasley,1
+Godric Gryffindor,Mary Macdonald,1
+Bathilda Bagshot,Miranda Goshawk,1
+Bathilda Bagshot,Mykew Gregorovitch,1
+Godric Gryffindor,Lucian Bole,1
+Bathilda Bagshot,Nicolas Flamel,1
+Bathilda Bagshot,Nymphadora Tonks,1
+Godric Gryffindor,Kreacher,1
+Bathilda Bagshot,Ted,1
+Beedle the Bard,Kreacher,1
+Beedle the Bard,Tom Riddle,1
+Bellatrix Lestrange,Emmeline Vance,1
+Godric Gryffindor,Golpalott,1
+Godelot,Loxias,1
+Gladys Gudgeon,Harry Potter,1
+Ginevra Weasley,Xenophilius Lovegood,1
+Bellatrix Lestrange,Fleur Delacour,1
+Ginevra Weasley,Will,1
+Ginevra Weasley,Vernon Dursley,1
+Ginevra Weasley,Irma Pince,1
+Bertha Jorkins,Frank Bryce,1
+Aurora Sinistra,Filius Flitwick,1
+Blaise Zabini,Melinda Bobbin,1
+George Weasley,Sybill Trelawney,1
+George Weasley,Sorting Hat,1
+Bilius,Rufus Scrimgeour,1
+Billy Stubbs,Eric Whalley,1
+Billy Stubbs,Martha (disambiguation),1
+Binky,Lavender Brown,1
+George Weasley,Rita Skeeter,1
+Binky,Parvati Patil,1
+Blaise Zabini,Hermione Granger,1
+Blaise Zabini,Marcus Belby,1
+George Weasley,Peeves,1
+George Weasley,Patricia Stimpson,1
+Blaise Zabini,Minerva McGonagall,1
+Bertha Jorkins,Fred Weasley,1
+Blaise Zabini,Percy Weasley,1
+George Weasley,Muriel,1
+George Weasley,Mungo Bonham,1
+Blaise Zabini,Severus Snape,1
+George Weasley,Michael Corner,1
+George Weasley,Malcolm Baddock,1
+George Weasley,Ladislaw Zamojski,1
+George Weasley,Kingsley Shacklebolt,1
+George Weasley,Kenneth Towler,1
+Blast-Ended Skrewt,Ronald Weasley,1
+George Weasley,Jimmy Peakes,1
+George Weasley,Hope Howell,1
+George Weasley,Urg the Unclean,1
+George Weasley,Viktor Krum,1
+George Weasley,Will,1
+Bertram Aubrey,Sirius Black,1
+Ginevra Weasley,Graham Montague,1
+Bertha Jorkins,Rita Skeeter,1
+Bertha Jorkins,Ronald Weasley,1
+Gilderoy Lockhart,Veronica Smethley,1
+Gilderoy Lockhart,Tom Riddle,1
+Gilderoy Lockhart,Terry Boot,1
+Gilderoy Lockhart,Sorting Hat,1
+Gilderoy Lockhart,Remus Lupin,1
+Bertie Bott,Hermione Granger,1
+Gilderoy Lockhart,Petunia Dursley,1
+Gilderoy Lockhart,Percy Weasley,1
+Gilderoy Lockhart,Mungo Bonham,1
+Bertie Bott,Rubeus Hagrid,1
+Gilderoy Lockhart,Miranda Goshawk,1
+Bertie Higgs,Horace Slughorn,1
+Gilderoy Lockhart,Kreacher,1
+Gilderoy Lockhart,Justin Finch-Fletchley,1
+Bertram Aubrey,James Potter I,1
+Gilderoy Lockhart,Gladys Gudgeon,1
+Bertram Aubrey,Severus Snape,1
+Gideon Prewett,Harry Potter,1
+Gibbon,Ronald Weasley,1
+Gibbon,Nymphadora Tonks,1
+Gibbon,Mark Evans,1
+Gibbon,Harry Potter,1
+Godric Gryffindor,Pansy Parkinson,1
+Godric Gryffindor,Peregrine Derrick,1
+Bathilda Bagshot,Father Christmas,1
+Harold Dingle,Hermione Granger,1
+Barnabas Cuffe,Horace Slughorn,1
+Barnabas Deverill,Godelot,1
+Barnabas Deverill,Livius,1
+Harry Potter,Humphrey Belcher,1
+Harry Potter,Hugo Granger-Weasley,1
+Barnabas the Barmy,Katie Bell,1
+Barry Ryan,Connolly,1
+Barry Ryan,Cornelius Fudge,1
+Barry Ryan,Hermione Granger,1
+Barry Ryan,Ladislaw Zamojski,1
+Harper,Ritchie Coote,1
+Harold Dingle,Minerva McGonagall,1
+Hannah Abbott,Sirius Black,1
+Bathilda Bagshot,Enid Smeek,1
+Barry Ryan,Moran,1
+Barry Ryan,Mullet,1
+Barry Ryan,Muriel,1
+Gwenog Jones,Wendelin the Weird,1
+Gwenog Jones,Hermione Granger,1
+Griselda Marchbanks,Tofty,1
+Griselda Marchbanks,Tiberius Ogden,1
+Barry Ryan,Quigley,1
+Griselda Marchbanks,Parvati Patil,1
+Griselda Marchbanks,Mungo Bonham,1
+Barry Ryan,Rosmerta,1
+Barry Ryan,Rubeus Hagrid,1
+Harry Potter,Joey Jenkins,1
+Harry Potter,Karkus,1
+Bandon Banshee,Hermione Granger,1
+Babbitty Rabbity,Ronald Weasley,1
+Harry Potter,Moran,1
+Harry Potter,Miranda Goshawk,1
+Aurora Sinistra,Hermione Granger,1
+Harry Potter,Miles Bletchley,1
+Aurora Sinistra,Ronald Weasley,1
+Aurora Sinistra,Rubeus Hagrid,1
+Avery (Marauder-era),Broderick Bode,1
+Avery (Marauder-era),Corban Yaxley,1
+Harry Potter,Marsh,1
+Harry Potter,Marlene McKinnon,1
+Avery (Marauder-era),Emeric the Evil,1
+Harry Potter,Marjorie Dursley,1
+Avery (Marauder-era),Fenrir Greyback,1
+Avery (Marauder-era),Gregory Goyle,1
+Harry Potter,Malcolm,1
+Avery (Marauder-era),Jugson,1
+Avery (Marauder-era),Lucius Malfoy,1
+Avery (Marauder-era),Ronald Weasley,1
+Avery (Marauder-era),Sirius Black,1
+Avery (Marauder-era),Theodore Nott,1
+Avery (Marauder-era),Tom Riddle,1
+Harry Potter,Lisa Turpin,1
+Avery (Marauder-era),Vincent Crabbe,1
+Harry Potter,Lev Zograf,1
+Avery (Marauder-era),Walden Macnair,1
+Barry Ryan,Severus Snape,1
+Barry Ryan,Sirius Black,1
+Griphook,Severus Snape,1
+Grawp,Zacharias Smith,1
+Bartemius Crouch Senior,Frank Longbottom,1
+Grawp,Olympe Maxime,1
+Grawp,Luna Lovegood,1
+Graham Pritchard,Orla Quirke,1
+Graham Montague,Vincent Crabbe,1
+Bartemius Crouch Senior,Ginevra Weasley,1
+Bartemius Crouch Senior,Godric Gryffindor,1
+Bartemius Crouch Senior,Hedwig,1
+Graham Montague,Lee Jordan,1
+Gornuk,Hermione Granger,1
+Gordon,Piers Polkiss,1
+Gordon,Malcolm,1
+Golpalott,Severus Snape,1
+Bartemius Crouch Senior,Mulciber (Marauder-era),1
+Golgomath,Rubeus Hagrid,1
+Golgomath,Hermione Granger,1
+Bartemius Crouch Senior,Rosmerta,1
+Godric Gryffindor,Will,1
+Godric Gryffindor,Violet,1
+Bartemius Crouch Senior,William Weasley,1
+Baruffio,Bradley,1
+Basil,Fred Weasley,1
+Bathilda Bagshot,Dirk Cresswell,1
+Bathilda Bagshot,Elphias Doge,1
+Bathilda Bagshot,Emeric Switch,1
+Grawp,Vernon Dursley,1
+Gregory Goyle,Gringotts Head Goblin,1
+Griphook,Luna Lovegood,1
+Bartemius Crouch Senior,Fang,1
+Barry Ryan,Troy,1
+Griphook,Helga Hufflepuff,1
+Bartemius Crouch Junior,Bellatrix Lestrange,1
+Gringotts Head Goblin,William Weasley,1
+Bartemius Crouch Junior,Dudley Dursley,1
+Bartemius Crouch Junior,Harry Potter,1
+Gringotts Head Goblin,Nicolas Flamel,1
+Gringotts Head Goblin,Neville Longbottom,1
+Gringotts Head Goblin,Keeper of the reptile house,1
+Gringotts Head Goblin,Griphook,1
+Gregory the Smarmy,Harry Potter,1
+Gregory Goyle,William Weasley,1
+Gregory Goyle,Terry Boot,1
+Bartemius Crouch Junior,Ronald Weasley,1
+Gregory Goyle,Petunia Dursley,1
+Gregory Goyle,Oliver Wood,1
+Bartemius Crouch Senior,Charles Weasley,1
+Gregory Goyle,Molly Weasley,1
+Bartemius Crouch Senior,Dobby,1
+Gregory Goyle,Millicent Bulstrode,1
+Gregory Goyle,Mark Evans,1
+Gregory Goyle,Lucian Bole,1
+Gregory Goyle,Lavender Brown,1
+Gregory Goyle,Katie Bell,1
+Gregory Goyle,Justin Finch-Fletchley,1
+Arthur Weasley,Severus Snape,1
